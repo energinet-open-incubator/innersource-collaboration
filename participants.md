@@ -1,4 +1,4 @@
-| Name 			| Company 		| Role in the project 					| GitHub account (add once joined) 	| 2FA active 	| Other Notes 	|
+| Name 			| Company 		| Role in the project 					| GitHub account (add once joined) 	| 2FA active 	| Skills and Experiences they can offer 	|
 | ---  			| --- 			| --- 							| --- 					| --- 		| ---         	|
 | Laura Nollig		| Energinet 		| Technical/Business, setting up platform 		| lauranolling				| ?		|		|
 | Peter Nelleman	| Energinet/Omnium	| Technical/Business, setting up platform		| naltoc				| ?		|		|
