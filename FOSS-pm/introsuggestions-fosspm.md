@@ -12,18 +12,18 @@ Please extend this with and connect it to pre-existing technical and product man
 In the end, FOSS product management is still product management. 
 It is, however, specialized in certain ways
 - Your final, released FOSS product is open source code. 
-	- To a certain degree a friendly atmosphere with a certain drive and intention towards a shared newcomers can understand is also part of the product. You could call it "the community" around the open source code.
+  - To a certain degree a friendly atmosphere with a certain drive and intention towards a shared newcomers can understand is also part of the product. You could call it "the community" around the open source code.
 - This style of product management is
-	- highly technical. 
-	- decentralized as in decisions are controlled by a "subset" of the community or often take them into account in a more direct interaction.
-	- centered around an often more non-commercial, "public good" oriented set of goals.
-		- The public good usually includes advancement of the goals of the community. Thus, a way to roughly elicit such goals together in the community is needed.  
-		- This does not exclude having separate commercial offerings with classic commercial goals. To be viable, the FOSS offerings need to be valuable and useful on their own, without the classic commercial product to draw attention and collaborative investment from others.
+  - highly technical. 
+  - decentralized as in decisions are controlled by a "subset" of the community or often take them into account in a more direct interaction.
+  - centered around an often more non-commercial, "public good" oriented set of goals.
+   - The public good usually includes advancement of the goals of the community. Thus, a way to roughly elicit such goals together in the community is needed.  
+   - This does not exclude having separate commercial offerings with classic commercial goals. To be viable, the FOSS offerings need to be valuable and useful on their own, without the classic commercial product to draw attention and collaborative investment from others.
 - Your resources are not limited to "your engineering team" but can extend to external partner and contributors. 
-	- Do not see them as external outsourced workers you can control or command as your own engineering team.
-	- You need to find common incentives or ways that fulfil goals and value for external parties while still adding value to your product.
-		- You usually can't control the schedule of execution, especially not in a way like scrum. If you need something done in controlled way like this, you either need hybrid partners or just do it scrum style and add it to the product. 
-			- If you want to do this scrum style but openly, you need Open Source capable developers and product management to prevent embarrasment.
+  - Do not see them as external outsourced workers you can control or command as your own engineering team.
+  - You need to find common incentives or ways that fulfill goals and value for external parties while still adding value to your product.
+   - You usually can't control the schedule of execution, especially not in a way like scrum. If you need something done in controlled way like this, you either need hybrid partners or just do it scrum style and add it to the product. 
+     - If you want to do this scrum style but openly, you need Open Source capable developers and product management to prevent embarrassment.
 
 ## How to work with this.
 This guide lists 9 steps. 
