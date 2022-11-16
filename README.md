@@ -23,3 +23,5 @@ If you can't access something you think you should be able to access please ping
 ## Content
 
 - Once more collab infrastructure is set up, e.g. after [#64](https://github.com/project-origin/origin-collaboration/issues/64) is done, more content will be here.
+
+- A useful issues filter showing everything but the workshop stickies: https://github.com/project-origin/origin-collaboration/issues?q=is%3Aissue+is%3Aopen+-label%3Aworkshop+ (i.e. all labels but the "workshop" label)
