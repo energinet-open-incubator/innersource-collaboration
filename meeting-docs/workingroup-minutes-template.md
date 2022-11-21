@@ -9,10 +9,10 @@ Delete the Do these things to set up this document and its bullet points.
 # Project Origin Working Group Meeting MMMM D, YYYY
 
 ## Roles
-- [Scheduler]: 
+- [Scheduler][Scheduler] : 
 <!-- - Crier:  -->
-- [Facilitator]: 
-- [Scribe]: 
+- [Facilitator] [Facilitator]: 
+- [Scribe] [Scribe]:  
 
 ## Agenda
 
@@ -48,10 +48,10 @@ Delete the Do these things to set up this document and its bullet points.
 
 ## Next Meeting’s Roles
 
-- [Scheduler] : 
+- [Scheduler][Scheduler] : 
 <!-- - Crier:  -->
-- [Facilitator] : 
-- [Scribe] : 
+- [Facilitator] [Facilitator]: 
+- [Scribe] [Scribe]:  
 
 [project board internal]: https://github.com/orgs/project-origin/projects/6/views/2
 
