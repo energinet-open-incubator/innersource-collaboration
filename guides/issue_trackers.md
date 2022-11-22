@@ -2,7 +2,17 @@
 This document provides an [Overview](#overview) on Issues, describing their purpose and layout on Github. Additionally, some [Guidelines](#guidelines) are provided, specifying best practices for using them here in Project Origin.  
 
 ## Overview
-An issue in Github can be created to track progress on a specific task or topic. In this context, the term “issue” should not be interpreted as “problem”, but rather as a “subject that needs attention and action”. Issues can consist of several different attributes, including at least a title, issue number, creation date, and author:
+An issue in Github can be created to track progress on a specific task or topic. In this context, the term “issue” should not be interpreted as “problem”, but rather as a “subject that needs attention and action”. All repositories have a tab, containing all issues created in the given repository:
+
+IMAGE HERE
+
+Alternatively, Issues can be put into costumized Project views, found under the Projects tab:
+
+IMAGE HERE
+
+For more information about Github Projects, take a look at the Projects Guide. 
+
+Issues can consist of several different attributes, including at least a title, issue number, creation date, and author:
 
 IMAGE HERE
 
