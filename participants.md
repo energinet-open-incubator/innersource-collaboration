@@ -6,7 +6,7 @@
 | Thomas Wisbech 	| Energinet/Independent	| Technical						| wisbech				| XTHOW@energinet.dk	| Y	|		|
 | Torben Kaaber  	| Concordium		| Business  (head of commercial at Concordium) 		| ?					| tka@concordium.com?	| ?		|		|
 | Maria Eisner Pelch  	| Concordium		| Business (but has big technical understanding)	| ?					| mep@concordium.com?	| ?		|		|
-| Torben Pryds Pedersen	| Concordium		| Technical (and business? CTO at Concordium)		| ?					| tp@concordium.com	| ?		|		|
+| Torben Pryds Pedersen	| Concordium		| Technical advisor at Concordium)		| tpryds					| tp@concordium.com	| Y		|		|
 | Morten Jokumsen 	| Mjølner Informatics	| Technical 						| guidmaster				| mjo@mjolner.dk	| N		|		|
 | Jacob Damm 		| Mjølner Informatics	| Business 						| ?					| jda@mjolner.dk	| ?		|		|
 | Morten Houborg	| Energinet		| Business 						| MortenHouborg				| MHU@energinet.dk	| Y		|		|
