@@ -27,7 +27,7 @@ As a KANBAN view:
 
 <img src="kanban-view.png" width="90%" align="center" />
 
-Listview:
+As a list view:
 ![issues tab](projects-listview.png)
 
 For more information about Github Projects, take a look at the Projects Guide. 
