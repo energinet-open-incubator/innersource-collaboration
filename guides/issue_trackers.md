@@ -46,7 +46,9 @@ IMAGE HERE
 
 All issues created will be available in a list, under the “Issues” tab. Additionally, issues can be added as items in project boards, available under the “Projects” tab, with the advantage of being able to sort issues by topic, priority, status, and others. 
 
-IMAGES HERE
+![issues tab](issues-list.png)
+
+The issue list allows for precise filtering and mass-processing, e.g. if you want to mass update labels or clean up during a housekeeping session.
 
 To make sure to follow progress on issues relevant to you, you can subscribe to an issue, to get notifications whenever an update happens. 
 
