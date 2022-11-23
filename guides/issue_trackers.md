@@ -25,7 +25,7 @@ Here's how the different project views look:
 
 As a KANBAN view:
 
-<img src="kanban-view.png" width="80%" align="center" />
+<img src="kanban-view.png" width="90%" align="center" />
 
 Listview:
 ![issues tab](projects-listview.png)
