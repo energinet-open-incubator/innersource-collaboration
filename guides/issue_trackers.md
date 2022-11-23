@@ -57,7 +57,6 @@ If there are pull requests in the Github Organization related to the issue, thes
 ![Issue example](link-to-pr.png)
 If an issue is mentioned in a pull request, it will be added as a issue evolution line as visible above.
 
-IMAGE HERE
 
 All issues created will be available in a list, under the “Issues” tab. Additionally, issues can be added as items in project boards, available under the “Projects” tab, with the advantage of being able to sort issues by topic, priority, status, and others. 
 
