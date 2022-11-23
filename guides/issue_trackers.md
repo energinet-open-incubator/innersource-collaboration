@@ -15,6 +15,7 @@ It can be a good idea to bookmark the project view you're using often. All proje
 IMAGE HERE
 
 For more information about Github Projects, take a look at the Projects Guide. 
+GitHub also offers a (slightly longer) overview [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects) 
 
 Issues can consist of several different attributes, including at least a title, issue number, creation date, and author:
 
