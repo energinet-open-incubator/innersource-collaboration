@@ -48,7 +48,7 @@ If you wish to change, add or delete a label, click the gear icon next to it.
 (in the big issue view, click the label in the quick issue view.) 
 As work on the issue progresses, Actions related to the issue will be visible in the issue item:
 
-IMAGE HERE
+![issues tab](issues-biggerindividualview.png)
 
 If there are pull requests in the Github Organization related to the issue, these can be linked to the issue, to track progress on these as well. 
 If an issue is mentioned in a pull request, it will be added as a issue evolution line as visible above.
