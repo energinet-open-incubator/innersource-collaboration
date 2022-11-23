@@ -42,7 +42,7 @@ You can cross-reference all content everywhere by just putting # and the issue n
 If you do, the referenced element will get a link to the referencing element. 
 As an example: If you write _"#90"_ you reference the pull request that initially created this document. 
 The same works for people. 
-You can reference them using @ and their username. @lenucksi or @lauranolling for example.
+You can reference them using @ and their username. For example _@lenucksi_ or _@lauranolling_.
 
 ![issues tab](issues-biggerindividualview.png)
 
