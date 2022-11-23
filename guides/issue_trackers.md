@@ -40,7 +40,7 @@ Issues can consist of several different attributes, including at least a title, 
 ### Mentioning, notifying people and tasks and cross-referencing
 You can cross-reference all content everywhere by just putting # and the issue number in your text. 
 If you do, the referenced element will get a link to the referencing element. 
-As example: #90 references the pull request that initially created this document. 
+As an example: If you write _"#90"_ you reference the pull request that initially created this document. 
 The same works for people. 
 You can reference them using @ and their username. @lenucksi or @lauranolling for example.
 
