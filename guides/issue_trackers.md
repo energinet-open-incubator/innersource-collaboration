@@ -17,7 +17,11 @@ For more information about Github Projects, take a look at the Projects Guide.
 
 Issues can consist of several different attributes, including at least a title, issue number, creation date, and author:
 
-IMAGE HERE
+![issues tab](issues-biggerindividualview.png)
+
+The project views also offer you a (slightly feature reduced) way of viewing an issue if you click on an issues' title. 
+See below for how it looks.
+![issues tab](projects-list-inline-issueview.png)
 
 Additional attributes that are useful are 'labels', which can help indicate the type of issue, and assignees, who are the ones responsible for ensuring progress on the issue. As work on the issue progresses, Actions related to the issue will be visible in the issue item:
 
