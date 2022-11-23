@@ -59,4 +59,4 @@ Also, if you are mentioned in an issue or have created it, you will be automatic
 
 ## Guidelines
 
-To use issues in Project Origin, we have set up some guidelines, to make sure that all the rele-vant information will be included, and that it is easier to find the issues to people for whom it is relevant. s 
+To use issues in Project Origin, we have set up some guidelines, to make sure that all the relevant information will be included, and that it is easier to find the issues to people for whom it is relevant.
