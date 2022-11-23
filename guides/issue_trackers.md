@@ -9,6 +9,9 @@ All repositories have a tab, containing all issues created in the given reposito
 ![issues tab](issues.png)
 
 Alternatively, Issues can be put into customized Project views, a list of which is found under the Projects tab:
+
+![issues tab](projects.png)
+
 It can be a good idea to bookmark the project view you're using often. All projects have stable links.
 
 ![issues tab](projects.png)
