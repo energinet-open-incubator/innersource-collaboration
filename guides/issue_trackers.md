@@ -3,7 +3,7 @@ This document provides an [Overview](#overview) on Issues, describing their purp
 
 ## Overview
 An issue in Github can be created to track progress on a specific task or topic. 
-In this context, the term _“issue” should not be interpreted as “problem”, but rather as a “subject that needs attention and action”_. 
+In this context, the term _“issue”_ should not be interpreted as “problem”, but rather as a _“subject that needs attention and action”_. 
 All repositories have a tab, containing all issues created in the given repository:
 
 ![issues tab](issues.png)
