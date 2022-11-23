@@ -51,6 +51,7 @@ As work on the issue progresses, Actions related to the issue will be visible in
 IMAGE HERE
 
 If there are pull requests in the Github Organization related to the issue, these can be linked to the issue, to track progress on these as well. 
+If an issue is mentioned in a pull request, it will be added as a issue evolution line as visible above.
 
 IMAGE HERE
 
