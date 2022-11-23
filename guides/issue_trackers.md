@@ -68,7 +68,7 @@ To make sure to follow progress on issues relevant to you, you can subscribe to 
 
 ![issues tab](issues-individualview.png)
 
-Also, if you are mentioned in an issue or have created it, you will be automatically notified.
+If you are mentioned in an issue or have created it, you will be automatically notified.
 
 
 ## Guidelines
