@@ -28,7 +28,8 @@ As a KANBAN view:
 <img src="kanban-view.png" width="90%" align="center" />
 
 As a list view:
-![issues tab](projects-listview.png)
+
+<img src="list-view.png" width="90%" />
 
 For more information about Github Projects, take a look at the Projects Guide. 
 GitHub also offers a (slightly longer) overview [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects) 
