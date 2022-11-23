@@ -38,7 +38,6 @@ Issues can consist of several different attributes, including at least a title, 
 <img src="issue-example.png" width="90%"/>
 
 ### Mentioning, notifying people and tasks and cross-referencing
-Each issue, pull request (request for changes to the file share) has a number visible above. 
 You can cross-reference all content everywhere by just putting # and the issue number in your text. 
 If you do, the referenced element will get a link to the referencing element. 
 As example: #90 references the pull request that initially created this document. 
