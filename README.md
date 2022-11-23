@@ -7,7 +7,7 @@ Below, you will find some information we have provided to make it easier for you
 If this is your first time participating in a project on Github, we will recommend you to begin with the [Introductory Guides](#introductory-guides). If you have experience with Github and just want to know the guidelines for contributing in this collaboration, you can skip directly to the [Contribution Guidelines](#contribution-guidelines). 
 
 ## Introductory Guides
-- A guide on using Issues and issue trackers: 
+- [A guide on using Issues and issue trackers](guides/issue_trackers.md) 
 - A guide on using the Projects views:
 - A small introductory document on FOSS product management: https://github.com/project-origin/origin-collaboration/blob/main/FOSS-pm/introsuggestions-fosspm.md
 - A matching (and growing) small document on some indicators of FOSS success: https://github.com/project-origin/origin-collaboration/blob/main/FOSS-pm/FOSS-common-success-criteria.md 
