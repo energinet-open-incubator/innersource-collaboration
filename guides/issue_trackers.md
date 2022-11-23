@@ -31,7 +31,6 @@ As a list view:
 
 <img src="list-view.png" width="90%" />
 
-For more information about Github Projects, take a look at the Projects Guide. 
 GitHub also offers a (slightly longer) overview [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects) 
 
 Issues can consist of several different attributes, including at least a title, issue number, creation date, and author.
