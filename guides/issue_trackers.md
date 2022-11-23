@@ -12,7 +12,18 @@ All repositories have a tab, containing all issues created in the given reposito
 Alternatively, Issues can be put into customized Project views, a list of which is found under the Projects tab:
 It can be a good idea to bookmark the project view you're using often. All projects have stable links.
 
-IMAGE HERE
+![issues tab](projects.png)
+
+Projects can be viewed either Kanban (see also: Trello) style or as a list.
+Both use the same **issues** as content.
+Project boards can have **draft issues** that are local to the project board and have very little features. 
+There's a button in the _draft_ issue to convert them to a "real" issue.
+
+Here's how the different projects view look:
+Kanban:
+![issues tab](projects-kanbanview.png)
+Listview:
+![issues tab](projects-listview.png)
 
 For more information about Github Projects, take a look at the Projects Guide. 
 GitHub also offers a (slightly longer) overview [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects) 
