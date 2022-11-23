@@ -43,7 +43,10 @@ The project views also offer you a (slightly feature reduced) way of viewing an 
 See below for how it looks.
 ![issues tab](projects-list-inline-issueview.png)
 
-Additional attributes that are useful are 'labels', which can help indicate the type of issue, and assignees, who are the ones responsible for ensuring progress on the issue. As work on the issue progresses, Actions related to the issue will be visible in the issue item:
+Additional attributes that are useful are 'labels', which can help indicate the type of issue, and assignees, who are the ones responsible for ensuring progress on the issue.
+If you wish to change, add or delete a label, click the gear icon next to it. 
+(in the big issue view, click the label in the quick issue view.) 
+As work on the issue progresses, Actions related to the issue will be visible in the issue item:
 
 IMAGE HERE
 
