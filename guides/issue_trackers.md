@@ -23,7 +23,7 @@ There's a button in the _draft_ issue to convert them to a "real" issue.
 Here's how the different project views look:
 
 As a KANBAN view:
-![issues tab](projects-kanbanview.png)
+![KANBAN view]<img src="kanban-view.png" width="75" />
 Listview:
 ![issues tab](projects-listview.png)
 
