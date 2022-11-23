@@ -7,7 +7,7 @@ In this context, the term _“issue”_ should not be interpreted as “problem�
 All repositories have a tab, containing all issues created in the given repository:
 
 
-<img align="center" src="issues.png" width="80%"/>
+![Issues tab](issues.png)
 
 Alternatively, Issues can be put into customized Project views, a list of which is found under the Projects tab:
 
