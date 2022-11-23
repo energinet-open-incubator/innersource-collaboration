@@ -14,7 +14,6 @@ Alternatively, Issues can be put into customized Project views, a list of which 
 
 It can be a good idea to bookmark the project view you're using often. All projects have stable links.
 
-![issues tab](projects.png)
 
 Projects can be viewed either Kanban (see also: Trello) style or as a list.
 Both use the same **issues** as content.
