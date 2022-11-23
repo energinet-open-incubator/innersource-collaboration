@@ -52,7 +52,9 @@ The issue list allows for precise filtering and mass-processing, e.g. if you wan
 
 To make sure to follow progress on issues relevant to you, you can subscribe to an issue, to get notifications whenever an update happens. 
 
-IMAGE HERE
+![issues tab](issues-individualview.png)
+
+Also, if you are mentioned in an issue or have created it, you will be automatically notified.
 
 
 ## Guidelines
