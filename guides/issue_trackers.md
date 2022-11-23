@@ -27,7 +27,7 @@ If you wish to change, add or delete a label, click on the gear icon next to it 
 
 As work on the issue progresses, Actions related to the issue will be visible in the issue item:
 
-![issues tab](issues-biggerindividualview.png)
+<img src="issues-biggerindividualview.png" width="75%"/>
 
 If there are pull requests in the Github Organization related to the issue, these can be linked to the issue, to track progress on these as well:
 
@@ -35,17 +35,17 @@ If there are pull requests in the Github Organization related to the issue, thes
 
 To make sure to follow progress on issues relevant to you, you can subscribe to an issue, to get notifications whenever an update happens. 
 
-![Subscribe to notifications](subscribe.png)
+<img src="subscribe.png" width="30%"/>!
 
 If you are mentioned in an issue or have created it, you will be automatically notified.
 
 ## Mentioning, notifying people and tasks, and cross-referencing
-You can cross-reference all content everywhere by just putting # and the issue number in your text. 
+You can cross-reference all content everywhere by just putting # and the issue number or pull request number in your text. 
 If you do, the referenced element will get a link to the referencing element. 
 As an example: If you write _"#90"_ you reference the pull request that initially created this document. 
 
 <img src="tagging-pr.png" width="70%"/>
-
+ 
 The same works for people. 
 You can reference them using @ and their username. For example _@lenucksi_ or _@lauranolling_.
 
