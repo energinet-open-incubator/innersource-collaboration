@@ -581,27 +581,49 @@ What is the contribution of Open Source for us?
 - This can then be re-used throughout various parties without extensive contract negotiations beforehand.
 - This also allows third parties to take up work that has been abandoned by others but is considered to still contain value.
 - Direct and detailed visibility of work approach, work results and ability to interact with those involved allows to build trust through review in what is created. This can be especially valuable for public bodies.
-  - Corollary: It also is very (longtime) effective in nuking any trust that might have existed beforehand if done wrong. :popcorn:   
+  - Corollary: It also is very (longtime) effective in nuking any trust that might have existed beforehand if done wrong. :popcorn:  
+    - Often, if something published is morally debatable or connected to a politically controversial topic, this raises the likelihood of the negative outcome. 
+    - Another approach raising the likelihood of the negative outcome is cutting corners and disrespecting other people's work. Reasonable approach to approach this: Be diligent, work proper and give credit where credit is due.
+    - Corollary to the corollary: Haters gonna hate. Be prepared for some backlash but see if there's any merit and address it with reason. If there's no merit, there's no merit. Still try to be reasonable.  
 
 ## Public Money, Public Code: Doing FOSS as a public body
 
-Here, the [legal analysis document][] is a strongly recommended read.
+Here, the [legal analysis document][] is a strongly recommended read as well as the [Energinet regulatory legal memo]().
 
-Special TSO role
+As a publicly owned TSO that runs on public money, we are bound to additional special rules.
 
-Müssen wir Geld machen? Nein. -> Möglichen Ärger reduzieren, ggf. dafür sorgen dass ein öffentliches Gut ein öffentliches Gut bleibt
+Those rules could from concerns of critical infrastructure operation (NIS2 derivatives) or strict regulations on the use of public money or non-competition regulations as public body.     
 
-Gucken wie man vielen eigenen Steuerzahlern (Unternehmen) ermöglichen kann das Gut gleichzeitig und möglichst gleichmäßig zu bewirtschaften und es für alle Zahler des Staates (Bürger) besser zu machen. (Fairer Wettbewerb) Idealerweise dafür sorgen dass das gemeinsame Gut nicht von einzelnen vereinnahmt / monopolisiert wird.
+We have to interprete the regulations and rules here and for all product informing their strategy, see the [Energinet regulatory legal memo]() for non-competition rules. 
 
-Kann ggf. zu GPL oder ähnlichen Dingen führen.
+A possible interpretation could be to argue that Energinet is limited to providing and maintaining a public good that others (e.g. Danish companies such as Mjølner et al) could offer services around. 
+
+In such a case it could be reasonable to take measures to ensure that the public good remains a public good and improvements by others are brought back to it. This could (but does not have to) lead to restrictive licenses for certain parts of FOSS packages published by us.
+
+Rules coming from the IT security and NIS2 side could lead a need for special reviews of contributions or general regular reviews/audits or additional tooling to ensure quality and safety of the created product. This might also be a an source of liabilities we have against others.
+
+The source/service separation is to be made here again: FOSS source code published by us and modified by others through contributions is inert and can not harm our critical infrastructure. Only when deployed and introduced to the critical parts of our infrastructure damage can occur. Thus upon passing this boundary additional checks need to be in place. This is an Operations and IT security topic though that is not addressed here.
+
+- Corollary: If another TSO chooses to use deploy our published FOSS package it is their responsibility to ensure that it fits their critical infrastructure security checks.
+
+- [] TODO: Add interpretation and links of boundaries of the  Energinet memo here and clear them with legal
+- [] TODO: Add pointers to rules arising from NIS derivatives etc.
 
 ## Private Money, Public Code: Doing FOSS as a private entity
 
-Grenzen - Das ist nicht unser Problem als public body.
+Not all TSOs (or other corporations) act as public bodies. Thus they may have to earn money with open source (e.g. to satisfy profit expectations of their shareholders).
 
-Unser Problem hier kann nur für gezielte Adoptionssteigerung sein einen relevanten Teil interessant und adaptierbar genug zu machen.
+This can lead to desires of monetizing Open Source in various ways. See the strategy guide and the SFOSC models for information on what interests and approaches might be interesting for them.
 
-Die müssen dann Geld verdienen - z.b. mit Hosting zentraler Instanzen von Diensten auf denen sie irgendwas hosten, consulting darauf, es ihnen ermöglicht was anderes einfacher zu machen womit sie dort durchsatz erhöhen können, open core irgendwas usw. Again: Not our problem. 
+As a public body we likely do not need to monetize FOSS. 
+
+To further interest in adoption of the public good we create, we might want to enable certain aspects of monetization in what we publish. This can be done by strategically selected governance decisions and matching use of FOSS licenses as well as matching boundary definitions of the FOSS packages and products.
+
+In any case, this is an individual discussion that should be discussed individually. 
+
+A common monetization would be to enable multiple parties to offer implementation consulting or operation assurance around our packages. However, they then have to build then necessary knowledge and ability to support and provide assurance. We can make our FOSS packages a friendly and cooperative place to collaborate and think about who decides about the roadmap/acceptance of patches (see above for considerations of who can become a trusted committer) but not much more.
+
+Other options could be - depending on the architecture - to enable other companies to host our FOSS packages, as central instance or decentral instances offering certain services to others in exchange for compensation. Analog example: We develop an email protocol and server application, other operation of the software following this standard for money - think Gmail, United Internet, ... 
 
 ## FOSS strategy: Making money by giving things away.
 
