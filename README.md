@@ -14,6 +14,7 @@ If this is your first time participating in a project on Github, we will recomme
 
 ## Contribution Guidelines
 - If you find that something is missing that could be useful to include, we will encourage you to make a suggestion, by [Creating an Issue](https://github.com/project-origin/origin-collaboration/issues/new/choose).
+ - If you find that there are too many isuses, try the [project board view]() or [filter them to exclude workshop items](https://github.com/project-origin/origin-collaboration/issues?q=is%3Aissue+is%3Aopen+-label%3Aworkshop+) or [filter them to show only ones that need help now](https://github.com/project-origin/origin-collaboration/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+) 
 - If you encounter an error, want to start a vote or discussion, want to post an announcement, or have an idea for something, you should start a discussion in the [Discussion Forum](https://github.com/project-origin/origin-collaboration/discussions) in the channel you deem most relevant for your input.  
 - If you need help with something, that you cannot find information about anywhere, you can ask a question in the [Frequently Asked Questions](https://github.com/project-origin/origin-collaboration/discussions/10)(https://github.com/project-origin/origin-collaboration/discussions/65).
 - If you can't access something you think you should be able to access please reach out to @lauranolling, or write an e-mail to lau@energinet.dk. 
