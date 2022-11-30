@@ -19,7 +19,7 @@ If this is your first time participating in a project on Github, we will recomme
 - If you need help with something, that you cannot find information about anywhere, you can ask a question in the [Frequently Asked Questions](https://github.com/project-origin/origin-collaboration/discussions/10)(https://github.com/project-origin/origin-collaboration/discussions/65).
 - If you can't access something you think you should be able to access please reach out to @lauranolling, or write an e-mail to lau@energinet.dk. 
 
-### Documents
+### Participants Overview
 - The list of the participants of this collaboration with their skills. Feel free to edit your info there: https://github.com/project-origin/origin-collaboration/blob/main/participants.md
 
 ### Boards
