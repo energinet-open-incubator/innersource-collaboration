@@ -11,17 +11,18 @@ It also serves to provide a **common terminology** and level up people without a
 
 This document is separated into individual files based on the individual chapters. Click the links between the chapters to move.
 
-The [**first section "Common Terms"**](02-FOSS-Terms-Intro-Common-Terms.md) a high-level intuition and **definition of important technical terms** in a least technical explanation. 
-These terms are **required to understand and act upon the later sections**.
+The [**first section "Common Terms"**](02-FOSS-Terms-Intro-Common-Terms.md) provides a high-level intuition and **definition of important technical terms** in a least technical explanation. 
 
-The **[second section "3 Modes of Open Source"](03-FOSS-Terms-Intro-3modes-of-FOSS.md)** defines the most **common modes of Engagement** seen in Open Source. It provides definition and intuition about open source domain specific terms.
-These terms are **required to understand and act upon the later sections**.
+The **[second section "3 Modes of Open Source"](03-FOSS-Terms-Intro-3modes-of-FOSS.md)** defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.
 
-The [**third section "FOSS licenses"**](04-FOSS-Terms-Intro-FOSS-licenses.md) defines **common use and expectations towards "Open Source licenses" and what areas they govern and which not**.
-It also briefly discusses common aspects that are not covered by "FOSS licenses" but are regarded belonging to "FOSS governance".
+The [**third section "FOSS licenses"**](04-FOSS-Terms-Intro-FOSS-licenses.md) defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**.
+It also briefly discusses some common aspects that are not covered by "FOSS licenses" but related to "FOSS governance".
+
+**FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use.
+**FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. 
 It builds upon the previously defined terms.
 
-The [**fourth section "Responsibilities and Expectations"**](05-FOSS-Terms-Intro-responsibilities-and-expectations.md) builds upon the previous sections to **define actionable items** and suggests possible priorization to enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.
+The [**fourth section "Responsibilities and Expectations"**](05-FOSS-Terms-Intro-responsibilities-and-expectations.md) builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.
 It also sets expectations what to expect from Open Source in the narrower sense and what not.
 
 The [**fifth section addresses**](06-FOSS-Terms-Intro-public-sector-specialties.md) - as much as they're known - possible **specialties arising from the public sector and TSO environment**. 
@@ -40,7 +41,8 @@ For a software engineer this likely is everything until "3 modes of Open Source"
 
 Important terms in the pre-requisite terms section are marked, hyperlinked and re-used in later sections.
 
-Usage of the "Responsibilities and Expectations" section requires domain and technical term knowledge - be it from the document or own expertise. Binding definitions are in the document.
+Usage of the "Responsibilities and Expectations" section requires domain and technical term knowledge. 
+The terms used in the section "Responsibilities and Expectations" are defined in the sections one and two of this document. 
 
 Should you have questions, proposals for extension or clarification, please provide a pull request, file an issue or add a comment so your input can be addressed and its solution can be present to serve future readers. 
 

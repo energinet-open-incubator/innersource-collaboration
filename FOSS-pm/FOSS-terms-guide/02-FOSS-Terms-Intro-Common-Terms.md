@@ -1,6 +1,6 @@
 # Common Terms
 
-Open Source is a **combination of** a cooperative/network-oriented **business strategy/tactics with specific work methods** and approaches.
+Open Source encompasses a **combination of** a cooperative/network-oriented **business strategy/tactics with specific work methods** and approaches.
 
 It is **realized through** uncommon application of (mostly) **intellectual property law** legislation and means of **technical automation**.
 
@@ -14,9 +14,9 @@ Additionally context is provided by acknowledging the historical context explain
 
 ## Historical and political background shaping visible phenomena, goals and  expectations
 
-It has been created in a political environment strongly highlighting a non-commercial, liberal and self-sovereign agenda. 
+Open source has been created in a political environment strongly highlighting a non-commercial, liberal and self-sovereign agenda. 
 
-Today, open source is a strongly commercially used approach. It represents the bedrock of all software engineering today. Even Microsoft strongly participates in non-Microsoft Open Source Software and is very active in publishing their own Open Source Software.
+Today, open source has become a strongly commercially used approach as well. It represents the bedrock of all software engineering today. Even Microsoft strongly participates in non-Microsoft Open Source Software and is very active in publishing their own Open Source Software.
 
 All trade practices, accepted rules, expectations and stewardship of the underlying legal tools is done through independent non-profit bodies largely running on the same agenda mentioned above. 
 
@@ -25,10 +25,10 @@ Resupply of the pool of new talent with Open Source skills is to a large degree 
 ### Open Source, FOSS, FLOSS
 **Open Source Software** is often referred to as **OSS**.
 OSS where the authors want to highlight the mentioned political background is called **"Free and Open Source Software" FOSS**.
-OSS where the authors don't feel that FOSS doesn't not sufficiently highlight the political background is called FLOSS. 
-In the end, all of it is Open Source Software as illustrated below, just with differently strict expectations on how corporate involvement is supposed to look like and what behaviors such software may show.
+OSS where the authors don't feel that FOSS sufficiently highlights the political background is called FLOSS. 
+In the end, all of it is Open Source Software as illustrated below. They only differ in their strict expectations on how corporate involvement is supposed to look like and the behaviors around such software.
 
-This guide generally uses **FOSS to refer to software and Open Source to the approach to work**. 
+This guide generally uses **FOSS** to refer to software and **Open Source** to the approach to work. 
 
 ## Basic technical terms: Source Code, Compilation, Binary Files, Deployment
 
@@ -38,7 +38,7 @@ In other words: The way from the idea of Word to Word open on your laptop. It st
 
 ### Source Code or "Code"
 
-- **Plain text files** containing programming language text in a **strictly human readable format**. 
+This term refers to plain text files containing programming language text in a strictly human readable format. 
   - These files can be **compared to "Blue prints"** for mechanical engineering.
 
 - Common "languages" are C#, Java, Javascript, Python, C, Go etc.
@@ -50,8 +50,8 @@ In other words: The way from the idea of Word to Word open on your laptop. It st
 ### Binary files or "binary", "binary code", "executable"
 
 - **Non human readable files** that contain data that can be read and used by a computer. 
-  - A computer loads&executes those enabling the computer to run Word.exe, Google.com, a thermostat, a car, an app, etc.
-  - Usually, binary files can only be used by the specific computer architecture they were meant for. A computer architecture is comparable to a Diesel, Electrical or Gasoline car. Most common names are x86 (Laptops) and ARM (Smartphones, Macs)
+  - A computer loads and executes the binaries, thus enabling the computer to run Word.exe, Google.com, a thermostat, a car, an app, etc.
+  - Usually, binary files can only be used by the specific computer architecture they were meant for. A computer architecture is a specific design of the electrical computer system inside the computer, comparable to the difference between a motor that runs on diesel, gasoline or is electrical. Examples of different computer architectures are x86 (Laptops) and ARM (Smartphones, Macs).
 
 - A normal user has no interest in source code and does not see the source code but only the binary code upon executing the program of their choice.
 - It could be argued that a modern website also is mostly binary code due to the excessive amount of interactive features included in modern websites.
@@ -60,12 +60,10 @@ In other words: The way from the idea of Word to Word open on your laptop. It st
 
 - A **process that transforms source code text files into one or more binary files**. 
 
-- An important difference from transforming a substation blue print into a substation: 
-  - Compilation happens once per computer architecture and can then be copied to thousands of computers. 
-  - However, compilation is required every time the source code has changed. 
+Compilation is required every time the source code has changed, to apply the changes made.
     - (Thus: A new deployment is required to put changes in the source code in production, see below.) 
 
-- With **source code the "executing/building a blue print" equivalent is called "compilation"**. 
+With source code the "executing/building of the functionalities" written in the source code, is called compilation. 
   - The program used for compilation is called a **"Compiler"**.
   - The compiler **translates and combines all required source code (text) files** **to** **"build"** the program, i.e. **transform it into binary format**.
   - The **result may be one more or binary files**. Sometimes, multiple binary files are combined into one, sometimes multiple binary files are the final result.
