@@ -1,15 +1,32 @@
-## "FOSS Licenses": Legal (intellectual property law) as a technical tool
+# "FOSS Licenses": Law (intellectual property law) as a technical tool
 
-Here, the [legal analysis document][] is a strongly recommended read.
+As explained in [chapter two: 3 modes of FOSS](03-FOSS-Terms-Intro-3modes-of-FOSS.md) a FOSS package has a FOSS license put on it. 
 
-### Basic effects and practices: 
+These are standardized English language license texts written by engineers and (some) improved by intellectual property lawyers. In nearly all cases they have been written with the US jurisdiction in mind. Many of them have been written in the 1990s or early 2000s. 
+
+They do not state any selection of court of legal system. There is no negotiation around them, it's accept or refrain from usage.
+
+License texts approved by the [Open Source Initiative (OSI)]() are considered Open Source today. 
+
+While anyone can draft such a license, 90% of FOSS packages use OSI approved FOSS licenses. There is a minority of crazy cases. 
+
+All of these licenses try to exert a maximum liability limitation and enable at least the [four freedoms]().
+
+See the [legal analysis document][] for a short review.
+
+This chapter has two sections: 
+
+- Effects that arise from **FOSS licenses**. And what is commonly expected to be covered by them. 
+- Effects that are not covered by FOSS licenses and common ways of regulating them. This part is called **FOSS Governance**.
+
+## Basic effects and practices: 
 
 - Entities publishing code do so for various reasons and with various expectations. These range from strong commercial motivations to increasing ones reputation to just risk free learning a technical subject in a hands-on way, etc.
 - They hope to be able to enforce some of these motivations legally. 
 - Other expectations are covered by implicit social code, explicit requests to people and sometimes ...raising shit storms on perceived violations against the perceived violators. This section only aims to cover legal aspects.
 - As seen in the [supply chain]() section 100s of packages are part of any application or package. Also, the authors are engineers and thus not legally educated or interested. Due to the counter parties not being known highly standardized licenses (not contracts according to the legal analysis document) are used.
   - Those standard licenses are certified by the OSI. They are not changed or negotiated in use.
-  - They are commonly classified into permissive (MIT, Apache2), restrictive (GPL, MPL, ...) and arguably "crazy" (WTFPL).
+  - They are commonly classified into **permissive** (MIT, Apache2), **restrictive** (GPL, MPL, ...) and arguably *"crazy"* (WTFPL).
     - permissive intends to ensure reputation of the source code's authors
     - restrictive intends to ensure continued evolution of the source code by ensuring modifications/improvements are not kept by the modifying parties. Also, it tries to ensure reputation. 
     - Crazy: Engineers were fed up by legalese and drafted contracts to mock the concept of contracts.
@@ -24,9 +41,9 @@ Often, the conditions depend on technicalities, thus technical interpretation an
 
 There are some books on this for German and English interpretations for common scenarios, I know of none for the Danish system. The legal analysis document provides a hint to two books for Denmark.  
 
-### Sources of legal impact from the licenses
+## Sources of legal impact from the licenses
 
-#### Liability
+### Liability
 Upon publishing of source code we will apply a FOSS license. 
 It is the nature of software (and of course everything else that contains software), especially software that can be accessed in an unfinished state, that it will contain lots of defects and may lead to ugly losses and damages if people deploy it. 
 We need to know how to best limit our liability using the FOSS licenses and appropriate marking of source code to ensure the licenses we choose to apply are as effective possible towards our goals.
@@ -35,7 +52,7 @@ The same goes for outgoing contributions - the patches we provide could lead to 
 We can not apply or choose a FOSS license of our choice upon outgoing contributions. 
 We need to know how our liability upon contribution looks like and how we can best limit it. (Or from which actions to refrain as the liability can not be limited enough.)
 
-#### Warranty
+### Warranty
 We consume code, are subject to losses or damage due to a bug in the package we consume.
 Can we claim damages against the authors? Two cases come up:
 
@@ -44,7 +61,7 @@ Can we claim damages against the authors? Two cases come up:
 
 This effectively is the inverse of the Liability situation illustrated above.
 
-#### Legal use of open source packages
+### Legal use of open source packages
 
 As illustrated above, the FOSS licenses are conditional. 
 
@@ -75,7 +92,7 @@ This process is called FOSS compliance.
 
 We will need to address this based on a legal risk estimation based on legal reality and current legislation around intellectual property law in Denmark as this the evolution towards here is usually an ongoing process.
 
-#### Software patents and trademarks
+### Software patents and trademarks
 Some software implemented innovations can be patented. According to the [legal analysis document]() Denmark does not do software patents but the exist in reality nevertheless.
 
 Some licenses have certain aspects of patent protection or terminate on patents claims. 
@@ -84,7 +101,7 @@ An evaluation of the risks and chances here, especially given novel and innovati
 The same goes with foreign trademarks or trademarked material embedded by us. We need to either remove any such material to prevent abuse or atain knowledge around boundaries here.
 Some licenses contain certain trademark provisions. If used, evaluating their effects under Danish law would be interesting. (ASF 2?)
 
-#### IP ownership, coherent IP ownership (DCO, CLA, CAA)
+### IP ownership, coherent IP ownership (DCO, CLA, CAA)
 
 We saw that a OSS package is a work of multiple authors from multiple entities. They will have multiple goals, goals that might evolve to be mutually exclusive or hard to combine.
 
@@ -107,7 +124,7 @@ Usually, FOSS packages requiring a CLA or even CAA see significant a drop in con
 Depending on the desired outcome, it might make sense to use such a contract.
 
 
-### What to expect from a license and what not - FOSS Governance
+## What to expect from a license and what not - FOSS Governance
 
 Based on their nature what can be achieved with FOSS licenses is rather limited. As the [legal analysis document]() states, FOSS licenses are licenses, not contracts under Danish law.
 
@@ -117,7 +134,7 @@ Additionally, since the text of the existing OSI accepted FOSS licenses may not 
 
 This field is what's known as FOSS governance. 
 
-#### What you can't prevent
+### What you can't prevent
 
 Something that crucially part of Open Source is the ability for people to take your work, duplicate it entirely and try to start a new community from it. This is called "forking". 
 Here's when this happens:
@@ -130,9 +147,9 @@ If you choose a permissive license:
 
 In general, diplomacy and awareness and understanding of "competitors" is a valuable skill to deal with these effects before they turn sour. Sometimes it can't be prevented, so keep that in mind before to have the required aces up your sleeve to prevent commercial damage. Aces could be non-publication of certain aspects of a product, choice of license, use of CLA for certain parts, etc.  
 
-#### What common FOSS governance questions are
+### What common FOSS governance questions are
 
-##### "Running the show" or getting write access.
+#### "Running the show" or getting write access.
 Open Source actively asks for contributions and work across corporate boundaries. 
 Thus, a common question is what happens if a party external to the original publisher contributes so much and with such a high quality or show very high engagement that one could consider that "they run the show" (with the original publisher). 
 
@@ -140,7 +157,7 @@ This is considered the funnel from user to contributor to trusted committer or m
 
 With write access they can decide what source code contributions get added to the source code and what don't. They will have to justify that decision with the people making these contributions or else risk loss of contributors or even users. 
 
-##### Product development, roadmap - having a say on the future.
+#### Product development, roadmap - having a say on the future.
 
 A trusted committer or maintainer is a mix of product manager/owner, technical lead,  engineering manager and general cat herder or secretary.
 As mentioned they accept or deny contributions. Also they bring the package forward in general. This is especially important if there's additional developers in the same company as the trusted committer. Having a roadmap or definition of the future, e.g. a vision and some principles facilitates such decisions and explanation of them to others greatly.
@@ -160,7 +177,7 @@ The SFOSC offers some pre-packaged, "standardized" examples of how such governan
 
 Any governance can evolve over time. Thus, if there are multiple trusted committers involved having a way to agreeably enable such an evolution is important.
 
-##### Technical tools for product choices
+#### Technical tools for product choices
 This deals with strategically using certain FOSS license features hoping to achieve certain effects.
 All of the below is strictly not legal advice but "FOSS license folklore", may not work under Danish law and should be closely discussed with specialized legal counsel to evaluate if they actually work in the desired way. 
 
@@ -179,7 +196,7 @@ You want to enable maximum adoption without any care of what happens to what you
 If your legal system provides this: Public domain. You negate even that you created this, you don't want attribution, it's just out there. Use at your own risk. 
 
 
-### FOSS licenses work on code, Creative Common work on data.
+## FOSS licenses work on code, Creative Common work on data.
 
 What you can do with source code, you can do with data.
 Data might be other text (like this one here), images, raw material for images (e.g. design templates), or raw data such as a energy system forecasting data (e.g. to train AIs with it).
@@ -193,5 +210,3 @@ Common variations are (abbreviated according to the website, see the full licens
 - Do you want to prevent commercial use: NC attribute
 - Do you want to enforce changes being published under the same license: SA attribute
 - Attribution is always required with the following attribute: BY
-
-
