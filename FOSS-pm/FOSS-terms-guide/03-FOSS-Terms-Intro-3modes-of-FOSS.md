@@ -56,7 +56,7 @@ Any **cross-entity collaboration is called *participation*** and the **changes t
 ### Participating in other people's projects (Outgoing contributions)
 
 When we consume code, the following journey to a contribution can happen:
-- find ***bugs*** (technical reasons for malfunctions in the program) while doing so, 
+- We find ***bugs*** (technical reasons for malfunctions in the program) while doing so, 
 - fix them (change a few lines of text) and don't want to have to apply those changes to the foreign source code forever if the publisher updates their source code. 
 - Hence, we offer the changes representing the fix (called a ***patch or diff*** - it's a redline effectively) to the original author of the source code from whom we took the code (or usually entire package) we consume.
 
