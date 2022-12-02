@@ -6,6 +6,18 @@ This document serves to **level the understanding and playing field** between te
 
 It also serves to provide a **common terminology** and level up people without an Open Source background to enable them to discuss basic to intermediate topics of Open Source.
 
+### How to work with it
+
+Depending on your education and role it might be possible to only skim over certain sections you may have sufficient knowledge in. 
+For a software engineer this likely is everything until "3 modes of Open Source".
+
+Important terms in the pre-requisite terms section are marked, hyperlinked and re-used in later sections.
+
+Usage of the "Responsibilities and Expectations" section requires domain and technical term knowledge. 
+The terms used in the section "Responsibilities and Expectations" are defined in the sections one and two of this document. 
+
+Should you have questions, proposals for extension or clarification, please provide a pull request, file an issue or add a comment so your input can be addressed and its solution can be present to serve future readers. 
+
 
 ## Structure of this document
 
@@ -34,23 +46,18 @@ The forth and fifth section also highlight boundaries between publishers and use
 The [**sixth** and last **section FOSS strategy**](07-FOSS-Terms-Intro-FOSS-strategy.md) leads over to the separate FOSS strategy document connecting it to some of the aspects in the previous sections.
 
 
-## How to work with it
-
-Depending on your education and role it might be possible to only skim over certain sections you may have sufficient knowledge in. 
-For a software engineer this likely is everything until "3 modes of Open Source".
-
-Important terms in the pre-requisite terms section are marked, hyperlinked and re-used in later sections.
-
-Usage of the "Responsibilities and Expectations" section requires domain and technical term knowledge. 
-The terms used in the section "Responsibilities and Expectations" are defined in the sections one and two of this document. 
-
-Should you have questions, proposals for extension or clarification, please provide a pull request, file an issue or add a comment so your input can be addressed and its solution can be present to serve future readers. 
-
 ### How to address the action items
 
 The are many work items in the "Responsibilities and Expectations" section.
 A practical proposal is to **separate them into individual tasks**, address them sequentially and **store resulting knowledge and decisions as individual files next to this guideline**. It is also recommended to **use the terms in this guideline in the resulting knowledge and decision documents** to enable intersubjective understanding.
 
+### Literature References
+
+This guide frequently references two documents:
+- The [Danish Digitalization Agencies' guide on legal aspects of Open Source from 2009](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845). It is referred to shortly as **DAP**.
+- Our [Energinet "Open Source as TSO" memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf). It is referred to shortly as **EnerginetFOSS-memo**. 
+
+Additional literature is referenced in the individual sections and will be collected in this section too.
 
 ## Disclaimer
 
