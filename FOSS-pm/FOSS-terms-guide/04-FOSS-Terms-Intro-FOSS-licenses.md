@@ -108,9 +108,10 @@ Often, the conditions depend on technicalities, thus technical interpretation an
 
 There are some books on this for German and English interpretations for common scenarios, I know of none for the Danish system. The legal analysis document provides a hint to two books for Denmark.
 
-- Denmark: Possibly [IT-Retten]()
-- US law: [Open Source for business]()
-- German law:  [Jäger / Metzger]()
+- Denmark: Possibly [IT-Retten](https://bibliotek.dk/da/work/870970-basis%3A26085950)
+- Denmark: See also the literature appendix of DAP.
+- US law: [Open Source for business](https://www.amazon.com/dp/B086G6XDM1)
+- German law:  [Jäger / Metzger](https://www.beck-shop.de/jaeger-metzger-open-source-software/product/26549144)
 
 ## FOSS licenses: Sources of legal impact from the licenses
 
@@ -148,7 +149,7 @@ To abide by those conditions, we need
 2. what conditions from 
 3. which packages we need to abide by. 
 
-There is software generating such lists. Since the licenses are standardized, the set of conditions is manageable, even if 100s of individual packages are involved. A common example of such software is the [OSS review toolkit]() (FOSS itself) or Whitesource (commercial).   
+There is software generating such lists. Since the licenses are standardized, the set of conditions is manageable, even if 100s of individual packages are involved. A common example of such software is the [OSS review toolkit](https://github.com/oss-review-toolkit/ort) (FOSS itself) or Whitesource (commercial).   
 
 A common condition is to attribute the authors on a finished product in a certain way (often found in permissive licenses). Another common conditions is to provide changes or source code (restrictive licenses).
 
@@ -221,7 +222,7 @@ Here's when this usually happens:
 - The same can happen if a publisher stops working on their package. It becomes "abandoned". Another party takes it over and continues work on their fork, people move there. 
   - Sometimes access to the original package is explicitly handed over by the original authors who step down to the new stewards of that package. This is by far not the norm though.  
 
-- Sometimes these forks deviate completely, sometimes they briefly exist and then converge again or there is a back and forth between forks.
+Sometimes forks briefly exist and then converge to the original project again, or there is a back and forth between forks. However, sometimes forks deviate completely from the project they originated from.
 
 If you choose a permissive license:
 - People could start a commercial business based on your code and sell binaries made from your code without returning anything. They might also try to put you out of business or leach from your innovation. (A legal question would be to see how far the permissive licenses are enforceable and such a case would be allowed. A very much not legally-founded observation of common practice: As long as proper attribution is given this appears to be accepted.)  
@@ -238,13 +239,14 @@ A recommendation is to keep it pragmatic, simple and short and always offer an e
 
 #### "Running the show", getting write access or "how to become a maintainer".
 Open Source actively asks for contributions and work across corporate boundaries. 
-Thus, a common question is what happens if a party external to the original publisher contributes so much and with such a high quality or show very high engagement that one could consider that "they run the show" (with the original publisher). 
+Thus, a common question is what happens if an external party to the original publisher contributes/engages so much that one could consider them as "running the show" (with the original publisher). 
 
 This is considered the **funnel from user to contributor to [*trusted committer*]() or *maintainer***. The latter two have write access to the packages which is generally considered to be "they run the show".
 
 **With write access they can decide which source code contributions get added to the source code and which don't.** They will have to justify that decision with the people making these contributions or else risk loss of contributors or even users. 
 
 #### Product development, roadmap - having a say on the future.
+
 A trusted committer or maintainer is a mix of product manager/owner, technical lead,  engineering manager and general cat herder or secretary.
 As mentioned they accept or deny contributions. Also, they bring the package forward in general. This is especially important if there's additional developers in the same company as the trusted committer. Having a roadmap or definition of the future, e.g. a vision and some principles facilitates such decisions and explanation of them to others greatly.
 If there is more than one trusted committer, there needs to be a way to agree upon what gets accepted, what the future and road map looks like. This can range from very ad-hoc to full corporate board style. It can change and needs to be decided per package based on what fits by the trusted committers (and the corporations behind them if there are any).
@@ -260,7 +262,7 @@ In such cases it is on you to make this clear to everyone upfront or else people
 
 Imagine you are interested in **projecting an image of maximum vendor independence, trust and acceptance** - in such cases it might be desirable to have trusted committers from all major contributing entities. At the same time, in such cases reviews and acceptance decisions need to be a lot more rigid to ensure quality and actual independence. 
 
-The [SFOSC]() offers some pre-packaged, "standardized" examples of how such governance structures can look like under various conditions. They can be taken as inspiration but should not be copied verbatim.
+The [SFOSC](https://sfosc.org/docs/business-models/) offers some pre-packaged, "standardized" examples of how such governance structures can look like under various conditions. They can be taken as inspiration but should not be copied verbatim.
 
 Any governance can evolve over time. Thus, if there are multiple trusted committers involved having a way to agreeably enable such an evolution is important.
 
@@ -290,7 +292,7 @@ Another approach would be to remove any trademark, visual IP etc. from what you 
 
 Unfortunately, this also applies if code you published (or otherwise created and use) implements an idea patented by others. Software patents are an ugly minefield. Discuss any patent related questions and challenges with a specialized legal counsel before its too late.
 
-There are "non-aggression pacts" reciprocally pledging each others patents to prevent law suits such as the [OIN](). Joining them might be a course of action worth evaluating. 
+There are "non-aggression pacts" reciprocally pledging each others patents to prevent law suits such as the [OIN](https://openinventionnetwork.com/). Joining them might be a course of action worth evaluating. 
 
 ##### Being nasty - CDDL etc. 
 You want to prevent your source code/package from being combined with certain other source code? There are certain incompatibilities built into certain licenses. A famous example being GPL and CDDL, very similar in concept but uncombinable. 
@@ -312,7 +314,7 @@ If your legal system provides this: Public domain. You negate even that you crea
 What you can do with source code, you can do with data.
 Data might be other text (like this one here), images, raw material for images (e.g. design templates), or raw data such as an energy system forecasting data (e.g. Excel/CSV files to train AIs with it).
 
-There are similar standardized  licenses for this, with one of the most popular being the [Creative Commons licenses](). 
+There are similar standardized  licenses for this, with one of the most popular being the [Creative Commons licenses](https://creativecommons.org/about/cclicenses/). 
 All legal effects listed above apply here as well. A detailed legal evaluation is required here if they are supposed to be used. The [legal analysis document]() does not write about the creative commons.
 The licenses also have shorthands indicating the template that is used.
 

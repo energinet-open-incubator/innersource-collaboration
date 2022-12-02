@@ -1,20 +1,20 @@
 # 3 Modes of Open Source and 1 orthogonal approach making it all possible.
 
-This chapter description basic **FOSS domain concepts**. 
+This chapter provides a description of basic **FOSS domain concepts**. 
 
 It mostly covers ways of **interaction with FOSS**. This interaction deals with the **collaborative modification of source code files in FOSS packages across corporate boundaries**. Exceptions are explicitly marked. 
 
 Collaboration happens with people representing other corporate entities or private citizens.
 
-Interaction with OSS can be separated into **three modes**. 
+Interaction with OSS can be separated into **three modes**: consumption, publication, and participation.
 
 It is common that such people are **not necessarily known by name** (usually just **pseudonym and email address**). They are likely to **only participate** for a brief or undefined period of time **until the goal or benefit they want to achieve for themselves is addressed**.
 
-The resulting product remains there forever, containing all the work of all its participants over time.
+The resulting product, encompassing all the work from all its participants over time, remains there forever.
 
 **Section 3ff of the [Danish digitalization agency paper]()** **(the "DAP")** addresses these three modes from a high-level legal perspective. Further aspects are addressed in other sections of the paper. 
 
-**Perspectives** used here:
+An important terminology used for **perspective** here is :
 
 - **We/Us**: Person employed by Energinet or bound by a countract to work for Energinet
 - **They**: Any other entity. Could be here: A person representing e.g. 50Hz/Elia, Elering, Statnet, an individual. The individual could also be employed by us but participating in their spare time as an individual.
@@ -45,7 +45,7 @@ The **FOSS license we mark our source code with is called the *outgoing license*
 
 Usually such a publication happens by means of publication on a website like GitHub. 
 
-**Once published, our ongoing work on this source code happens visible to the world** and we now interact with third parties regarding questions or requests for participation. (see below).
+**Once published, our ongoing work on this source code happens visible to the world** and we now interact with third parties regarding questions or requests for participation (see below).
 
 This gives the world maximum transparency to each and every aspect of development around the package published.
 
@@ -61,8 +61,8 @@ Any **cross-entity collaboration is called *participation*** and the **changes t
 
 ### Participating in other people's projects (Outgoing contributions)
 
-- We consume code, 
-- find ***bugs*** (technical reasons for malfunctions in the program) while doing so, 
+When we consume code, the following journey to a contribution can happen:
+- We find ***bugs*** (technical reasons for malfunctions in the program) while doing so, 
 - fix them (change a few lines of text) and don't want to have to apply those changes to the foreign source code forever if the publisher updates their source code. 
 - Hence, we offer the changes representing the fix (called a ***patch or diff*** - it's a redline effectively) to the original author of the source code from whom we took the code (or usually entire package) we consume.
 
@@ -74,7 +74,7 @@ We have published a source code package.
 
 The "Outgoing contributions" process happens, just with the roles of us and them reversed.
 
-It is generally considered a sign of success of a published package to get incoming contributions. It will only happen after quite some marketing, raising popularity and well, resulting success, though.  
+It is generally considered a sign of success of a published package to get incoming contributions. It will probably only happen after quite some marketing, raising popularity and resulting success, though.  
 
 ## Orthogonal aspect of FOSS: The Ways of working
 
