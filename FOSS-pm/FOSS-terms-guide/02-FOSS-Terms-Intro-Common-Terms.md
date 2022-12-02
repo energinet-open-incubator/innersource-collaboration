@@ -22,6 +22,9 @@ All trade practices, accepted rules, expectations and stewardship of the underly
 
 Resupply of the pool of new talent with Open Source skills is to a large degree powered by the attractiveness of said agenda to the individuals. It is highly recommended to align with this agenda where possible. The concept of "public money, public code" encourages this too.   
 
+The [Danish digitalization agency paper]() has a short section on this too, see section 1.1.1.
+Our ["Energinet Open Source as TSO" memo]() also highlights the connection to "public money, public code" in section xyz . <!-- TODO add proper reference here -->   
+
 ### Open Source, FOSS, FLOSS
 **Open Source Software** is often referred to as **OSS**.
 OSS where the authors want to highlight the mentioned political background is called **"Free and Open Source Software" FOSS**.
@@ -61,7 +64,8 @@ This term refers to plain text files containing programming language text in a s
 - A **process that transforms source code text files into one or more binary files**. 
 
 Compilation is required every time the source code has changed, to apply the changes made.
-    - (Thus: A new deployment is required to put changes in the source code in production, see below.) 
+
+- (Thus: A new deployment is required to put changes in the source code in production, see below.)
 
 With source code the "executing/building of the functionalities" written in the source code, is called compilation. 
   - The program used for compilation is called a **"Compiler"**.
@@ -80,9 +84,9 @@ With source code the "executing/building of the functionalities" written in the 
 - A package **has one or many associated owners** and - given sufficient originality - **is a work of art eligible to intellectual property protection**. 
 
 - Three (strongly simplified) examples: 
-  - The Linux kernel (about 2000-3000 text files in source, about 10 files in binary), 
-  - Numpy (a popular package data scientists use, e.g. for grid forecasting models), 
-  - Word (Tenthousands of source code files noone outside of Microsoft gets to see, 1 file Word.exe plus 100s of support files in binary) 
+  - The [Linux kernel](https://kernel.org) (about 2000-3000 text files in source, about 10 files in binary), 
+  - [Numpy]() (a popular package data scientists use, e.g. for grid forecasting models), 
+  - Microsoft Word (Tenthousands of source code files noone outside of Microsoft gets to see, 1 file Word.exe plus 100s of support files in binary) 
 
 ### Deployment
 
@@ -155,9 +159,9 @@ A **service is able to process data, render services to users** that **can be so
 
 ## Hosting and "free(mium) services"
 
-- Once a person or company has the source code of an application they can make a service from it.
+- Once a person or company has the source code of an application they can create a service from it.
   - Of course, they can offer the service to the public for free if they choose so. 
-  - However, **all of the above liabilities, maintenance effort and all the bills arising from it become problem of the person of company hosting the service**. 
+  - However, **all of the above liabilities, maintenance effort and all the bills arising from it become problem of the person or company hosting the service**. 
   - The **person(s)/company offering the source code to the public is in no way involved here**.
     - They may even not be alive anymore or remember that they wrote the source code for it. 
 
