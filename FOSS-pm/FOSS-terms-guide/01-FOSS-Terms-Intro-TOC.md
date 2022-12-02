@@ -20,7 +20,10 @@ This document is separated into individual files based on the individual chapter
 |`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|- as much as they're known - possible **specialties arising from the public sector and TSO environment**. **Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.|
 |`6`|[FOSS strategy](07-FOSS-Terms-Intro-FOSS-strategy.md)|The  leads over to the separate FOSS strategy document connecting it to some of the aspects in the previous sections.|  
 
-The forth and fifth section also highlight boundaries between publishers and users/contributors. This is important to understand, because it is a common misconception that "Open Source" is a license. It is not. It is a mode of engagement. The license is only one aspect of it. The other aspects are the social contract and the governance. The license is the legal foundation. The social contract is the "what is expected from me as a user/contributor" and the governance is the "how do I get my say on the future of the project".
+The forth and fifth section also highlights boundaries between publishers and users/contributors. 
+This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement. 
+The license is only one aspect of it. The other aspects are the social contract and the governance. 
+The license is the legal foundation. The social contract is the "what is expected from me as a user/contributor" and the governance is the "how do I get my say on the future of the project".
 
 ## How to work with it
 
