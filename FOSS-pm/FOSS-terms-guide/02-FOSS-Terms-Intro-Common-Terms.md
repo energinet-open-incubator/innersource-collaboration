@@ -34,7 +34,7 @@ This guide generally uses **FOSS** to refer to software and **Open Source** to t
 
 These are foundational technical terms from the process of software creation. 
 
-In other words: The way from the idea of Word to Word open on your laptop. It starts after the concept of "Word" has been conceived and set of features realizable by software engineers has been defined.  
+Software creation refers to everything in the realization of a digital asset such as a smartphone app or piece of hardware like a thermostat once a set of features realizable by software engineers has been defined. 
 
 ### Source Code or "Code"
 
