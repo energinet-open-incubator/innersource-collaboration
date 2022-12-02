@@ -140,7 +140,7 @@ Something that crucially part of Open Source is the ability for people to take y
 Here's when this happens:
 - It often happens when someone is unhappy about governance or direction of the package. If they can make their place more attractive than yours, most people will move to place their contributions there and even deploy their fork and not yours. In that case you move from publisher to consumer of what you started. (Or end up continuing your work for yourself, without help or interest from others.)
 - The same can happen if a publishers stops working on their package, it becomes "abandoned". Another party takes it over and continues work, people move there.
-- Sometimes these forks deviate completely, sometimes they briefly exist and then converge again or there is a back and forth between forks.
+Sometimes forks briefly exist and then converge to the original project again, or there is a back and forth between forks. However, sometimes forks deviate completely from the project they originated from.
 
 If you choose a permissive license:
 - People could start a commercial business based on your code and sell binaries made from your code without returning anything. They might also try to put you out of business or leach from your innovation. (A legal question would be to see how far the permissive licenses are enforceable and such a case would be allowed. My unlegal observation: As long as proper attribution is given this appears to be accepted.)  
