@@ -20,6 +20,8 @@ Today, open source has become a strongly commercially used approach as well. It 
 
 All trade practices, accepted rules, expectations and stewardship of the underlying legal tools is done through independent non-profit bodies largely running on the same agenda mentioned above. 
 
+Today, open source has become a strongly commercially used approach as well. It represents the bedrock of all software engineering today. Even Microsoft strongly participates in non-Microsoft Open Source Software and is very active in publishing their own Open Source Software.
+
 Resupply of the pool of new talent with Open Source skills is to a large degree powered by the attractiveness of said agenda to the individuals. It is highly recommended to align with this agenda where possible. The concept of "public money, public code" encourages this too.   
 
 ### Open Source, FOSS, FLOSS
