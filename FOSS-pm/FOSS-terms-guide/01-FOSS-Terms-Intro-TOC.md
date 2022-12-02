@@ -2,7 +2,7 @@
 
 ## Purpose of this document
 
-This document serves to **level the understanding and playing field** between technical (software engineering), non-technical (domain, business) and legal people to enable cross-domain collaboration.
+This document serves to **level the understanding** between technical (software engineering), non-technical (domain, business) and legal people. The aim is to enable cross-domain collaboration by creating common knowledge and terminology in the working group around open source. 
 
 It also serves to provide a **common terminology** and level up people without an Open Source background to enable them to discuss basic to intermediate topics of Open Source.
 
