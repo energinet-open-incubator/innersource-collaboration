@@ -151,7 +151,7 @@ In general, diplomacy and awareness and understanding of "competitors" is a valu
 
 #### "Running the show" or getting write access.
 Open Source actively asks for contributions and work across corporate boundaries. 
-Thus, a common question is what happens if a party external to the original publisher contributes so much and with such a high quality or show very high engagement that one could consider that "they run the show" (with the original publisher). 
+Thus, a common question is what happens if an external party to the original publisher contributes/engages so much that one could consider them as "running the show" (with the original publisher). 
 
 This is considered the funnel from user to contributor to trusted committer or maintainer. The latter two have write access to the packages which is generally considered to be "they run the show".
 
