@@ -53,7 +53,6 @@ This term refers to plain text files containing programming language text in a s
   - A computer loads and executes the binaries, thus enabling the computer to run Word.exe, Google.com, a thermostat, a car, an app, etc.
   - Usually, binary files can only be used by the specific computer architecture they were meant for. A computer architecture is a specific design of the electrical computer system inside the computer, comparable to the difference between a motor that runs on diesel, gasoline or is electrical. Examples of different computer architectures are x86 (Laptops) and ARM (Smartphones, Macs).
 
-- A normal user has no interest in source code and does not see the source code but only the binary code upon executing the program of their choice.
 - It could be argued that a modern website also is mostly binary code due to the excessive amount of interactive features included in modern websites.
 
 ### Compilation
