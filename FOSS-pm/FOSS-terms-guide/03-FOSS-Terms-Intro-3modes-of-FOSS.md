@@ -12,6 +12,8 @@ It is common that such people are **not necessarily known by name** (usually jus
 
 The resulting product remains there forever, containing all the work of all its participants over time.
 
+**Section 3ff of the [Danish digitalization agency paper]()** **(the "DAP")** addresses these three modes from a high-level legal perspective. Further aspects are addressed in other sections of the paper. 
+
 **Perspectives** used here:
 
 - **We/Us**: Person employed by Energinet or bound by a countract to work for Energinet
@@ -29,7 +31,9 @@ The **resulting service can be created for pure internal use by us or it could b
 
 **Each third party FOSS package has one of the OSI certified licenses associated with it**. It is referred to as an ***incoming license***. The set of all licenses found in all packages is called the **set of incoming licenses**.
 
-Often different packages use the same FOSS license. In a work with 500 third party FOSS packages in the dependency tree there will often only be a set of incoming licenses with 50 different incoming licenses. 
+Often different packages use the same FOSS license. In a work with 500 third party FOSS packages in the dependency tree there will often only be a set of incoming licenses with 50 different incoming licenses.
+
+(DAP 3.2ff) 
 
 ## Publication
 
@@ -46,6 +50,8 @@ Usually such a publication happens by means of publication on a website like Git
 This gives the world maximum transparency to each and every aspect of development around the package published.
 
 Since the third parties are not bound to us contractually and thus may have different objectives, **we need to make sure that we carefully review what they offer and what we push to the outside** and see into any different objectives they may have and how those fit ours.  
+
+(DAP 3.3ff)
 
 ## Participation
 
