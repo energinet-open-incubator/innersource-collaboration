@@ -11,28 +11,16 @@ It also serves to provide a **common terminology** and level up people without a
 
 This document is separated into individual files based on the individual chapters. Click the links between the chapters to move.
 
-The [**first section "Common Terms"**](02-FOSS-Terms-Intro-Common-Terms.md) provides a high-level intuition and **definition of important technical terms** in a least technical explanation. 
+| Section | Title | Description | 
+| --- | --- | --- |
+| `1` |[Common Terms](02-FOSS-Terms-Intro-Common-Terms.md) | provides a high-level intuition and **definition of important technical terms** in a least technical explanation. | 
+| `2`| [3 Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.|
+| `3`|[FOSS licenses](04-FOSS-Terms-Intro-FOSS-licenses.md) | defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**. It also briefly discusses some common aspects that are not covered by "FOSS licenses" but related to "FOSS governance". **FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use. **FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. It builds upon the previously defined terms. |
+|`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)|builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.It also sets expectations what to expect from Open Source in the narrower sense and what not.|
+|`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|- as much as they're known - possible **specialties arising from the public sector and TSO environment**. **Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.|
+|`6`|[FOSS strategy](07-FOSS-Terms-Intro-FOSS-strategy.md)|The  leads over to the separate FOSS strategy document connecting it to some of the aspects in the previous sections.|  
 
-The **[second section "3 Modes of Open Source"](03-FOSS-Terms-Intro-3modes-of-FOSS.md)** defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.
-
-The [**third section "FOSS licenses"**](04-FOSS-Terms-Intro-FOSS-licenses.md) defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**.
-It also briefly discusses some common aspects that are not covered by "FOSS licenses" but related to "FOSS governance".
-
-**FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use.
-**FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. 
-It builds upon the previously defined terms.
-
-The [**fourth section "Responsibilities and Expectations"**](05-FOSS-Terms-Intro-responsibilities-and-expectations.md) builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.
-It also sets expectations what to expect from Open Source in the narrower sense and what not.
-
-The [**fifth section addresses**](06-FOSS-Terms-Intro-public-sector-specialties.md) - as much as they're known - possible **specialties arising from the public sector and TSO environment**. 
-
-**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.
-
-The forth and fifth section also highlight boundaries between publishers and users/contributors.
-
-The [**sixth** and last **section FOSS strategy**](07-FOSS-Terms-Intro-FOSS-strategy.md) leads over to the separate FOSS strategy document connecting it to some of the aspects in the previous sections.
-
+The forth and fifth section also highlight boundaries between publishers and users/contributors. This is important to understand, because it is a common misconception that "Open Source" is a license. It is not. It is a mode of engagement. The license is only one aspect of it. The other aspects are the social contract and the governance. The license is the legal foundation. The social contract is the "what is expected from me as a user/contributor" and the governance is the "how do I get my say on the future of the project".
 
 ## How to work with it
 
