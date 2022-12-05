@@ -21,7 +21,7 @@ All of these licenses try to exert a maximum liability limitation and enable at 
 3. Freedom to modify it
 4. Freedom to copy and distribute it in modifed or unmodified versions 
 
-**Section 4ff of the [Danish digitalization agency paper]()** **(the "DAP")** is especially relevant here.
+**Section 4ff and 2.1.2ff of the [Danish digitalization agency paper]()** **(the "DAP")** is especially relevant here.
 
 According to the DAP (4.2ff), licenses appear to be one-sided dealings imposed as condition by the intellectual property owner as opposed to contracts where a mutual agreement to a two-sided exchange to benefits and obligations happens.   
 
@@ -56,7 +56,7 @@ As seen in the [supply chain section](02-FOSS-Terms-Intro-Common-Terms.md) 100s 
 
 ### Classification: Restrictive vs. Permissive
 
-The OSI accepted licenses are commonly classified into **permissive** (MIT, Apache2, BSD, ...), **restrictive** (GPL, MPL, ...) and arguably *"crazy"* (WTFPL, ...).
+The OSI accepted licenses are commonly classified into **permissive** (MIT, Apache2, BSD, ...), **restrictive** (GPL, MPL, ...) and arguably *"crazy"* (WTFPL, ...) (although the crazy ones might not be directly recognized by the OSI).
 
 The classification is made based on the effects they trigger and the initial motivation by the authors.
 
@@ -70,7 +70,7 @@ The classification is made based on the effects they trigger and the initial mot
 - Here, a comparison would be a cooperative or shared public good that should remain a shared public good and may not be monopolized by any party.
 - Usually the tacit assumption is that "the authors need to make a living providing service & support around this." or "this is strongly noncommercial in a 'by the people, for the people, away with the evil corporate/government overlords!' sentiment" and any attempt to commercialize is strongly frowned upon.
 - Of course, furthering the authors reputation is included here too.
-- The elements of the license intended to ensure the return of any modification to the original package are called "**Copy*left***-Clause" (as a pun on Copy*right*) (See also the DAP 1.1.4ff).
+- The elements of the license intended to ensure the return of any modification to the original package are called "**Copy*left***-Clause" (as a pun on Copy*right*) (See also the DAP 1.1.4ff, 2.1.3ff).
 - The most **famous example** is **Linux**. 
 
 **Crazy**: Engineers were fed up by legalese and drafted contracts to mock the concept of contracts.
@@ -83,7 +83,7 @@ The classification is made based on the effects they trigger and the initial mot
 
 Every now and then licenses appear on source code that claims to be FOSS but whose licenses are **not certified by the OSI**.
 
-- Those often have more similarities with custom contracts or commercial licenses.
+- Those often have more similarities with custom contracts or commercial software licenses, like the MS EULA.
 - Often they include draconian conditions that go further than the most restrictive FOSS license.
 - Some consider them the **"Source available" class**. It's like a museum or show room: Viewing permitted, touching prohibited.  
 - As a general sentiment: **If it's not OSI certified, don't use it** or do a full legal review.
@@ -91,12 +91,14 @@ Every now and then licenses appear on source code that claims to be FOSS but who
 
 ### Shared common expectations and historical artifacts.
 
-All licenses try to exclude liability for the authors of the source code as much as possible. According to the DAP this has limited effectivity in Denmark, see section 4.3ff.
+All licenses try to exclude liability for the authors of the source code as much as possible. According to the DAP this has limited effectivity in Denmark, see section 4.3ff, 2.1.6ff.
 
-Some try to protect against software patents, try to protect trademarks (or brands or the publishers reputation, ...) that might be covered in the code.
+Also, all require active acknowledgement of the use and the license used. See DAP 2.1.5, 2.1.4.
 
-Usually they are intended to terminate on violation of the conditions. Some allow for reinstatement of the license, some don't. If you don't have a license you must not use or distribute the source code.
-- Some contain historical feuds leading to intended inability to be combined with others (Apache 2 vs. GPL2) based on automatic termination of combination.
+Some try to protect against software patents, try to protect trademarks (or brands or the publishers reputation, ...) that might be covered in the code. (See DAP 2.2.1 for the GPL example)
+
+Usually they are intended to terminate on violation of the conditions. Some allow for reinstatement of the license (e.g. MPL, see DAP 2.2.9), some don't. If you don't have a license you must not use or distribute the source code.
+- Some contain historical feuds leading to intended inability to be combined with others (Apache vs. GPL2) based on automatic termination of combination.
 
 Some have an **"update clause".** Some license texts have versions (GPL2, GPL3, ...), some contain language where the intent was to "switch" to a newer version upon release of a new version of the license. (GPLv2+).
 
@@ -104,7 +106,7 @@ Some have an **"update clause".** Some license texts have versions (GPL2, GPL3, 
 
 Often, the conditions depend on technicalities, thus technical interpretation and a legal-technical collaboration is important here. Specialized FOSS lawyers are used to this. 
 
-- A classic example is the term "derived work" - when is a work by one author a derivation of the work of another author upon combination of the two?   Often this was argued on grounds of linking, compilation and different ways of combination into one or multiple binaries from the source code.  
+- A classic example is the term "derived work" - when is a work by one author a derivation of the work of another author upon combination of the two?   Often this was argued on grounds of linking, compilation and different ways of combination into one or multiple binaries from the source code. (See DAP footnotes 20 and 9, )  
 
 There are some books on this for German and English interpretations for common scenarios, I know of none for the Danish system. The legal analysis document provides a hint to two books for Denmark.
 
