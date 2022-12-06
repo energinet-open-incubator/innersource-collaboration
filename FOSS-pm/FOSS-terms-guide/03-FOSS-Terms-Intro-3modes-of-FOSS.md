@@ -76,6 +76,16 @@ The "Outgoing contributions" process happens, just with the roles of us and them
 
 It is generally considered a sign of success of a published package to get incoming contributions. It will probably only happen after quite some marketing, raising popularity and resulting success, though.  
 
+### Downstream and Upstream
+There are two commonly used terms in the participation process that describe the positions.
+
+- **Upstream** is the "original work" / most authoritative source of the work
+- **Downstream**: A derivation / modification of upstream / the "original work"
+-  **Example:** In the *outgoing contribution process*, we are in the downstream position, fix a bug there and and try to **bring it upstream**, i.e. to the FOSS package we have used. Often "**upstreaming** a fix / feature / ..." is heard too.
+  - In the incoming contribution process the roles are reversed   
+
+
+
 ## Orthogonal aspect of FOSS: The Ways of working
 
 Contributors and package authors contributed to may reside in **vastly different time zones**, have significantly **different work times** and especially also may **not have time to address contributions immediately**.
