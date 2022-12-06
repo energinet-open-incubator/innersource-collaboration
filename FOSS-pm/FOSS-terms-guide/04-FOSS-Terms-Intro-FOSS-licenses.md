@@ -75,8 +75,8 @@ The classification is made based on the effects they trigger and the initial mot
 
 **Crazy**: Engineers were fed up by legalese and drafted contracts to mock the concept of contracts.
 
-- The [WTFPL]() is the best example. 
-- Others try to introduce "good" and "evil" as legal concepts and prohibit the use for "evil".
+- The [WTFPL](https://en.wikipedia.org/wiki/WTFPL) is the best example. 
+- Others tried to [introduce "good" and "evil" as legal concepts](https://heathermeeker.com/2019/11/09/good-and-not-evil-the-advent-of-ethos-licensing/) and prohibit the use for "evil".
 - Those licenses end up on reputable packages and then have to be dealt with too. 
   - A common opinion heard here is that they would be either permissive, public domain or "we don't know, don't integrate this".
   - "don't integrate this" is probably a reasonable course of action.
@@ -85,9 +85,10 @@ Every now and then licenses appear on source code that claims to be FOSS but who
 
 - Those often have more similarities with custom contracts or commercial software licenses, like the MS EULA.
 - Often they include draconian conditions that go further than the most restrictive FOSS license.
-- Some consider them the **"Source available" class**. It's like a museum or show room: Viewing permitted, touching prohibited.  
+- Some consider them the [**"Source available" class**](https://en.wikipedia.org/wiki/Source-available_software). It's like a museum or show room: Viewing permitted, touching prohibited.  
+  - Example:  [ElasticSearch turned SSPL](https://opensource.org/sspl-not-open-source)  
+
 - As a general sentiment: **If it's not OSI certified, don't use it** or do a full legal review.
-- Example:  [ElasticSearch 7.11 ongoing]()  
 
 ### Shared common expectations and historical artifacts.
 
@@ -95,23 +96,24 @@ All licenses try to exclude liability for the authors of the source code as much
 
 Also, all require active acknowledgement of the use and the license used. See DAP 2.1.5, 2.1.4.
 
-Some try to protect against software patents, try to protect trademarks (or brands or the publishers reputation, ...) that might be covered in the code. (See DAP 2.2.1 for the GPL example)
+Some try to protect against software patents, try to protect trademarks (or brands or the publishers reputation, etc. See MPL, Apache for an example) that might be covered in the code or surrounding material. (See DAP 2.2.1 for the GPL example)
 
 Usually they are intended to terminate on violation of the conditions. Some allow for reinstatement of the license (e.g. MPL, see DAP 2.2.9), some don't. If you don't have a license you must not use or distribute the source code.
 - Some contain historical feuds leading to intended inability to be combined with others (Apache vs. GPL2) based on automatic termination of combination.
 
-Some have an **"update clause".** Some license texts have versions (GPL2, GPL3, ...), some contain language where the intent was to "switch" to a newer version upon release of a new version of the license. (GPLv2+).
+Some have an **"update clause".** Some license texts have versions (GPL2, GPL3, ...), some contain language where the intent was to "switch" to a newer version upon release of a new version of the license. (GPLv2+, see DAP 2.2.2).
 
 - The newer versions can have more or less drastic differences to the old ones. This can trigger some legal uncertainty.
 
 Often, the conditions depend on technicalities, thus technical interpretation and a legal-technical collaboration is important here. Specialized FOSS lawyers are used to this. 
 
-- A classic example is the term "derived work" - when is a work by one author a derivation of the work of another author upon combination of the two?   Often this was argued on grounds of linking, compilation and different ways of combination into one or multiple binaries from the source code. (See DAP footnotes 20 and 9, )  
+- A classic example is the term "derived work" - when is a work by one author a derivation of the work of another author upon combination of the two?   Often this was argued on grounds of linking, compilation and different ways of combination into one or multiple binaries from the source code. (See DAP footnotes 20 and 9. )  
 
-There are some books on this for German and English interpretations for common scenarios, I know of none for the Danish system. The legal analysis document provides a hint to two books for Denmark.
+There are some books on this for German and English interpretations for common scenarios, I know of none for the Danish system. The DAP provides a hint to two books for Denmark and is a great resource in itself, however not able or intended to replace detailed legal consultation.
 
 - Denmark: Possibly [IT-Retten](https://bibliotek.dk/da/work/870970-basis%3A26085950)
-- Denmark: See also the literature appendix of DAP.
+  - Denmark: See also the literature appendix of the DAP.
+
 - US law: [Open Source for business](https://www.amazon.com/dp/B086G6XDM1)
 - German law:  [Jäger / Metzger](https://www.beck-shop.de/jaeger-metzger-open-source-software/product/26549144)
 
@@ -207,22 +209,33 @@ Depending on the desired outcome, it might make sense to use such a contract whe
 
 ## FOSS Governance: What to expect from a license and what not
 
-What can be achieved with FOSS licenses is rather limited in the broader scope of interactions around Open Source Code. As the [legal analysis document]() states, FOSS licenses are licenses, not contracts under Danish law.
+What can be achieved with FOSS licenses is rather limited in the broader scope of interactions around Open Source Code. As the DAP (section 4.2ff) states, FOSS licenses are licenses, not contracts under Danish law.
 
-Also, some parts are likely nothing that should be regulated legally but with tacit rules, i.e. a "social contract" (of course, such expectations can be put into writing and could even be taken into account on legal discussions). 
+Also, some parts are likely nothing that should be regulated legally but with tacit rules, i.e. a "social contract" (of course, such expectations can and often should be put into writing and could even be taken into account on legal discussions). 
 
 Additionally, since the text of the existing OSI accepted FOSS licenses may not be changed (or else they loose acceptance and ability to be digitally controlled in a feasible way), the remaining parts are expected to be stated as "social contract".
 
-This field is what's known as FOSS governance or "what do I want others to do and not do with the code that I put out there". 
+A **social contract** is, much like the social contract of a society, accepted without explicit signature by the participants of a community (a special FOSS package or FOSS at large for more abstracts principles) upon engaging with this community.
+
+Every participant accepts its restrictions even if they restrict some of their abilities to make a profit, behave in a certain way, etc.  
+
+This field is what's known as **FOSS governance** or *"what do I want others to do and not do with the code that I put out there"*. 
 
 ### What you can't prevent
 
 Something that is crucially part of Open Source is the **ability for people to take your work, duplicate it entirely and try to start a new community from it**. This is **called "forking"**. 
 Here's when this usually happens:
 
-- It often happens when someone is unhappy about governance or direction of the FOSS package. If they can make their place more attractive than yours, most people will move to place their contributions there and even deploy their fork and not yours. In that case you move from publisher to consumer of what you started. (Or end up continuing your work for yourself, without help or interest from others. Often with limited success.)
-- The same can happen if a publisher stops working on their package. It becomes "abandoned". Another party takes it over and continues work on their fork, people move there. 
-  - Sometimes access to the original package is explicitly handed over by the original authors who step down to the new stewards of that package. This is by far not the norm though.  
+- It often happens when **someone is unhappy about governance or direction** of the FOSS package. If they can make their place more attractive than yours, most people will move to place their contributions there and even deploy their fork and not yours. In that case you move from publisher to consumer of what you started. (Or end up continuing your work for yourself, without help or interest from others. Often with limited success.)
+  - A variation of this is upstream trying to "suddenly" chance licenses or commercialize what hasn't been commercialized. (See Oracle, ElasticSearch, ...)
+    - Another variation is someone trying to be "smart" and "take someone elses FOSS private and sell it" - often this ends up as a low success FOSS enforcement case.
+    - In most Oracle cases the original upstream still exists but plays absolutely no role whatsoever anymore. 
+
+  - Another variation is unexpected commercial or privacy damaging behavior of a FOSS package that was expected to be purely "uncommercial". This leads to the FLOSS purists creating a "pure, clean, FLOSS fork". They are usually not very popular. 
+    - Don't do anything that could be considered privacy invasive. The usual FOSS demography ([see historical background](02-FOSS-Terms-Intro-Common-Terms.md)) is very sensitive here and there are enough people equipped with skill, funds, time and will to litigate and campaign for such a reason.  
+
+- The same can happen if a publisher stops working on their package. It becomes **"abandoned"**. Another party takes it over and continues work on their fork, people move there. 
+  - Sometimes access to the original package is explicitly handed over by the original authors who step down to the new stewards of that package. This is by far not the norm though.
 
 Sometimes forks briefly exist and then converge to the original project again, or there is a back and forth between forks. However, sometimes forks deviate completely from the project they originated from.
 
@@ -271,11 +284,11 @@ Any governance can evolve over time. Thus, if there are multiple trusted committ
 #### Technical tools to enforce product strategy choices - and why they're less powerful than you think.
 This deals with strategically using certain FOSS license features hoping to achieve certain effects.
 It also points out why usually none of these short circuit argumentations have the effect they're chosen for unless there is proper product definition, strategy and at least some minimal definition around governance. 
-All of the below is strictly not legal advice but "FOSS license folklore", may not work under Danish law and should be closely discussed with specialized legal counsel to evaluate if they actually work in the desired way. 
+All of the below is **strictly not legal advice but *"FOSS license folklore"***, may not work under Danish law and should be closely discussed with specialized legal counsel to evaluate if they actually work in the desired way. 
 
 ##### AGPL (network copyleft)
 You publish code, offer a SaaS product based on it and don't want others to also offer a SaaS product just adding minor changes: This was the design principle of the AGPL. 
-It was killed by hyperscalers through hosting the unmodified FOSS products. This lead to radical source-available/non-OSI certified licenses such as the [license change of ElasticSearch](). Tread very carefully here. 
+It was killed by hyperscalers through hosting the unmodified FOSS products. This lead to radical source-available/non-OSI certified licenses such as the [ElasticSearch turned SSPL](https://opensource.org/sspl-not-open-source) case. Tread very carefully here. 
 
 ##### GPL (strong copyleft)
 You want to force others to publish the modifications they made? This is what the GPL/restrictive class was designed for. 
@@ -284,13 +297,13 @@ However, you'll need to
 
 1. find changes, 
 
-2. they actually need to publish them or, if they do not, you need to prove that they have some and don't publish them and then have to and sue them based on this. 
+2. they actually need to publish them or, if they do not, you need to prove that they have some and don't publish them and then have to sue them based on this and win. The latter takes very long and is rather costly.
 
 The extent to which this is possible may differ based on legal system court and case details. Again: There's a lot of good will and diplomacy involved in FOSS. Try to prevent having to enforce things. And have a watertight case and rocksolid FOSS compliance if you do.
 
 ##### Trademarks and patents
 You need to ensure certain patent and trademark issues: Certain licenses contain language to protect what you have here. 
-Another approach would be to remove any trademark, visual IP etc. from what you publish preventing obvious, easy abuse in the first place.
+Another approach would be to remove any trademark, visual IP etc. from what you publish preventing obvious, easy abuse in the first place. See also the DAP 3.3.1.f
 
 Unfortunately, this also applies if code you published (or otherwise created and use) implements an idea patented by others. Software patents are an ugly minefield. Discuss any patent related questions and challenges with a specialized legal counsel before its too late.
 
@@ -298,17 +311,17 @@ There are "non-aggression pacts" reciprocally pledging each others patents to pr
 
 ##### Being nasty - CDDL etc. 
 You want to prevent your source code/package from being combined with certain other source code? There are certain incompatibilities built into certain licenses. A famous example being GPL and CDDL, very similar in concept but uncombinable. 
-Made to prevent inclusion of Sun/Oracle property (ZFS) into the Linux kernel. Has been circumvented in various technical and legal ways these days. 
+Made to prevent inclusion of Sun/Oracle property (ZFS) into the Linux kernel. Has been circumvented in various technical and legal(ly accepted) ways these days. (As in: The author is not aware of any successful law suits against it and e.g. Canonical (behind Ubuntu Linux) distributes a combination of Linux and ZFS for a longer period of time.) 
 Try to avoid this if possible at all.
 
 ##### Permissive licenses
 You want to enable maximum adoption without any care of what happens to what you created, some liabilty protection as long as you are attributed properly.
 Unfortunately "without any care" includes code being commercialized resulting in a competitor arising from this, code being used against you, code being integrated into ethically questionable endeavors, etc. 
 This is the raison d'etre of the permissive licenses such as MIT or BSD.
-Be very careful about actually achievable liability limitations and whether those licenses are actually possible given your dependency tree. 
+Be very careful about actually achievable liability limitations and whether those licenses are actually possible given your dependency tree. And have a good product definition.
 
 ##### Public domain
-If your legal system provides this: Public domain. You negate even that you created this, you don't want attribution, it's just out there. Use at your own risk. 
+If your legal system provides this: Public domain. You negate that you even created this, you don't want attribution, it's just out there. Use at your own risk. 
 
 
 ## FOSS licenses are for code, Creative Commons are for data.
