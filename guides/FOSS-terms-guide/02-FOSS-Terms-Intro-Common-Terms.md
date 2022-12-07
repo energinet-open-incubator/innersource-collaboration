@@ -12,7 +12,7 @@ To understand the field, certain technical terms and concepts need to be defined
 
 Additionally context is provided by acknowledging the historical context explaining the why's of certain decisions and approaches. 
 
-## Historical and political background shaping visible phenomena, goals and  expectations
+## Historical Background
 
 Open source has been created in a political environment strongly highlighting a non-commercial, liberal and self-sovereign agenda. 
 
@@ -34,9 +34,9 @@ In the end, all of it is Open Source Software as illustrated below. They only di
 
 This guide generally uses **FOSS** to refer to software and **Open Source** to the approach to work. 
 
-## Basic technical terms: Source Code, Compilation, Binary Files, Deployment
+## Fundamental Technical Terms
 
-These are foundational technical terms from the process of software creation. 
+These are foundational technical terms from the process of software creation. A good understanding of these terms will be highly valuable for decision-making in terms of licensing, strategy and governance, described in the later sections.  
 
 Software creation refers to everything in the realization of a digital asset such as a smartphone app or piece of hardware like a thermostat once a set of features realizable by software engineers has been defined. 
 
@@ -110,7 +110,7 @@ Examples:
 - A website/Google.com: Complicated packaging/assembly process, resulting packages copied to multiple computers in a Google datacenter, Google copies a package (the website you see) to your computer (in the browser, e.g. Edge/Chromium/Firefox) once you invoke Google.com, you run the website, website and Google servcers communicate, you get the information you want.
 - A car: A datacenter on wheels, effectively all of the above.
 
-## Real-life software creation today (Supply chain) or: Making money on the shoulders of giants.
+## Dependencies
 
 - In the 1980s and partially in the 1990s a program and function for a computer of material value could have been created from scratch by a limited number of engineers.
 
@@ -139,12 +139,12 @@ Examples:
 There exists an erroneous confusion of the two terms **Open Source** and **Open Service**. However, there is a crucial difference between them.
  
 
-- **Source code and binaries** only cost storage space (think about the cost of a USB stick or memory card) and **are inert**, i.e. especially **not able to process data on their own**.
+- **Source code and binaries** only cost storage space (and thus are almost free of monetary cost - think "cost of a usb stick"). They are **inert** and hence not able to process data on their own.
 
-- **Only once deployed, the code turns into a *service***. 
-  - In the case of web application like Google.com, deploying the code to make it a service is also referred to as ***"hosting"***.
+- Once the source code is deployed, it turns into a ***service***. 
+  - In the case of web application like Google.com, deploying the code to a service is also referred to as ***"hosting"***.
 
-A **service** is able to process data, render services to users that can be sold, and thus make money. 
+A **service** is able to process data, render services to users that can be sold, and thus a company can make money from it. 
 
 - However, running the service costs money, incurring liabilities to the people whose data is processed. This is usually contractually coupled with service level expectations etc.
 
@@ -156,13 +156,7 @@ Hence, there is no such thing as "Open Service" in the domain of Open Source.
 
 
 
-## Hosting and "free(mium) services"
 
-- Once a person or company has the source code of an application they can create a service from it.
-  - Of course, they can offer the service to the public for free if they choose so. 
-  - However, **all of the above liabilities, maintenance effort and all the bills arising from it become problems for the person or company hosting the service**. 
-  - The **person(s)/company offering the source code to the public is in no way involved here**.
-    - They may even not be alive anymore or remember that they wrote the source code for it. 
 
 
 

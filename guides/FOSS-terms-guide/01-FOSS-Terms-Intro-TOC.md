@@ -22,25 +22,23 @@ Should you have questions, proposals for extension or clarification, please prov
 
 This document is separated into individual files based on the individual chapters. Click the links between the chapters to move.
 
-| Section | Title | Description |
+| Section | Title | Description | 
 | --- | --- | --- |
-| `1` |[Common Terms](02-FOSS-Terms-Intro-Common-Terms.md) | provides a high-level intuition and **definition of important technical terms** in a least technical explanation. |
-| `2`| [3 Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.|
+| `1` |[Common Terms](02-FOSS-Terms-Intro-Common-Terms.md) | provides a high-level intuition and **definition of important technical terms** in a least technical explanation. | 
+| `2`| [Three Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.|
 | `3a`|[FOSS licenses](04a-FOSS-Terms-Intro-FOSS-licenses.md) | defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**. **FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use.|
 | `3b`|[FOSS governance](04b-FOSS-Terms-Intro-FOSS-governance.md) | **FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. It builds upon the previously defined terms. |
-|`4`|[Responsibilities, Expectations and Constraints](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)| This section contains practical advice (_FOSS policy decisions_) to challenges arising from chapters 3 and 2. It also sets expectations what to expect from Open Source in the narrower sense and what not. **Caveat**: These *advice items* are still being built based on an actionable item list. There will be more change here. |
+|`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)|builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.It also sets expectations what to expect from Open Source in the narrower sense and what not.|
 |`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|- as much as they're known - possible **specialties arising from the public sector and TSO environment**. **Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.|
 
 Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS strategy](../FOSS-strategy-guide)
 
 The forth and fifth section also highlights boundaries between publishers and users/contributors. 
-This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement. 
-The license is only one aspect of it. The other aspects are the social contract and the governance. 
-The license is the legal foundation. The social contract is the "what is expected from me as a user/contributor" and the governance is the "how do I get my say on the future of the project".
+This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement, including both the license, a social contract and governance, defining the boundaries between the two roles. 
 
-### How to address the action items
+### Addressing the Action Points
 
-The are many work items in the "Responsibilities and Expectations" section.
+Many **Action Points** are included in this document, especially in the "Responsibilities and Expectations" section.
 A practical proposal is to **separate them into individual tasks**, address them sequentially and **store resulting knowledge and decisions as individual files next to this guideline**. It is also recommended to **use the terms in this guideline in the resulting knowledge and decision documents** to enable intersubjective understanding.
 
 ### Literature References
@@ -65,7 +63,7 @@ Any examples used are hypothetical and strongly simplified to provide an intuiti
 
 The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [legal analysis document]().
 
-Interpretation and risk can significantly differ in Danish law and thus detailed legal analysis of the topics and possible resulting follow-up topics is strongly recommended. See also the book referenced in the legal analysis document by **Mads Bryde Andersen: IT- retten**
+It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component. See also the book referenced in the legal analysis document by **Mads Bryde Andersen: IT- retten**
 
 It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component.
 

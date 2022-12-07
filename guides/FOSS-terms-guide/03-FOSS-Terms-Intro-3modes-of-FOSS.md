@@ -1,4 +1,4 @@
-# 3 Modes of Open Source and 1 orthogonal approach making it all possible.
+# The Three Modes of Open Source
 
 This chapter provides a description of basic **FOSS domain concepts**. 
 
@@ -19,6 +19,17 @@ An important terminology used for **perspective** here is :
 - **We/Us**: Person employed by Energinet or bound by a countract to work for Energinet
 - **They**: Any other entity. Could be here: A person representing e.g. 50Hz/Elia, Elering, Statnet, an individual. The individual could also be employed by us but participating in their spare time as an individual.
 
+## Orthogonal aspect of FOSS: The Ways of working
+
+Contributors and package authors contributed to may reside in **vastly different time zones**, have significantly **different work times** and especially also may **not have time to address contributions immediately**.
+
+There is **no built-in face-to-face communication** as with common software development, a client-lawyer interaction etc.
+
+This leads to a **highly text-based, asynchronous, very explicit way of working** **emphasizing automation, self-explaining yet highly specialized tools and, well, a lot of text**. 
+
+Text allows easy searching, pin pointing, and commenting/review. (As well as translation in cases of language barriers.)
+
+The practical lingua franca of Open Source is English, some small non-english language Open Source communities exist (Japan, France) however usually deviating from English strongly reduces the addressable market and likelihood of receiving participation. 
 ## Consumption
 
 We take **FOSS source code or FOSS packages** (or binary code created from FOSS source code by us or a third party, e.g. Red Hat) **from a third party** (e.g. Linux, Kubernetes, Tomcat, ...) and
@@ -86,15 +97,9 @@ There are two commonly used terms in the participation process that describe the
 
 
 
-## Orthogonal aspect of FOSS: The Ways of working
 
-Contributors and package authors contributed to may reside in **vastly different time zones**, have significantly **different work times** and especially also may **not have time to address contributions immediately**.
 
-There is **no built-in face-to-face communication** as with common software development, a client-lawyer interaction etc.
 
-This leads to a **highly text-based, asynchronous, very explicit way of working** **emphasizing automation, self-explaining yet highly specialized tools and, well, a lot of text**. 
 
-Text allows easy searching, pin pointing, and commenting/review. (As well as translation in cases of language barriers.)
 
-The practical lingua franca of Open Source is English, some small non-english language Open Source communities exist (Japan, France) however usually deviating from English strongly reduces the addressable market and likelihood of receiving participation. 
 
