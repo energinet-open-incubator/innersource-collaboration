@@ -25,20 +25,18 @@ This document is separated into individual files based on the individual chapter
 | Section | Title | Description | 
 | --- | --- | --- |
 | `1` |[Common Terms](02-FOSS-Terms-Intro-Common-Terms.md) | provides a high-level intuition and **definition of important technical terms** in a least technical explanation. | 
-| `2`| [3 Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.|
+| `2`| [Three Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.|
 | `3`|[FOSS licenses](04-FOSS-Terms-Intro-FOSS-licenses.md) | defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**. It also briefly discusses some common aspects that are not covered by "FOSS licenses" but related to "FOSS governance". **FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use. **FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. It builds upon the previously defined terms. |
-|`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)|builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.It also sets expectations what to expect from Open Source in the narrower sense and what not.|
-|`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|- as much as they're known - possible **specialties arising from the public sector and TSO environment**. **Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.|
-|`6`|[FOSS strategy](07-FOSS-Terms-Intro-FOSS-strategy.md)|The  leads over to the separate FOSS strategy document connecting it to some of the aspects in the previous sections.|  
+|`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)|builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of a FOSS policy** to be re-used by management, domain experts and software engineers**. Additionally, it sets expectations for Open Source in the narrower sense.|
+|`5`|[FOSS in the Public Sector](06-FOSS-Terms-Intro-public-sector-specialties.md)|- as much as they're known - possible **specialties arising from the public sector and TSO environment**. **Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.|
+|`6`|[FOSS Strategy](07-FOSS-Terms-Intro-FOSS-strategy.md)|The  leads over to the separate FOSS strategy document connecting it to some of the aspects in the previous sections.|  
 
 The forth and fifth section also highlights boundaries between publishers and users/contributors. 
-This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement. 
-The license is only one aspect of it. The other aspects are the social contract and the governance. 
-The license is the legal foundation. The social contract is the "what is expected from me as a user/contributor" and the governance is the "how do I get my say on the future of the project".
+This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement, including both the license, a social contract and governance, defining the boundaries between the two roles. 
 
-### How to address the action items
+### Addressing the Action Points
 
-The are many work items in the "Responsibilities and Expectations" section.
+Many **Action Points** are included in this document, especially in the "Responsibilities and Expectations" section.
 A practical proposal is to **separate them into individual tasks**, address them sequentially and **store resulting knowledge and decisions as individual files next to this guideline**. It is also recommended to **use the terms in this guideline in the resulting knowledge and decision documents** to enable intersubjective understanding.
 
 ### Literature References
@@ -57,15 +55,12 @@ The following (i.e. this and any hyperlinked documents) introduces certain aspec
 
 It raises, without being exhaustive or complete, certain questions around common risk items that are brought up for further legal analysis. Any risk parts, example scenarios, assumptions and definitions are to be interpreted as question around possible risk to be analyzed and cleared up not statement of fact.
 
-It further explains select technical matter in a strongly abstracted and simplified manner. Due to this abstraction, the information may not be suitable to fully decide certain specific legal situations. Detailed technical explanation and analysis is likely to be required in practical application. 
 
-Any examples used are hypothetical and strongly simplified to provide an intuition of the matter explained.
 
 The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [legal analysis document]().
 
-Interpretation and risk can significantly differ in Danish law and thus detailed legal analysis of the topics and possible resulting follow-up topics is strongly recommended. See also the book referenced in the legal analysis document by **Mads Bryde Andersen: IT- retten**
+It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component. See also the book referenced in the legal analysis document by **Mads Bryde Andersen: IT- retten**
 
-It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component.
 
 Authors notice: The consultancy mandate does not include legal advice, FOSS compliance consulting or advice on FOSS publication beyond technical, ways-of-working and common domain expectations. Any further advice, especially of legal nature, implicit or explicit, needs to be sourced from the relevant partners, e.g. a specialized lawyer. 
 
