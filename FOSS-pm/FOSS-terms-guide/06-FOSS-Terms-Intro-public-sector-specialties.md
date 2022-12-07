@@ -1,12 +1,12 @@
 ## Public Money, Public Code: Doing FOSS as a public body
 
-Here, the [legal analysis document][] is a strongly recommended read as well as the [Energinet regulatory legal memo]().
+Here, the DAP is a strongly recommended read as well as the [Energinet regulatory legal memo]().
 
 As a publicly owned TSO that runs on public money, we are bound to additional special rules.
 
 Those rules could from concerns of critical infrastructure operation (NIS2 derivatives) or strict regulations on the use of public money or non-competition regulations as public body.     
 
-We have to interprete the regulations and rules here and for all product informing their strategy, see the [Energinet regulatory legal memo]() for non-competition rules. 
+We have to interpret the regulations and rules here and for all product informing their strategy, see the [Energinet regulatory legal memo]() for non-competition rules. 
 
 A possible interpretation could be to argue that Energinet is limited to providing and maintaining a public good that others (e.g. Danish companies such as Mjølner et al) could offer services around. 
 
@@ -25,7 +25,7 @@ The source/service separation is to be made here again: FOSS source code publish
 
 Not all TSOs (or other corporations) act as public bodies. Thus they may have to earn money with open source (e.g. to satisfy profit expectations of their shareholders).
 
-This can lead to desires of monetizing Open Source in various ways. See the strategy guide and the SFOSC models for information on what interests and approaches might be interesting for them.
+This can lead to desires of monetizing Open Source in various ways. See the [strategy guide](../FOSS-strategy) and the SFOSC models for information on what interests and approaches might be interesting for them.
 
 As a public body we likely do not need to monetize FOSS. 
 
