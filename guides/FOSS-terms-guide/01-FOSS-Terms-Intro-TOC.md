@@ -33,7 +33,7 @@ This document is separated into individual files based on the individual chapter
 
 Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS strategy](../FOSS-strategy-guide)
 
-The forth and fifth section also highlights boundaries between publishers and users/contributors. 
+The fourth and fifth section also highlights boundaries between publishers and users/contributors. 
 This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement, including both the license, a social contract and governance, defining the boundaries between the two roles. 
 
 ### Addressing the Action Points
@@ -61,7 +61,7 @@ It further explains select technical matter in a strongly abstracted and simplif
 
 Any examples used are hypothetical and strongly simplified to provide an intuition of the matter explained.
 
-The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [legal analysis document]().
+The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845) document.
 
 It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component. See also the book referenced in the legal analysis document by **Mads Bryde Andersen: IT- retten**
 

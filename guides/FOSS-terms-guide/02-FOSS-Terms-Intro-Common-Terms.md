@@ -22,8 +22,8 @@ Today, open source has become a strongly commercially used approach as well. It 
 
 It is recommended to align with the before-mentioned liberal and self-sovereign agenda where possible, as the pool of talents with Open Source skills is s largely powered by the attractiveness of said agenda. Incidentally, this agenda is consistent with the concept of "public money, public code", which is highly applicable to Energinet as a TSO. 
 
-The[Danish digitalization agency paper]() has a short section on this too, see section 1.1.1.
-Our["Energinet Open Source as TSO" memo]() also highlights the connection to "public money, public code" in section xyz . <!-- TODO add proper reference here -->   
+The [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845)) document has a short section on this too, see section 1.1.1.
+Our ["EnerginetFOSS-memo]((../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf)) document also highlights the connection to "public money, public code" in section xyz . <!-- TODO add proper reference here -->   
 
 
 ### Open Source, FOSS, FLOSS

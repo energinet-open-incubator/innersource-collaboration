@@ -90,10 +90,10 @@ It is generally considered a sign of success of a published package to get incom
 ### Downstream and Upstream
 There are two commonly used terms in the participation process that describe the positions.
 
-- **Upstream** is the "original work" / most authoritative source of the work
+- **Upstream**: is the "original work" / most authoritative source of the work
 - **Downstream**: A derivation / modification of upstream / the "original work"
 -  **Example:** In the *outgoing contribution process*, we are in the downstream position, fix a bug there and and try to **bring it upstream**, i.e. to the FOSS package we have used. Often "**upstreaming** a fix / feature / ..." is heard too.
-  - In the incoming contribution process the roles are reversed   
+  - In the incoming contribution process, the roles are reversed   
 
 
 
