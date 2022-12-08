@@ -44,7 +44,7 @@ Thus, starting with Liability and Warranty next to the product definition questi
 If possible condense the insights into one or more memos that are transferable to other FOSS packages we might create (or use).
 
 #### Liability and Warranty
-- Address the warranty and liability sections above and as illustrated in the DAP.
+- Address the warranty and liability sections above and as illustrated in the [DAP](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845).
 #### FOSS compliance
 Is, as explained in the last chapter the mechanics required to acquire and retain a license to use and distribute third party FOSS packages standalone or as part of our products. 
 
