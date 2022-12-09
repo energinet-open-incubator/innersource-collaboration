@@ -11,7 +11,7 @@
 | Jacob Damm 		          | Mjølner Informatics	    | Business 						                    | ?					                        | jda@mjolner.dk	                | ?		        |		                                    |
 | Morten Houborg	        | Energinet		            | Business 						                    | MortenHouborg				              | mhu@energinet.dk	              | Y		        |		                                    |
 | Rasmus Ingstrup	        | Energinet		            | Business 	                              | rasmusingstrup			              | rti@energinet.dk	              | N		        |		                                    |
-| André Bryde Alnor    	  | Energinet		            | Business  			                        | ?					                        | ach@energinet.dk	              | ?		        |		                                    |
+| André Bryde Alnor    	  | Energinet		            | Business  			                        | AndreAlnor                        | ach@energinet.dk	              | ?		        |		                                    |
 | Martin Schmidt 	        | Energinet		            | Technical 						                  | MartinSchmidt				              | mcs@energinet.dk	              | Y	          |		                                    |
 | Nicolas Bernhardi   	  | Energinet	              | Business/Technical                      | NicolasENDK	                      | nba@energinet.dk	              | Y	          |		                                    |
 | Gert L. Mikkelsen   	  | Alexandra Instituttet	  | Technical                               | ?	                                | gert.l.mikkelsen@alexandra.dk	  | ?	          |		                                    |
