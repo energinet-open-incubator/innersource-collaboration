@@ -1,20 +1,21 @@
-| Name 			| Company 		| Role in the project 					| GitHub account (add once joined) 	| Email Address | 2FA active 	| Skills and Experiences they can offer 	|
-| ---  			| --- 			| --- 							| --- 					| --- 		| ---         	 | ---  			|
-| Laura Nollig		| Energinet 		| Technical/Business, setting up platform 		| lauranolling				| LAU@energinet.dk	| Y		|		|
-| Peter Nelleman	| Energinet/Omnium	| Technical/Business, setting up platform		| naltoc				| pn@omnium.dk	| N		|		|
-| Johannes Tigges 	| Energinet/Independent	| Technical/Business, setting up platform		| lenucksi				| johannes@g.johannestigges.de	| Y		|		|
-| Thomas Wisbech 	| Energinet/Independent	| Technical						| wisbech				| XTHOW@energinet.dk	| Y	|		|
-| Torben Kaaber  	| Concordium		| Business  (head of commercial at Concordium) 		| ?					| tka@concordium.com?	| ?		|		|
-| Maria Eisner Pelch  	| Concordium		| Business (but has big technical understanding)	| ?					| mep@concordium.com?	| ?		|		|
-| Torben Pryds Pedersen	| Concordium		| Technical advisor at Concordium)		| tpryds					| tp@concordium.com	| Y		|		|
-| Morten Jokumsen 	| Mjølner Informatics	| Technical 						| guidmaster				| mjo@mjolner.dk	| N		|		|
-| Jacob Damm 		| Mjølner Informatics	| Business 						| ?					| jda@mjolner.dk	| ?		|		|
-| Morten Houborg	| Energinet		| Business 						| MortenHouborg				| MHU@energinet.dk	| Y		|		|
-| Rasmus Ingstrup	| Energinet		| Business (To-be anchor of open source in Energinet) 	| rasmusingstrup			| RTI@energinet.dk	| N		|		|
-| André Bryde Alnor 	| Energinet		| Business (head of Digitalisering) 			| ?					| ach@energinet.dk	| ?		|		|
-| Martin Schmidt 	| Energinet		| Technical 						| MartinSchmidt				| MCS@energinet.dk	| Y	|		|
-| Gert Læssøe		| Alexandra Instituttet	| Technical, knowledge-provider 			| ?					| 					| ?		|		|
-| Nicolas Bernhardi	| Energinet	|  | NicolasENDK	| nba@energinet.dk	| Y	|	|
-| Gert L. Mikkelsen	| Alexandra Instituttet	|  | ?	| gert.l.mikkelsen@alexandra.dk	| ?	|	|
-| Tom Hagensen	| Alexandra Instituttet	|  | ?	| tom.hagensen@alexandra.dk	| ?	|	|
-| Michael Stausholm	| Alexandra Instituttet	|  | ?	| michael.stausholm@alexandra.dk	| ?	|	|
+| Name                    | Company 		            | Role in the project 					          | GitHub account (add once joined)  | Email Address                   | 2FA active 	| Skills and Experiences they can offer |
+| :---------------------- | :---------------------- | :-------------------------------------- |  :------------------------------- | :------------------------------ | :---------- | :------------------------------------ |
+| Laura Nolling Jensen    | Energinet 		          | Technical/Business, setting up platform | lauranolling				              | lau@energinet.dk	              | Y           |		                                    |
+| Peter Nelleman	        | Energinet/ Omnium	      | Technical/Business, setting up platform	| naltoc				                    | pn@omnium.dk	                  |	N	          |		                                    |
+| Johannes Tigges         |  Energinet/ Independent | Technical/Business, setting up platform	| lenucksi				                  | johannes@g.johannestigges.de    | Y           |		                                    |
+| Thomas Wisbech 	        | Energinet/ Independent  | Technical						                    | wisbech				                    | xthow@energinet.dk	            | Y           |		                                    |
+| Torben Kaaber  	        | Concordium		          | Business  		                          | ?					                        | tka@concordium.com	            | ?           |		                                    |
+| Maria Eisner Pelch      | Concordium		          | Business					                      | ?                                 | mep@concordium.com              |	?	          |		                                    |
+| Torben Pryds Pedersen	  | Concordium		          | Technical 		                          | tpryds					                  | tp@concordium.com	              | Y		        |		                                    |
+| Morten Jokumsen 	      | Mjølner Informatics	    | Technical 						                  | guidmaster				                | mjo@mjolner.dk	                | Y		        |		                                    |
+| Jacob Damm 		          | Mjølner Informatics	    | Business 						                    | ?					                        | jda@mjolner.dk	                | ?		        |		                                    |
+| Morten Houborg	        | Energinet		            | Business 						                    | MortenHouborg				              | mhu@energinet.dk	              | Y		        |		                                    |
+| Rasmus Ingstrup	        | Energinet		            | Business 	                              | rasmusingstrup			              | rti@energinet.dk	              | N		        |		                                    |
+| André Bryde Alnor    	  | Energinet		            | Business  			                        | ?					                        | ach@energinet.dk	              | ?		        |		                                    |
+| Martin Schmidt 	        | Energinet		            | Technical 						                  | MartinSchmidt				              | mcs@energinet.dk	              | Y	          |		                                    |
+| Nicolas Bernhardi   	  | Energinet	              | Business/Technical                      | NicolasENDK	                      | nba@energinet.dk	              | Y	          |		                                    |
+| Gert L. Mikkelsen   	  | Alexandra Instituttet	  | Technical                               | ?	                                | gert.l.mikkelsen@alexandra.dk	  | ?	          |		                                    |
+| Tom Hagensen	          | Alexandra Instituttet	  | Business                                | ?	                                | tom.hagensen@alexandra.dk	      | ?	          |		                                    |
+| Michael Stausholm	      | Alexandra Instituttet	  | Technical                               | MichaelStausholm                  | michael.stausholm@alexandra.dk  |	?	          |		                                    |
+| Mikkel Wienberg Madsen  | Alexandra Instituttet	  | Technical 			                        | Quacktiamauct                     | mikkel.wienberg@alexandra.dk    | ?		        |		                                    |
+| Søren Pedersen          | Energinet/ Independent  | Technical                               | Soped42                           | xsrpe@energinet.dk              | ?           |		                                    |
