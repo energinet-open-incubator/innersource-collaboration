@@ -47,6 +47,13 @@ This guide frequently references two documents:
 - The [Danish Digitalization Agencies' guide on legal aspects of Open Source from 2009](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845). It is referred to shortly as **DAP**.
 - Our [Energinet "Open Source as TSO" memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf). It is referred to shortly as **EnerginetFOSS-memo**. 
 
+Books on the topic:
+- Denmark: Possibly [IT-Retten](https://bibliotek.dk/da/work/870970-basis%3A26085950)
+  - Denmark: See also the literature appendix of the DAP.
+
+- US law: [Open Source for business](https://www.amazon.com/dp/B086G6XDM1)
+- German law:  [Jäger / Metzger](https://www.beck-shop.de/jaeger-metzger-open-source-software/product/26549144)
+
 Additional literature is referenced in the individual sections and will be collected in this section too.
 
 ## Disclaimer
