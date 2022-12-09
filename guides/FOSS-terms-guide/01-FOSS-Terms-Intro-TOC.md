@@ -22,14 +22,14 @@ Should you have questions, proposals for extension or clarification, please prov
 
 This document is separated into individual files based on the individual chapters. Click the links between the chapters to move.
 
-| Section | Title | Description | 
-| --- | --- | --- |
-| `1` |[Common Terms](02-FOSS-Terms-Intro-Common-Terms.md) | provides a high-level intuition and **definition of important technical terms** in a least technical explanation. | 
-| `2`| [Three Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.|
-| `3a`|[FOSS licenses](04a-FOSS-Terms-Intro-FOSS-licenses.md) | defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**. **FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use.|
-| `3b`|[FOSS governance](04b-FOSS-Terms-Intro-FOSS-governance.md) | **FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. It builds upon the previously defined terms. |
-|`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)|builds upon the previous sections to **define actionable items**. The section suggests an initial priorization, which can help enable the **creation of "canned decisions" (i.e. FOSS policy) to be re-used by management, domain experts and software engineers**.It also sets expectations what to expect from Open Source in the narrower sense and what not.|
-|`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|- as much as they're known - possible **specialties arising from the public sector and TSO environment**. **Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.|
+| Section | Title | Description | Level |
+| --- | --- | --- | --- | 
+| `1` |[Common Terms](02-FOSS-Terms-Intro-Common-Terms.md) | provides a high-level intuition and **definition of important technical terms** in a least technical explanation. | Beginner |
+| `2`| [Three Modes of Open Source](03-FOSS-Terms-Intro-3modes-of-FOSS.md)  | defines the most **common modes of Engagement** seen in Open Source. It provides definitions for and intuition about open source domain-specific terms.| Beginner |
+| `3a`|[FOSS licenses](04a-FOSS-Terms-Intro-FOSS-licenses.md) | defines **common use and expectations when using "Open Source licenses" and which areas they govern and which they don't**. **FOSS licenses** represent legally enforceable foundations such as liability limitations and strict, technical conditions for legal use.| Intermediate |
+| `3b`|[FOSS governance](04b-FOSS-Terms-Intro-FOSS-governance.md) | **FOSS governance** contains, among other aspects, the "social contract" parts around e.g. what is likely to be accepted, how a way from user to write rights and 'having a say on the future', etc. works. It builds upon the previously defined terms. | Beginner / some intermediate |
+|`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)| helps to set expectations what to expect from Open Source in the narrower sense and what not. <br />**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.| Beginner |
+|`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|highlights - as much as they're known - possible **specialties arising from the public sector and TSO environment**. <br />**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.| Beginner |
 
 Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS strategy](../FOSS-strategy-guide)
 
@@ -70,7 +70,7 @@ Any examples used are hypothetical and strongly simplified to provide an intuiti
 
 The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845) document.
 
-It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component. See also the book referenced in the legal analysis document by **Mads Bryde Andersen: IT- retten**
+It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component. See also the book referenced in the DAP by **Mads Bryde Andersen: IT- retten**
 
 It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component.
 
