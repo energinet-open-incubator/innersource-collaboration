@@ -82,10 +82,12 @@ With source code the "executing/building of the functionalities" written in the 
 
 - A package **has one or many associated owners** and - given sufficient originality - **is a work of art eligible to intellectual property protection**. 
 
+- A **FOSS package** is a package, just that all of its contents are FOSS. 
+
 - Three (strongly simplified) examples: 
-  - The [Linux kernel](https://kernel.org) (about 2000-3000 text files in source, about 10 files in binary), 
-  - [Numpy]() (a popular package data scientists use, e.g. for grid forecasting models), 
-  - Microsoft Word (Tenthousands of source code files noone outside of Microsoft gets to see, 1 file Word.exe plus 100s of support files in binary) 
+  - The [Linux kernel](https://kernel.org) (about 2000-3000 text files in source, about 10 files in binary) (*A FOSS package*)
+  - [Numpy]() (a popular package data scientists use, e.g. for grid forecasting models) (*A FOSS package*)
+  - Microsoft Word (Tenthousands of source code files noone outside of Microsoft gets to see, 1 file Word.exe plus 100s of support files in binary) (Very much *not a FOSS package*) 
 
 ### Deployment
 
@@ -137,7 +139,7 @@ Examples:
 
 # Open Source, not Open Service
 There exists an erroneous confusion of the two terms **Open Source** and **Open Service**. However, there is a crucial difference between them.
- 
+
 
 - **Source code and binaries** only cost storage space (and thus are almost free of monetary cost - think "cost of a usb stick"). They are **inert** and hence not able to process data on their own.
 

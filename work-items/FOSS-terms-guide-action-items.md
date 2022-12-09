@@ -120,7 +120,9 @@ Questions arising:
 
 - Would this hold under Danish law? And to which degree? Are there any court cases with known outcomes? (There are some for the first variation under US/German law) (There is some insight in the DAP GPL section, i.e. 2.2)
 - Does the "most restrictive wins" idea hold under Danish law? To which degree?
-- The concept of "derivative work" and when something represents a "derivative work" is one more most disputed concepts of the GPL and related licenses. [US]() and [German]() literature has opinions here, are there interpretations for Danish law? 
+- The concept of "derivative work" and when something represents a "derivative work" is one more most disputed concepts of the GPL and related licenses. US and German literature has opinions here, are there interpretations for Danish law? 
+  - See the [literature section of the FOSS Terms guide](../guides-FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md). The DAP mentions interpretations in footnotes 9 and 20.
+
 
 ###### License compliance on full publication
 The following position can be repeatedly heard by corporations with a "this is acceptable behavior" sentiment. It should be cleared legally if and to what extent it holds under Danish law. (And practically this should be cleared for other legislations too by the corporations arguing this. However, Energinet is Danish, so that's our focus here.)

@@ -39,8 +39,7 @@ A common monetization would be to enable multiple parties to offer implementatio
 
 **Action Points**:
 - We can contribute to this aspect by making our FOSS packages a friendly and cooperative place to collaborate 
-- Think about who makes decisions in terms of the roadmap/acceptance of patches (see [this section](#link-here) for considerations of who can become a trusted committer).				 
+- Think about who makes decisions in terms of the roadmap/acceptance of patches (see the [strategy guide](../FOSS-strategy-guide/)  or the [FOSS governance chapter](04b-FOSS-Terms-Intro-FOSS-governance.md)) for considerations of who can become a trusted committer).				 
 - Another option is to enable other companies to host our FOSS packages, offering certain services to others in exchange for compensation. 
 - Analog example: We develop an email protocol and server application, someone else the actual operation of the software following this standard for money (e.g., Gmail, or  United Internet).
-
 
