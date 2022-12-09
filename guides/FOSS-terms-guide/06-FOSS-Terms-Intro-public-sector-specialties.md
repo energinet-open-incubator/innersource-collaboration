@@ -6,6 +6,26 @@ As a publicly owned TSO that runs on public money, we are bound to additional sp
 
 Those rules could from concerns of critical infrastructure operation (NIS2 derivatives) or strict regulations on the use of public money or non-competition regulations as public body.     
 
+At a first glance, the following sections of the [EnerginetFOSS-memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf) appear to be especially relevant:
+(Authors entirely not legally founded opinion, i.e. folklore that we need to get checked.) 
+
+Section 4.2.1: In my interpretation we need to be able to argue the inverse of these things for each product. 
+- An interpretation could be "make the cake bigger for everyone". 
+  - Publishing a product others can sell services (support, hosting, ...) upon, i.e. creating a new market could - my 2 Øre for it - be one option.
+  - We will not act as an active participant of the market, but just provide the good that creates the market. (And maybe some fair rules that no one commercial participant monopolizes the market? Regulated markets should be Energinet's thing I guess... :wink: )  
+  - This requires the other parties to be have sufficient knowledge to do the above. 
+    - Which they usually end up with if they're actively involved in creating and maintaining the good.
+  - A concern regarding "market creation" arises from section 5, paragraph 4-6 (and section 7) in such that they require to check if there is already a market / good that we would displace with our publication before publishing.
+
+- Technically I see that 3.2 applies, but I would argue that 3.2 does not make the crucial Service/Source code separation. Thus leading to an exclusion that possibly does not have to be one.  
+- It restricts the fields of application to those listed in 4.1 (Could the outcome of the last bullet point change this?). 
+
+- We can support our claims by arguing that we give back to the public what we made with the public' money (Section 6, paragraph 6,7). (Additional doc relevant [here](https://www.digitaliser.dk/resource/2212763/artefact/OpenSource-softwareidetoffentlige.pdf?artefact=true&PID=2212766))
+- Section 6, paragraph 9 argues that participation in existing FOSS has reduced need for checks, as 'there already is FOSS for this in the market'.
+
+Nevertheless - see the action points for needed actions to see if the last paragraph holds and what details pertain to it.
+
+
 **Action Points**:
 
 - Any regulation and rules that apply to us here must be analyzed and interpreted in the context of the given FOSS product. See the [EnerginetFOSS-memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf) for a description of non-competition rules.
@@ -17,12 +37,13 @@ Those rules could from concerns of critical infrastructure operation (NIS2 deriv
 
 The [open source, open service](#open-source-not-open-service) separation is relevant here, as by this definition, any FOSS source code published by us - even modified by others through contributions - is inert and cannot harm our critical infrastructure. Only when deployed and introduced to the critical parts of our infrastructure damage can occur.
 
+
 **Action Point**:
 - Upon passing the boundary from source code to deployment, additional checks need to be in place. However, this is an Operations and IT security topic, and hence it is not addressed here.
 - In the case that another TSO chooses to use deploy our published FOSS package it is their responsibility to ensure that it fits their critical infrastructure security checks.
 
 
-- [] TODO: Add interpretation and links of boundaries of the  Energinet memo here and clear them with legal
+- [] TODO: Clear interpretation of boundaries of the Energinet with legal
 - [] TODO: Add pointers to rules arising from NIS derivatives etc.
 
 ## Private Money, Public Code - As a Private Entity
