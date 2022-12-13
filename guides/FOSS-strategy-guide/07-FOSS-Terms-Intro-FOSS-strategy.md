@@ -115,18 +115,51 @@ You want to sell a product that needs certain infrastructure. You want maximum a
 
 ## Common counter strategies
 
-Your competitors or members of the general public may not like what you're doing. Or they like it, but they want your money without investing your effort. 
+Your competitors or members of the general public might not like what you're doing. Or they like it, but they want your money without investing your effort. 
 
 Thus, there are common counter strategies or ways how those could devolve. A few examples are illustrated here.
 
+### Open Once, Open Always
+Once you stick an OSI license on an artifact and make it publicly visible on the internet, there is no way back. If you have a so called „permissive“ license on it (e.g. MIT, Apache2) even if you control the complete IP - and could thus decide to make it private or more restrictive – the freely licensed code will prevail and may be used by anyone as long as they abide to the terms of the license. Taking artifacts „private“ again will also lead to strong negative public reactions depending on how popular your artifact was before.
 
+### Forks
+This has already briefly been mentioned in the [FOSS Terms Guide governance section]() but it is a fundamental effect of Open Source, so it's mentioned again here with a derived effect that had some high profile occurances in the recent past.
 
-Making money by giving things away.
+Usually this is the consequence of attempting to restrict or „take private“ an artifact that was popular enough. Sometimes it even suffices to decide for an unpopular way with a large enough part of the user base to have them take your artifact and develop it further themselves. 
+While forking is one of the basic intended mechanisms of open source, if control of the direction of the product, revenue from the product in any of the ways illustrated above is critical to your business/part of your business strategy attempting to diplomatically keep things together is often a good idea. 
+Forks can quickly surpass the original artifact in popularity, leaving the original in the dust with a lot of effort invested but no leverage anymore. 
+- Examples: Nextcloud/Owncloud, Jenkins/Hudson, ElasticSearch/OpenSearch, OpenOffice/LibreOffice, Gitea/Gogs
+- The **hyperscaler dilemma**: 
+  - Imagine you follow an OpenCore / Service/Support / maybe parts of SaaS business strategy. 
+  - Your license allows others to offer commercial hosting for others of your product (think AWS hosting Elastic Search). 
+  - A competitor bigger and with larger economies of scale comes along and kills your SaaS business, your Service/Support offerings by offering what you offer cheaper and more convenient. 
+  - What do you do? You could try to restrict the „commercial hosting“ ability even further. If the competitor has enough resources, they will fork your existing product and continue development on their own. They can fully open their code because it has no value to them as their SaaS offering and integration into their SaaS environment pays for it.
+  - Examples: ElasticSearch/OpenSearch, Redis, MongoDB, ...
 
-Kurzer Anriss der Möglichkeiten mit direktem Link Verweis auf die WP und das Intro Dokument -> Das ist am Schluss Business, nicht mehr Legal.
+### Unpopular Open Core communities
 
-### Losing money by giving things away.
+Open Core requires you to control your core and to exert some control or ensure incentives for your non-open supplements to stay economically valuable.
+This can quickly lead to communities that do not feel authentic or lead people to get the impression of being the „useful idiot“ providing free work for a corporate that is exploiting them. It can work, but it is a very thin and delicate path to walk.
+- Camunda follows this to some degree with success. So does Mattermost.
 
-Hyperscaler fun, wie FOSS Lizenzen gegen einen gedreht werden. 
+### People breaking the Open Core supplements
+Related to the above – imagine an Open Core product that sells specific high availability or enterprise authentication supplements.
+An enterprise using the core product figures that the main product is useful enough to them that they need the supplements but their calculations and resources show that building the desired supplement themselves is cheaper than buying it for them. They decide to „publish what they build for the greater good“. 
+You now have no-cost competition in your supplements you rely on to realize parts of your revenue. This could also be done by the enterprise to convince/nudge the Open Core company to integrate the built functionality into the core as a face-keeping way out for your company that at the same time removes the need to maintain what they built for the enterprise.
 
-Punkt to be made: Be vigilant, understand the domain, see cautionary signs and react.
+### Losing your own standard
+You‘re trying to play the standardization strategy to make your plans be the default approach for everyone. You have invested x people and use board style governance based on majority. 
+A bigger player (MS, Google, IBM, …) invests more people and money and manages to overtake your majority in the board. You now have lost (majority) control over your standard.
+
+## Marketing (or: build it and they won't come)
+There's a common saying: "Build it and they will come".
+It is about as true and false at the same time as the "Open Source is more secure because when the code is open it's being constantly reviewed and all bugs are found automagically".
+
+The reality is that especially if you have a corporate focused product that does not have ultimate novelty, solves a really bad hemorrage a gazillion of engineers have or is "technically sexy" (read: buzzword complete regarding a recent enough hot buzzword) that there will be a really large amount of other product competing for people short attention spans. 
+
+This means that marketing will be required. Since the product you are marketing effectively is code, and you want adoption for said code, you will need to market to developers. 
+Also, of course, to support allocation of resources for them, you will need to also market to business. 
+Especially in the earlier development stages, where there is no polished product the primary target group will be developers.
+Good documentation, technical depth, technically well made execution and something that is technically interesting (and of course buzzword complete to some degree) will often attract developers. Plus a friendly community where they can directly get technical answers. 
+So don't build a "talk to sales" front-end, a ticket system or technically clueless product manager in between.  
+Listening to what your developers would find interesting can often help.
