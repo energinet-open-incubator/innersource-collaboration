@@ -23,7 +23,7 @@ Today, open source has become a strongly commercially used approach as well. It 
 It is recommended to align with the before-mentioned liberal and self-sovereign agenda where possible, as the pool of talents with Open Source skills is s largely powered by the attractiveness of said agenda. Incidentally, this agenda is consistent with the concept of "public money, public code", which is highly applicable to Energinet as a TSO. 
 
 The [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845)) document has a short section on this too, see section 1.1.1.
-Our ["EnerginetFOSS-memo]((../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf)) document also highlights the connection to "public money, public code" in section xyz . <!-- TODO add proper reference here -->   
+Our ["EnerginetFOSS-memo]((../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf)) document also highlights the connection to "public money, public code" in [section 06 "FOSS and the public sector / TSOs"](06-FOSS-Terms-Intro-public-sector-specialties.md). 
 
 
 ### Open Source, FOSS, FLOSS
@@ -33,6 +33,47 @@ OSS where the authors don't feel that FOSS sufficiently highlights the political
 In the end, all of it is Open Source Software as illustrated below. They only differ in their strict expectations on how corporate involvement is supposed to look like and the behaviors around such software.
 
 This guide generally uses **FOSS** to refer to software and **Open Source** to the approach to work. 
+
+### InnerSource
+
+The next chapter will address practical domain terms of FOSS. 
+It will, among other things, declare that FOSS consists of a **specific way of working**.
+Also, it will state that **collaboration across corporate entities** (or individuals and corporate entitites) is defining for FOSS. 
+ 
+There is derivative of FOSS, growing in popularity the last few years. It is called **InnerSource**, sometimes also written as Inner Source. 
+
+#### How does InnerSource differ from Open Source and where does it overlap?
+
+InnerSource refers to the **use of FOSS (Open Source) ways of working inside the boundaries of one corporate**, e.g. just between Energinet employees.
+The "cross entity collaboration" here refers to collaboration between e.g. teams in different business units but still the same corporation.
+
+What is common to be shared? 
+ - Work on a library that everyone uses, e.g. a design system.
+ - Work on a common analytics library, a common build support functions package used by e.g. DevOps people across multiple projects.
+
+How are things often shared?
+ - Team A (called a "Guest Team") found a bug or found a feature that they think could be beneficial for everyone using Team B's (called the "Host Team") product/library etc.
+ - Team B declared that they are open to contributions from others.
+ - Team A now either directly creates a pull request (in the case of a small bug fix) or briefly informs Team B about their plans to contribute something and they discuss if its fits and how it's best done.
+ - Team A builds the changes and pull requests it to Team B's project. A knowledgeable person from Team B reviews the changes and mentors the person from Team A for any needed changes they should make such that the change fits well into Team B's product. Team A makes said changes until it's good to be included.  Once that's done, Team B includes ("merges") the changes Team A made into their product.
+ - It is common to have someone from Team A answer to all questions around the new change for 30 days. (Called "30 days of warranty") to ensure a smooth handover. After 30 days, the change is maintained by Team B as if they had made it.
+ - Everyone won. Ideally more people than just the ones involved got a bug fixed or a feature added that is beneficial for them, less wasteful planning and silo-jumping/escalation was needed, some communication bridges (direct relations between people) have been established or improved, etc.
+
+How can I plan this in my Agile?
+ - Software developers time is often highly utilized. It is a belief often seen that only a coding developer is a good developer.
+ - Wouldn't this interruption from the outside or communication stuff reduce their coding time and thus make things less effective?
+ - As it turned out: This is actually not very likely.
+ - Since you would have to do the work yourself anyway (if its fixing a bug at your side instead, or building a work around, or escalating to another team, etc.). So you would plan the work anyway. 
+ - What you do now, is that you include work of contributing elsewhere and doing work that benefits you at another place just like you would plan work that you're doing at your place.
+ - To handle incoming requests (after all, other people fixing your bugs still benefits you - the same goes with features being added for you) you just plan them the same way. Also, it has turned out to often be beneficial to leave a certain amount of slack in the planning to enable developers to handle open unplannable work.
+
+In InnerSource the entire time, no code leaves the corporate boundaries. Nothing is published to the outside world. 
+You can, of course, decide that you want to turn something that lived as a dedicated InnerSource product/library so far as Open Source. That is a different effort and change of modalities though.
+
+In an ideal case, developers and non-developers can learn a good part of the ways of working of FOSS in a safe way (without the risks from publication and potentially hostile outside people) through InnerSource experience.
+
+The rest of this guide deals with FOSS / OpenSource, i.e. the non-inside corporate boundary only application. 
+If you want to learn more about InnerSource and its ways of working, see [this guide](https://innersourcecommons.org/learningpath) for more.
 
 ## Fundamental Technical Terms
 
