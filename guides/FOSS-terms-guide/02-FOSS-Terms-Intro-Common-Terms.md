@@ -40,7 +40,7 @@ The next chapter will address practical domain terms of FOSS.
 It will, among other things, declare that FOSS consists of a **specific way of working**.
 Also, it will state that **collaboration across corporate entities** (or individuals and corporate entitites) is defining for FOSS. 
  
-There is derivative of FOSS, growing in popularity the last few years. It is called **InnerSource**, sometimes also written as Inner Source. 
+There is a derivative of FOSS, growing in popularity the last few years. It is called **InnerSource**, sometimes also written as Inner Source. 
 
 #### How does InnerSource differ from Open Source and where does it overlap?
 
