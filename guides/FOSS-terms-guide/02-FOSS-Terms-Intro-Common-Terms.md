@@ -51,7 +51,7 @@ What is common to be shared?
  - Work on a library that everyone uses, e.g. a design system.
  - Work on a common analytics library, a common build support functions package used by e.g. DevOps people across multiple projects.
 
-How are things often shared?
+**How are things often shared?**
  - Team A (called a "Guest Team") found a bug or found a feature that they think could be beneficial for everyone using Team B's (called the "Host Team") product/library etc.
  - Team B declared that they are open to contributions from others.
  - Team A now either directly creates a pull request (in the case of a small bug fix) or briefly informs Team B about their plans to contribute something and they discuss if its fits and how it's best done.
@@ -59,8 +59,8 @@ How are things often shared?
  - It is common to have someone from Team A answer to all questions around the new change for 30 days. (Called "30 days of warranty") to ensure a smooth handover. After 30 days, the change is maintained by Team B as if they had made it.
  - Everyone won. Ideally more people than just the ones involved got a bug fixed or a feature added that is beneficial for them, less wasteful planning and silo-jumping/escalation was needed, some communication bridges (direct relations between people) have been established or improved, etc.
 
-How can I plan this in my Agile?
- - Software developers time is often highly utilized. It is a belief often seen that only a coding developer is a good developer.
+**How can I plan this in my Agile?**
+ - Software developers' time is often highly utilized. It is a belief often seen that only a coding developer is a good developer.
  - Wouldn't this interruption from the outside or communication stuff reduce their coding time and thus make things less effective?
  - As it turned out: This is actually not very likely.
  - Since you would have to do the work yourself anyway (if its fixing a bug at your side instead, or building a work around, or escalating to another team, etc.). So you would plan the work anyway. 
