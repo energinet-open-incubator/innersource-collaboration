@@ -52,7 +52,7 @@ What is common to be shared?
  - Work on a common analytics library, a common build support functions package used by e.g. DevOps people across multiple projects.
 
 **How are things often shared?**
- - Team A (called a "Guest Team") found a bug or found a feature that they think could be beneficial for everyone using Team B's (called the "Host Team") product/library etc.
+ - Team A (called a **"Guest Team"**) found a bug or found a feature that they think could be beneficial for everyone using Team B's (called the **"Host Team"**) product/library etc.
  - Team B declared that they are open to contributions from others.
  - Team A now either directly creates a pull request (in the case of a small bug fix) or briefly informs Team B about their plans to contribute something and they discuss if its fits and how it's best done.
  - Team A builds the changes and pull requests it to Team B's project. A knowledgeable person from Team B reviews the changes and mentors the person from Team A for any needed changes they should make such that the change fits well into Team B's product. Team A makes said changes until it's good to be included.  Once that's done, Team B includes ("merges") the changes Team A made into their product.
