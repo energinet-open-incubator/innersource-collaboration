@@ -64,7 +64,7 @@ What is common to be shared?
  - Wouldn't this interruption from the outside or communication stuff reduce their coding time and thus make things less effective?
  - As it turned out: This is actually not very likely.
  - Since you would have to do the work yourself anyway (if its fixing a bug at your side instead, or building a work around, or escalating to another team, etc.). So you would plan the work anyway. 
- - What you do now, is that you include work of contributing elsewhere and doing work that benefits you at another place just like you would plan work that you're doing at your place.
+ - What you do now, is that you include the work of contributing elsewhere and doing work that benefits you, however "lives" in another product/team just like you would plan work that you're doing in your product/team.
  - To handle incoming requests (after all, other people fixing your bugs still benefits you - the same goes with features being added for you) you just plan them the same way. Also, it has turned out to often be beneficial to leave a certain amount of slack in the planning to enable developers to handle open unplannable work.
 
 In InnerSource the entire time, no code leaves the corporate boundaries. Nothing is published to the outside world. 
