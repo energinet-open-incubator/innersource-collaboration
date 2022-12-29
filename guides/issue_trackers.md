@@ -88,6 +88,8 @@ Github will automatically keep track of the tasks, so when issues are closed, th
 
 <img src="figures/issues_task_tracking.png" width="70%"/>
 
+You can create a task list, by using the issue template made for this purpose: [Task List Issue Template](https://github.com/project-origin/.github/blob/main/.github/ISSUE_TEMPLATE/task_list.yml). 
+
 For more information about Github Task Lists, you can take a look at [Github's official Documentation on task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists).
 
 ## Issue Templates
