@@ -1,5 +1,5 @@
 # Issue trackers in Github
-This document provides an [Overview](#overview) on Issues, describing their purpose and layout on Github. Additionally, some [Guidelines](#guidelines) are provided, specifying best practices for using them here in Project Origin.  
+This guide provides an overview on the Issues tool on Github, describing their purpose and layout on Github. Additionally, some information about how to use them here in Project-Origin is provided.  
 
 ## Overview
 An issue in Github can be created to track progress on a specific task or topic. 
