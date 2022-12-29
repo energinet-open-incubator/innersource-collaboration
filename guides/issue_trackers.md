@@ -84,7 +84,7 @@ When you navigate to one of the issues linked in the task list, Github will show
 
 <img src="figures/issues_task_tracked_by.png" width="50%"/>
 
-Additionally, Github will automatically keep track of the tasks, so when issues are closed, they will automatically be marked as "complete" in the task list:
+Github will automatically keep track of the tasks, so when issues are closed, they will automatically be marked as "complete" in the task list. Alternatively, you can mark tasks as complete, by clicking the checkbox. The number of task completed is shown in the issue containing the task list:
 
 <img src="figures/issues_task_tracking.png" width="70%"/>
 
