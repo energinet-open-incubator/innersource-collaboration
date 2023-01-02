@@ -49,4 +49,4 @@ Using RFCs as decision logs, can serve two purposes
 - Act as a documentation of decisions made, such that everyone who didn't participate in the given meeting, is informed. 
 
   
-You can learn more about using RFCs in projects from this 8InnerSource Commons RFC Pattern](https://patterns.innersourcecommons.org/p/transparent-cross-team-decision-making-using-rfcs) and from the [Youtube video about how BBC iPlayer and Sounds uses RFCs](https://www.youtube.com/watch?v=U6zlghE0HcE). 
+You can learn more about using RFCs in projects from this [InnerSource Commons RFC Pattern](https://patterns.innersourcecommons.org/p/transparent-cross-team-decision-making-using-rfcs) and from the [Youtube video about how BBC iPlayer and Sounds uses RFCs](https://www.youtube.com/watch?v=U6zlghE0HcE). 
