@@ -19,7 +19,7 @@ In Table view:
 
 You can add attribute fields/columns by clicking the "+" on the top right, where there are a few options on what to add:
 
-<img src="figures/projects_field.png" width="90%" />
+<img src="figures/projects_field.png" width="20%" />
 
 In Board view:
 
@@ -38,22 +38,22 @@ If you search, you can find any existing issue or pull request that you want to 
 
 To move a card between columns, simply drag and drop the card to the desired column:
 
-<img src="figures/projects_move_card.png" width="90%" />
+<img src="figures/projects_move_card.png" width="50%" />
 
 When you click on a card title, a quick view will pop up for the (draft) issue or pull request that the card contains:
 
-![issues tab](figures/projects-list-inline-issueview.png)
+![issues view](figures/projects-list-inline-issueview.png)
 
 Remember to save your view, when you finished modifying it, as this doesn't happen automatically:
 
-<img src="figures/projects_save.png" width="90%" />
+<img src="figures/projects_save.png" width="30%" />
 
 ## Using Projects in Project-Origin
 A number of projects already exists in Project-Origin, which are visible [here](https://github.com/orgs/project-origin/projects). You can either use the existing project views, whenever these are most relevant to you, or create your own view in a given, relevant project, to e.g., track progress on your own issues and pull requests. 
 
-<img src="figures/projects_new_view.png" width="90%" />
+<img src="figures/projects_new_view.png" width="70%" />
 
 Alternatively, you can create your own project, if you find it relevant. 
 
 ## More Information about Projects
-GitHub offers a further description of using Projects [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects).
+GitHub offers a more extensive guide on Projects [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects).
