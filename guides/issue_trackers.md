@@ -1,5 +1,5 @@
 # Issue trackers in Github
-This document provides an [Overview](#overview) on Issues, describing their purpose and layout on Github. Additionally, some [Guidelines](#guidelines) are provided, specifying best practices for using them here in Project Origin.  
+This guide provides an overview on the Issues tool on Github, describing their purpose and layout on Github. Additionally, some information about how to use them here in Project-Origin is provided.  
 
 ## Overview
 An issue in Github can be created to track progress on a specific task or topic. 
@@ -57,29 +57,41 @@ As an alternative to the full list of issues in the Issues tab, issues can be pu
 ![issues tab](figures/projects.png)
 
 In Projects, the advantage is that you can make your own custom views, and sort the issues by issues by topic, priority, status, and others. 
-Projects can be viewed either as a KANBAN (see also: Trello) style board or as a list. Here's how the different Projects views look:
+Projects can be viewed either as a KANBAN (see also: Trello) style board or as a list. 
 
-As a KANBAN view:
-
-<img src="figures/kanban-view.png" width="90%" />
-
-As a List/Table:
-
-<img src="figures/list-view.png" width="90%" />
-
-It can be a good idea to bookmark the project view you're using often (all projects have stable links). 
 Note that you can add _items_ in the Projects views. 
 These will be created as _draft issues_. 
 However, these are local to the project board and have very little features. 
 There's a button in the _draft issue_ to convert them to a "real" issue.
 
-GitHub offers a further description of using Projects [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects). 
-
-### Handling issues directly in the Projects view
 The Projects views also offer you a _quick issue view_ if you click on an issue's title:
 
 ![issues tab](figures/projects-list-inline-issueview.png)
 
-## Guidelines
+To learn more about the Github Projects feature, you can take a look at the [Projects Guide](https://github.com/project-origin/origin-collaboration/tree/main/guides/projects.md).
 
-To use issues in Project Origin, we have set up some guidelines, to make sure that all the relevant information will be included, and that it is easier to find the issues to people for whom it is relevant.
+## Task Lists using Issues
+Creating task lists to keep track of progress on a specific block of work can be very useful. You can use issues to divide a larger task into smaller to-do's and track progress on these to-do's using Github's Task List feature:
+
+<img src="figures/issues_task_list.png" width="70%"/>
+
+When adding tasks you can either tag existing issues, or — when you have written down your to-do's — convert these to issues:
+
+<img src="figures/issues_task_issue_tag_issue.png" width="70%"/>
+<img src="figures/issues_task_issue_create.png" width="70%"/>
+
+When you navigate to one of the issues linked in the task list, Github will show the issue number of the task list:
+
+<img src="figures/issues_task_tracked_by.png" width="50%"/>
+
+Github will automatically keep track of the tasks, so when issues are closed, they will automatically be marked as "complete" in the task list. Alternatively, you can mark tasks as complete, by clicking the checkbox. The number of task completed is shown in the issue containing the task list:
+
+<img src="figures/issues_task_tracking.png" width="70%"/>
+
+You can create a task list, by using the [issue template](https://github.com/project-origin/origin-collaboration/issues/new/choose) made for this purpose. 
+
+For more information about Github Task Lists, you can take a look at [Github's official Documentation on task lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists).
+
+## Issue Templates
+
+To use issues in Project Origin, we have set up some issue templates, to make sure that all the relevant information will be included, and that it is easier to find the issues to people for whom it is relevant. Take a look at the [Issue templates here](https://github.com/project-origin/origin-collaboration/issues/new/choose).
