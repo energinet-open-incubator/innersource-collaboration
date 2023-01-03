@@ -64,7 +64,6 @@ The _Facilitator_ conducts the meeting so that all of the agenda items are finis
   * The **Done** column does not need review.
   * Call out if anyone would like to review any issue in the **To Do** column.
   If so, then treat that issue like a regular agenda item.
-  If not, then no further discussion is needed.
 
 * Remember that it's OK to finish early.
 Once the agenda is complete the meeting is over.

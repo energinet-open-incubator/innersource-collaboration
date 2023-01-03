@@ -6,7 +6,7 @@ Copy the assignments from the last meeting where it says Fill in assignments fro
 Delete the Do these things to set up this document and its bullet points.
 -->
 
-# Project Origin Working Group Meeting MMMM D, YYYY
+# Project Origin Working Group Meeting MM, DD, YYYY
 
 ## Roles
 - [Scheduler][Scheduler] : 
@@ -17,10 +17,10 @@ Delete the Do these things to set up this document and its bullet points.
 ## Agenda
 
 - (if new attendees)
-  - Roundtable introductions - name, where from, nature of interest in project origin.
+  - Roundtable introductions - name, where from, nature of interest in Project-Origin.
   - Explain the purpose of this working group.
-- [ ] Review status of in-flight work from the [internal project board] [project board internal].
-- [ ] Review status of in-flight work from the [Collaboration project board] [project board collaboration platform].
+- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1) [project board internal].
+- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1) [project board collaboration platform].
 - [ ]  Fill in a summary of items on the project board
 - [ ] Empty the “Done” column on the project board.
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
@@ -44,7 +44,7 @@ Delete the Do these things to set up this document and its bullet points.
 ## Assignments
 - The person's name+GitHub handle  that agreed to do it
   - Put them here, One assigment  per line, repeat the two lines per person
-    - Something that turned out to work was to put a short not after doing it here on what has been done. And ~~strike out the above~~.
+    - To keep track of what has been done, do like this to ~~strike out the assignment~~.
 
 ## Next Meeting’s Roles
 
@@ -53,7 +53,7 @@ Delete the Do these things to set up this document and its bullet points.
 - [Facilitator] [Facilitator]: 
 - [Scribe] [Scribe]:  
 
-[project board internal]: https://github.com/orgs/project-origin/projects/6/views/2
+[project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
 
