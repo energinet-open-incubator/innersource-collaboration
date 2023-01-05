@@ -40,7 +40,7 @@ If we decide to use RFCs to propose new ideas, similar to the use in ETT, such R
 
 ## RFCs as decision logs 
 
-Often, decisions are made in meetings. However, making decisions only in a narrow time-slot in meetings every one or two weeks, is not very efficient, nor very scalable. 
+Often, decisions are made in meetings. However, making decisions only in a narrow time-slot in meetings every one or two weeks, is neither very efficient, nor very scalable. 
   
 Using RFCs as decision logs, can serve two purposes 
 
