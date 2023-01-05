@@ -20,7 +20,7 @@ They provide a guide, that explains when an RFC needs to be filled out in their 
 Many are inspired by their approach, and there are probably some specific elements here, that are useful for us in creating a structured, open collaboration. 
 
 They are also popular in [Energy Track and Trace (ETT)](https://github.com/Energy-Track-and-Trace), which is a project Energinet is part of. 
-In ETT, RFCs are used as issue templates and to propose new ideas in a structured, documented way.  
+In ETT, RFCs are used as [issue templates](https://github.com/project-origin/origin-collaboration/blob/main/guides/issue_trackers.md#issue-templates) and to [propose new ideas in a structured, documented way](https://github.com/Energy-Track-and-Trace/ett-documentation/tree/main/rfcs).  
 
 ## How can RFCs be useful for us? 
 
