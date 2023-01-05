@@ -42,6 +42,8 @@ Delete the Do these things to set up this document and its bullet points.
   - If there's something un-githubbable, put some words here. You can refer to any persons involved by their GitHub handles if that helps getting the situation forward.
 
 ## Assignments
+Put assignments here in the following format: 
+
 - The person's name+GitHub handle  that agreed to do it
   - Put the assignments for that person here. Only one assignment  per line.
     - To keep track of what has been done, do like this to ~~strike out the assignment~~.
