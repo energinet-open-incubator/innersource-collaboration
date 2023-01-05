@@ -14,7 +14,8 @@ If you are using FOSS, you are using something someone put on the street with a 
 
 There is [„Linus Law“](https://en.wikipedia.org/wiki/Linus%27s_law) stating „with enough eyes, all bugs are shallow“. But what if everyone mutually relies on the eyes of the others being there and does not do anything themselves? The law inverts. 
 
-See also: [Open Source sustainability](). What happens if there are malicious actors keeping bugs for themselves to use them against you? What if these actors are your own intelligence agency members? 
+See also: [Open Source/FOSS sustainability](https://www.forbes.com/sites/forbesbusinesscouncil/2022/03/11/open-source-how-the-sector-has-changed/),[here](https://www.pensionbee.com/blog/2022/august/open-source-software-sustainability-problems),[here](https://opensource.com/article/22/11/sustainability-open-source),[or here](https://www.projectmanagementplanet.com/five-key-insights-for-open-source-projects-sustainability/). What happens if there are malicious actors keeping bugs for themselves to use them against you? What if these actors are your own intelligence agency members? 
+  - One [practical suggestion to the financial support approach](https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/) to FOSS sustainability
 How can you approach this problem?
 
 -  You can try to buy vetted open source with e.g. Red Hat Enterprise distributions. This does by far not work for all FOSS you use, especially not the components you‘re using to build your software that your engineers download from the Internet en passant.
