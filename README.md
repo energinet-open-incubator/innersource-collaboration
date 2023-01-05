@@ -34,5 +34,7 @@ If this is your first time participating in a project on Github, we will recomme
 
 - A useful issues filter showing everything but the workshop stickies: https://github.com/project-origin/origin-collaboration/issues?q=is%3Aissue+is%3Aopen+-label%3Aworkshop+ (i.e. all labels but the "workshop" label)
  
+#### External Ressources
+Additional to the content here on Github, we are collaborating using a [Miro board](https://miro.com/app/board/uXjVP3As-l8=/). If you don't have access, you can request it by writing an e-mail to lau@energinet.dk.
 
 
