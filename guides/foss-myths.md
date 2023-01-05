@@ -35,7 +35,7 @@ Legal ramifications aside (see the [FOSS Terms guide](https://github.com/project
 
 ## Foundation! You need to be in a foundation! All open source is owned by a foundation!
 
-Foundations (non-profit corporate entities made to legally own and defend the FOSS IP others gave them to steward) exist. In case of the [ASF]() or [Eclipse foundation]() they provide a vendor neutral home for a lot of IP. You can donate money to them. It's not the worst idea for a good number of cases.
+Foundations (non-profit corporate entities made to legally own and defend the FOSS IP others gave them to steward) exist. In case of the [ASF](https://www.apache.org/) or [Eclipse foundation](https://www.eclipse.org/) they provide a vendor neutral home for a lot of IP. You can donate money to them. It's not the worst idea for a good number of cases.
 
 Reducing FOSS sustainability to sponsoring a random foundation is not a useful approach. Why?
 
