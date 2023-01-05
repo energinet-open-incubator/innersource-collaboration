@@ -43,7 +43,7 @@ Delete the Do these things to set up this document and its bullet points.
 
 ## Assignments
 - The person's name+GitHub handle  that agreed to do it
-  - Put them here, One assigment  per line, repeat the two lines per person
+  - Put the assignments for that person here. Only one assignment  per line.
     - To keep track of what has been done, do like this to ~~strike out the assignment~~.
 
 ## Next Meeting’s Roles
