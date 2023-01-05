@@ -20,7 +20,8 @@ How can you approach this problem?
 
 -  You can try to buy vetted open source with e.g. Red Hat Enterprise distributions. This does by far not work for all FOSS you use, especially not the components you‘re using to build your software that your engineers download from the Internet en passant.
 
-- You vet and control what you use yourself. Invest in the usual [SBOM/SCA tooling]() so you know what you're using. 
+- You vet and control what you use yourself. Invest in the usual [SBOM/SCA tooling](https://wiki.owasp.org/images/b/bd/Software_Composition_Analysis_OWASP_Stammtisch_-_Stanislav_Sivak.pdf) so you know what you're using. 
+SCA/ACT is a larger topic in itself as it is the technical manifestation of multiple fields. Take a step back, understand the individual fields, the dynamics, think about what you want to do and slow evolve. There is reasonable FOSS software for many fields as well as there is good and bad commercial software.
 - Think about policies and follow them, train people in contact with Open Source on these topics and policies. Support them with tooling; it's too much to tackle without good tooling. 
 - Have an active ear on the projects mailing lists and in the communities whose products you use.  	
 - Invest in open source sustainability. And move if you find that a component does not fit to your policies anymore. You could either take over the component if you have the resources and is important enough to you – or you have to reengineer to another component.
