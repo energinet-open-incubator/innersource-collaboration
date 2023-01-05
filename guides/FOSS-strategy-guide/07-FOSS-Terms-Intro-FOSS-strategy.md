@@ -7,13 +7,15 @@ It is strongly recommended to read the [Intro to FOSS Terms guide](../FOSS-Terms
 While the FOSS Terms guide addresses a more constraint, technical and legal driven perspective, this guide addresses a more business driven perspective. However, as FOSS is a mixture of software engineering (domain), legal (tools/mechanics) and business/social (strategy+incentive building, ways of working), attempting to neglect one of the aspects is a reasonably safe way to trouble.
 
 ## Overview 
-Creating FOSS costs money (or at least time) as there are at least software engineers involved, often more and other roles. To some degree, such work can take place as a hobby of a software engineer. Such works can also grow in unimaginable ways, e.g. Linux, the hobby project of a Finnish computer science student.
+Creating FOSS costs money (or at least time) as there are at least software engineers involved, but often also more and other roles. 
+To some degree, such work can take place as a hobby of a software engineer. 
+Such work can also grow in unimaginable ways, e.g. Linux, the hobby project of a Finnish computer science student.
 
 Usually any larger work will need significant investment of time and thus money. Especially sustaining a software in the longer run, even more so if it is widely used, requires dedication. Often, maintenance work is far from attractive and thus does not attract hobbyists. Comparison: Nobody works for the municipal waste management services for free because it's such an attractive job. 
 
 Thus, much of FOSS strategy consists of finding and keeping the resources to build things and to keep them alive. The difference between classic commercial products and FOSS products is that in-kind support from various parties profiting from the product is a rather common source of resources.
 
-Often, in projects with a tall goal, time lines defined beyond "it's done when it's done" or a subject that is more valuable or enticing to commercial entities the bulk of the work is sponsored by said corporate entities, usually by paying the software engineers and other people involved.
+Often, in projects with a tall goal, timelines defined beyond "it's done when it's done" with a subject that is more valuable or enticing to commercial entities, the bulk of the work is sponsored by said corporate entities, usually by paying the software engineers and other people involved.
 
 ## Challenges
 This brings up certain challenges:
@@ -30,7 +32,7 @@ This brings up certain challenges:
   - You can't do shortcuts anymore as others will see all shortcuts you take. 
   - Communicating as briefly and implicitly as common with corporate projects will make it hard to impossible for external bystanders to participate. Which you might want.  
 
-These challenges in general revolve around designing incentives, a classic part of business strategy. However, this variation is more interactive and participatory as opposed to a more transactional approach in other strategies. 
+These challenges in general revolve around designing **incentives**, a classic part of business strategy. However, this variation is more interactive and participatory as opposed to a more transactional approach in other strategies. 
 
 A common comparison is the agricultural cooperative or other non-profit cooperatives.
 
@@ -48,7 +50,7 @@ The following collection isn't complete, precise or authoritative. Try to unders
 
 Take these leading questions to for all strategies:
 - If you use someone else's FOSS: Why would they put it out for free and what follows for me from that? Is there any money made? Do they need to make money?
-- If you publish FOSS for others to use: What do I expect others to do, why do I do this, how do I finance the extra effort, etc. 
+- If you publish FOSS for others to use: What do you expect others to do, why do you do this, how do you finance the extra effort, etc. 
 
 There's a set of articles around this, see there if you want to read more:
 
@@ -71,7 +73,7 @@ You build something free, it becomes popular because it is useful. As the expert
 - Examples: Red Hat, Ubuntu, GitLab (to some degree), any company with support contracts on OSS
 
 ### Open Core
-You build something free, it becomes popular. Corporates start to use it. They  now need features your average SOHO/private user does not need, e.g. enterprise SSO integration or high availability. 
+You build something free, it becomes popular. Corporates start to use it. They now need features your average SOHO/private user does not need, e.g. enterprise SSO integration or high availability. 
 You sell those add-on components as commercial products with a good price tag. Usually you will combine this with Service & Support. You can also upsell this into a cloud SaaS product.
 - Examples: GitLab, commercial FOSS distributions (Kafka vs. Confluence), Elastic Stack products (see below: the hyperscaler dilemma)
 
