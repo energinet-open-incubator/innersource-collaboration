@@ -32,10 +32,10 @@ Hence, if we decide to actively use RFCs during our project, they will create a 
 
 If we decide to use RFCs to propose new ideas, similar to the use in ETT, such RFCs can be useful in two ways:  
 
-If assigned with a status, it can be used to make decisions, for example deciding how to use, or implement the idea, 
+1. If assigned with a status, it can be used to make decisions, for example deciding how to use, or implement the idea, 
 
-It can be used to develop the idea from concept to a well-defined, implementable feature, by allowing participants to discuss the idea, and collaborate on refining it. 
-If going with this use case, the RFC can at the same time function as a first draft to new documentation of the feature being implemented. 
+2. It can be used to develop the idea from concept to a well-defined, implementable feature, by allowing participants to discuss the idea, and collaborate on refining it. 
+- If going with this use case, the RFC can at the same time function as a first draft to new documentation of the feature being implemented. 
   
 
 ## RFCs as decision logs 
