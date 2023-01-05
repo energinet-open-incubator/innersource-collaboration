@@ -1,0 +1,89 @@
+# How to handle asynchronous environments
+
+Corporate software development (from ideation to creation of code and final operation of the envisioned solution) usually happens in co-location and with lots of face-to-face communication. Agile is famous to highlight these two aspects.
+
+Sometimes you will work with "externals" (i.e. people you contracted but who're not directly/permanently employed by your company) who still usually are pretty close by, e.g. the next bigger (or smaller) town. You will have countless meetings, some with effect, others with the just the effect of being social glue making certain aspects of the work easier. 
+
+Seldom, or more often if you are part of a multinational corporate, you will work with people in other timezones. Meetings at funny times will be had, lots of mails will be written.  Sometimes funny effects of cross-cultural communication will be experienced. Maybe every once in a while you'll even board a plane and visit each other only to condemn the jetlag for 3 weeks after the meeting. (Sure, beer was absolutely not a factor in play. Of course.)
+Still, you can usually build on quite a bit of shared corporate culture and goals that will facilitate collaboration and set some common expectations. 
+
+Imagine that FOSS and Open Source is the continuation of the multinational corporate example ad extremum. But without the binding shared corporate culture and goals. 
+(Technically, there is roughly a shared culture of FOSS - it's the historical political underpinnings and customs that arose from this.)
+The next part tells a short story to illustrate this a bit more.
+
+## Why are asynchronous environments important in FOSS / Open Source?
+Imagine you develop software (or another product) and each of you is on their own island. Also, every communication takes about 12 hours to be transmitted. Usually, you only get low bandwidth channels, so mostly text is transmitted. Sometimes faster, but not really.
+You meet once or twice a year for the big congregation. Presentations will be had; beer will be drunk and food will be eaten.
+
+Often random people see your island group and hear that mystical, useful artifacts come from that group of islands.
+They‘ll drop often clueless communication on any of the islands. In it, they're trying to make sense from the communication, stories or other artifact pieces they overheard or found from the island group.
+
+This of course is an exaggeration but nevertheless is pretty close to a lot of what happened in open source. 
+These days, some transmit times lowered, there‘s sometimes even more bandwidth (Teams, Zoom). 
+The number of islands rose and some of the islands got more crowded, i.e. more than one person is one it (corporations participating in FOSS and thus having a more direct link between people, sometimes even in the same office).
+
+## Thus: How did people deal with this, what remained and what is expected?
+
+Everything is text-based. Almost all of the interactions happen in **public channels** (Mailinglists, GitHub issue trackers, Slack, …) **visible to the entire world**, and thus random bystanders too. 
+
+Important: All of the interactions are **recorded for perpetuity**, are **searchable** and **each** interaction / **message has a permanent, stable link** that allows to link to them from other messages or other formats of interaction.
+
+If 1:1 interactions, voice or in-person interactions happened, summaries and minutes are provided to the public channels if there was anything of public value in it.
+
+The material arising from this approach is called **passive documentation**.
+
+_Passive_ because it just comes into being en passant while the actual work is being done. 
+
+**Active documentation** would be documentation you write with the intent of being documentation, illustrating bigger picture aspects, specific concise parts, etc. 
+
+You'll need both and each one has their own value but you'll quickly learn the value of passive documentation. You can even link back and forth between both formats.
+
+**Having most of the conversations public requires you to think about what you write or publish.** Thus, **your developers will be advocates and spokespersons for your company**.
+They'll thus need to know what can be disclosed, what can't etc. You'll get questions you'd normally expect from your communications department. 
+Accept this, empower and train them and you'll get highly valuable skills, maybe even find good developer relations people and less challenges in Open Source interactions.
+Your communications people can help in training them regarding PR and communications topics. Which they should, because centrally controlling communication is now a lot harder to impossible. 
+
+Communication turnaround times still take long. Thus, **be as explicit and complete as you can** in the material you write so less questions arise blocking on communication roundtrip times.
+Imagine that a person finding the communication archives - or a specific message – should, with *reasonable* effort, be able to onboard themselves and ask (semi-)intelligent questions without having ever spoken to any of your project members. 
+
+## Passive documentation, self-onboarding and good active documentation are multiplicators for your time
+
+You, your [trusted committers]() and project members time will be the limiting factor in Open Source projects. Also, time zones and thus your need to sleep at reasonable times for your time zone will be another limiting factor. 
+
+The more „self-onboarding“ capable your documentation/project in itself is and the better your approach to passive documentation is, the less impact on your, your trusted committers and other project members time will be. These approaches serve as a multiplicator. 
+
+Example: If you keep getting the same questions - Use FAQ documents (frequently asked questions) or improve other documentation with regards to exactly the questions you're getting.
+
+## Expectable social effects
+### Difficult people and freeloaders
+
+Caveat: Clueless people will come. People that see FOSS as free work that they‘re entitled to and whose authors time they are just as entitled to because they themselves are obviously the center of the universe. General jerks will appear. 
+They exist. Ignore those people. 
+
+It is ok for FOSS to require some work from others to make use of it. If you intend to sell things, you‘ll obviously make things a bit more comfortable at some points to lower the barriers of entry. Which is fine and represents marketing. But even then, you‘ll very likely have some expectations from your prospected customers.
+It is good practice to try to understand people's problems and help people and help them to help themselves to some degree. They should appear to have invested some reasonable amount of effort though.
+
+### Cultural differences and diplomacy
+
+You might hit some cultural differences that look like conflicts. Something that often helps is to take a look and try to understand the context and situation, try to be friendly, as well as explicit and transparent in your expectations and approach as possible and permissible. 
+If it helps it helps, if it doesn‘t it doesn‘t. At least you tried, maybe there is something to be learnt from it. Diplomacy also helps.
+
+Summary: Be nice, helpful and reasonable and expect the same. There's enough jerks on the Internet, you don't need to cater to them and you shouldn't become one.
+
+## Participant churn 
+
+People often stay as long as they need to „scratch their itch“ initially, but not longer. If they had a pleasant experience they might return and a fruitful collaboration may begin. You may even find future employees that are already onboarded and capable of dealing with exactly what you need.
+
+Often people come, do something, go away and return a year later. You might do the same. It's exactly what one can expect from Open Source. By having good passive and active documentation, automation and explicitly documented decisions approaches (see above) this intermittent contribution and activity becomes possible and unproblematic. 
+
+## Automation: Keeps everything alive without time investment
+**Automate as much as you can.**
+
+This includes quality checks, parts of deployment and reviews that can be automated. You can also to some degree automate your decision structures or support them with small processes such as checklists everyone can use or workflow automation. This will allow you to easier add new trusted committers or have them act in your place if needed (sickness, time zones, you hand over the project to another person, ...)
+
+FOSS is event driven, as is your inbox. You check both regularly (with the intervals being different) and act if there is something to do. Do the same with your Slacks, GitHub inboxes, Miros etc. 
+
+Sometimes it can help to state the time zone you‘re in and a rough estimation of how reactions times usually look like so people can adapt their expectations.
+
+
+
