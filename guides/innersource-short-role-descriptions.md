@@ -13,7 +13,7 @@ A short notice on terms:
 
 - *InnerSource* refers to the use of proven Open Source ways of working on closed, corporate IP behind a corporate boundary (internally). 
 
-- *Open Source* refers to the use of these ways of working on public, worldwide visible code and other IP. It is common that one of licenses approved by the OSI or the Creative Commons is applied to such material to set clear expectations with regards to allowed and expected use of the public. See the [FOSS Terms guide]() for this.
+- *Open Source* refers to the use of these ways of working on public, worldwide visible code and other IP. It is common that one of the licenses approved by the OSI or the Creative Commons is applied to such material to set clear expectations with regards to allowed and expected use of the public. See the [FOSS Terms guide](https://github.com/project-origin/origin-collaboration/blob/main/guides/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md) for this.
 
 ## Why do we need defined roles in an open collaboration?
 
