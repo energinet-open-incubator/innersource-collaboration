@@ -85,5 +85,24 @@ FOSS is event driven, as is your inbox. You check both regularly (with the inter
 
 Sometimes it can help to state the time zone you‘re in and a rough estimation of how reactions times usually look like so people can adapt their expectations.
 
+## Summary
+Putting some effort into setting up an asynchronous environment can be highly advantageous. If participants in your FOSS project had a pleasant experience, they might return, and a fruitful collaboration may begin. Hence, some time should be invested in making “self-onboarding” easy and comfortable, from using the documentation. 
 
+In an asynchronous environment, information and communication are all text-based, including:
+- Active documentation (documents written to illustrate bigger picture aspects, specific concise parts, etc.), 
+- Passive documentation (interactions visible on public channels, and summaries and minutes published from face-to-face interactions deemed to have some public value to them).
+
+By having good passive and active documentation, automation and explicitly documented decisions approaches, intermittent contribution and activity becomes possible and unproblematic.
+
+To obtain a well-functioning asynchronous environment, consider the following summarized points:
+
+- All interactions should be recorded for perpetuity and be searchable. In Github, each interaction / message has a permanent, stable link that allows to link to them from other messages or other formats of interaction. 
+- Communication turnaround times take long. Thus, be as explicit and complete as you can in what write. A person finding the communication archives, or a specific message, should, with reasonable effort, be able to onboard themselves and ask (semi-)intelligent questions without having ever spoken to any project member.
+- As most conversations are public, your developers will be advocates and spokespersons for your company. They'll need to know what can be disclosed, what can't etc. Accept this, empower and train them in PR and communications topics and you'll get highly valuable skills, maybe even find good developer relations people and less challenges in Open Source interactions. 
+- The more „self-onboarding“ capable your documentation/project in itself is and the better your approach to passive documentation is, the less impact on your, your trusted committers' and other project members' time will be.
+- It is good practice to try to understand people's problems and help people and help them to help themselves to some degree. They should appear to have invested some reasonable amount of effort though.
+- If you keep getting the same questions - Use FAQ documents (frequently asked questions) or improve other documentation with regards to exactly the questions you're getting.
+- You might hit some cultural differences that look like conflicts. Try to be friendly, as well as explicit and transparent in your expectations and approach as possible and permissible. 
+- Automate as much as you can. This includes quality checks, parts of deployment and reviews that can be automated. You can also to some degree automate your decision structures or support them with small processes such as checklists everyone can use or workflow automation. 
+- FOSS is event driven, as is your inbox. You check both regularly (with the intervals being different) and act if there is something to do. Do the same with your Slacks, GitHub inboxes, Miros etc. 
 
