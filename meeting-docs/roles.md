@@ -2,9 +2,9 @@ This document describes the various roles involved with running the meetings inv
 All of these roles should be filled and completed for each meeting to be as successful as possible.
 The roles are:
 
-* [Scheduler]
-* [Facilitator]
-* [Scribe]
+* [Scheduler](#scheduler)
+* [Facilitator](#facilitator)
+* [Scribe](#scribe)
 
 <a name="scheduler"></a>
 ## Scheduler
