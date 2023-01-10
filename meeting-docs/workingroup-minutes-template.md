@@ -9,18 +9,20 @@ Delete the Do these things to set up this document and its bullet points.
 # Project Origin Working Group Meeting MM, DD, YYYY
 
 ## Roles
-- [Scheduler][Scheduler] : 
+- Scheduler: 
 <!-- - Crier:  -->
-- [Facilitator] [Facilitator]: 
-- [Scribe] [Scribe]:  
+- Facilitator: 
+- Scribe:  
 
 ## Agenda
 
 - (if new attendees)
   - Roundtable introductions - name, where from, nature of interest in Project-Origin.
   - Explain the purpose of this working group.
-- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1) [project board internal].
-- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1) [project board collaboration platform].
+- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+- [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
+
 - [ ]  Fill in a summary of items on the project board
 - [ ] Empty the “Done” column on the project board.
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
@@ -58,8 +60,8 @@ Put assignments here in the following format:
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
+[project board Energinet Open Incubator](https://github.com/orgs/project-origin/projects/11)
 
-[Scheduler]:
-[Crier]:
-[Facilitator]:
-[Scribe]:
+[Scheduler]:meeting-docs/roles.md#scheduler
+[Facilitator]:meeting-docs/roles.md#facilitator
+[Scribe]:meeting-docs/roles.md#scribe

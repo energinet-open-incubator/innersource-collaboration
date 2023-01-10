@@ -18,17 +18,18 @@ The following guidelines apply to the scheduler:
 * [ ] Open the  meeting template and select "raw" from the right hand menu. Copy the entire content to the clipboard.
 * [ ] Go to the [working session meeting notes folder] and select "Add file" -> "Create new file", and paste the content of the clipboard to this file.
 * [ ] Name the file `project-origin-working-session-MM-DD-YYYY.md` (and of course replace `MM`, `DD` and `YYYY` with the date of the upcoming meeting.
-* [ ] Follow the steps in the **Do these things to set up this document** section.
+* [ ] **Complete the steps in the following, to set up this document**
 <a name="preparedoc"></a>
-* [ ] Prepare and add the new agenda to the document as follows: 
-  * [ ] (Prepare, allows to find it easier later.)Fill out the small form at the end with the e.g. "Create new agenda for MM-DD-YYYY" in the textbox where it says "Create new file". 
-  * [ ] (Prepares to add directly .) Keep "Commit directly to main branch". 
-  * [ ] (Adds the document.) Press the big green "Commit new file". You'll arrive at a the new file in the folder you just created. It has a URL you can now take to:
+* [ ] Prepare and add the new agenda to the document:
+  * [ ] Create the new agenda. [The meeting template](workinggroup-minutes-template.md) already contains some fixed agenda points to go through at every meeting. If relevant, add any additional points to go through at the next meeting. 
+  * [ ] When the new agenda is created, fill out the small form at the end (the commit-message) with, e.g., "Create new agenda for MM-DD-YYYY" in the textbox where it by default says "Create new file". 
+  * [ ] When you want to directly add the file to the repository without the review process of a pull request, keep the "Commit directly to main branch" setting. 
+  * [ ] To upload the document, press the big green "Commit new file" button. You'll arrive at the new file you just created in the folder. Now, copy the URL for the file you created (to add to the calendar invite).
 
-* [ ] Update the calendar invite for the next meeting to add:
+* [ ] Update the calendar invite for the next meeting:
 
-  * Link to the agenda document. (The scribe will edit this later in the working session.)
-  * Copy/pasted role assignments and agenda detail.
+  * Paste the link to the agenda document in the invite. (The scribe will need this link to add notes to it during the working session.)
+  * Copy/paste the role assignments and agenda to the e-mail (the two first sections in the document you created).
 
 ### Tips
 
