@@ -46,7 +46,7 @@ All FOSS strategies are - as business strategies in general - not cookie-cutter 
 
 Deliberate strategic use of Open Source publication is the ultimate evolution of Open Source capabilities of any company. This can be expected only after years of continued evolution. See also page 10 in the [Linux Foundation OSPO study](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/Evolution%20of%20the%20Open%20Source%20Program%20Office%20-%20Report.pdf). You can always try and learn – but don't expect wonders.
 
-The following collection isn't complete, precise or authoritative. Try to understand them and the dynamics, give it your best try, hope for the best try to record the results and evaluate the outcomes so you can learn and hone your expertise.
+The following collection of strategies creating incentives isn't complete, precise or authoritative. They are also illustrated in a very abbreviated, shortened way. Try to understand them and the dynamics, give it your best try, hope for the best try to record the results and evaluate the outcomes so you can learn and hone your expertise.
 
 Take these leading questions to for all strategies:
 - If you use someone else's FOSS: Why would they put it out for free and what follows for me from that? Is there any money made? Do they need to make money?
