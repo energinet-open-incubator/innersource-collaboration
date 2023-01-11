@@ -92,14 +92,14 @@ Asynchronously here refers to the almost non-existence of face-to-face conversat
 Putting some effort into setting up an asynchronous environment can be highly advantageous. If participants in your FOSS project had a pleasant experience, they might return, and a fruitful collaboration may begin. Hence, some time should be invested in making “self-onboarding” easy and comfortable, from using the documentation. 
 
 In an asynchronous environment, information and communication are all text-based, including:
-- Active documentation (documents written to illustrate bigger picture aspects, specific concise parts, etc.), 
-- Passive documentation (interactions visible on public channels, and summaries and minutes published from face-to-face interactions deemed to have some public value to them).
+- **Active** documentation (documents written to illustrate bigger picture aspects, specific concise parts, etc.), 
+- **Passive** documentation (interactions visible on public channels, and summaries and minutes published from face-to-face interactions deemed to have some public value to them).
 
 By having good passive and active documentation, automation and explicitly documented decisions approaches, intermittent contribution and activity becomes possible and unproblematic.
 
 To obtain a well-functioning asynchronous environment, consider the following summarized points:
 
-- All interactions should be recorded for perpetuity and be searchable. In Github, each interaction / message has a permanent, stable link that allows to link to them from other messages or other formats of interaction. 
+- All interactions should be recorded for perpetuity and be searchable. In the tools used, such as Github, Miro, Slack, each interaction / message has a permanent, stable link that allows to link to them from other messages or other formats of interaction. 
 - Communication turnaround times take long. Thus, be as explicit and complete as you can in what write. A person finding the communication archives, or a specific message, should, with reasonable effort, be able to onboard themselves and ask (semi-)intelligent questions without having ever spoken to any project member.
 - As most conversations are public, your developers will be advocates and spokespersons for your company. They'll need to know what can be disclosed, what can't etc. Accept this, empower and train them in PR and communications topics and you'll get highly valuable skills, maybe even find good developer relations people and less challenges in Open Source interactions. 
 - The more „self-onboarding“ capable your documentation/project in itself is and the better your approach to passive documentation is, the less impact on your, your trusted committers' and other project members' time will be.
