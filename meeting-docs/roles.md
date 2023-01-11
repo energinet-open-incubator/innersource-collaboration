@@ -17,7 +17,7 @@ The following guidelines apply to the scheduler:
 * [ ] Visit the [working session meeting notes folder].
 * [ ] Open the  meeting template and select "raw" from the right hand menu. Copy the entire content to the clipboard.
 * [ ] Go to the [working session meeting notes folder] and select "Add file" -> "Create new file", and paste the content of the clipboard to this file.
-* [ ] Name the file `project-origin-working-session-MM-DD-YYYY.md` (and of course replace `MM`, `DD` and `YYYY` with the date of the upcoming meeting.
+* [ ] Name the file `project-origin-working-session-DD-MM-YYYY.md` (and of course replace `DD`, `MM` and `YYYY` with the date of the upcoming meeting.
 * [ ] **Complete the steps in the following, to set up this document**
 <a name="preparedoc"></a>
 * [ ] Prepare and add the new agenda to the document:
@@ -94,7 +94,7 @@ Use the meeting template created by the Scheduler for this. Open the linked file
 
 See this [sample email].
 * [ ] Upload this document into the [working session folder].
-  * [ ] See [PrepareDoc] for how to check in the changes. It could be useful to add a comment along the lines of "Minutes for working session MM-DD-YYYY added".  
+  * [ ] See [PrepareDoc] for how to check in the changes. It could be useful to add a comment along the lines of "Minutes for working session DD-MM-YYYY added".  
 
 
 ### Tips

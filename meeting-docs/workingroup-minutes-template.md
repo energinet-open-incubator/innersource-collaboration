@@ -6,7 +6,7 @@ Copy the assignments from the last meeting where it says Fill in assignments fro
 Delete the Do these things to set up this document and its bullet points.
 -->
 
-# Project Origin Working Group Meeting MM, DD, YYYY
+# Project Origin Working Group Meeting DD, MM, YYYY
 
 ## Roles
 - Scheduler: 
@@ -55,7 +55,10 @@ Put assignments here in the following format:
 - [Scheduler][Scheduler] : 
 <!-- - Crier:  -->
 - [Facilitator] [Facilitator]: 
-- [Scribe] [Scribe]:  
+- Scheduler : 
+<!-- - Crier:  -->
+-Facilitator: 
+-Scribe:  
 
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
