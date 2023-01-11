@@ -86,6 +86,9 @@ FOSS is event driven, as is your inbox. You check both regularly (with the inter
 Sometimes it can help to state the time zone you‘re in and a rough estimation of how reactions times usually look like so people can adapt their expectations.
 
 ## Summary
+Compared to software development in a corporate, software development in the FOSS environment is run almost entirely asynchronously. 
+Asynchronously here refers to the almost non-existence of face-to-face conversations, colocation, "agile ceremonies" and the frequent presence of large time-zone differences and not knowing the people you are interacting with personally.
+
 Putting some effort into setting up an asynchronous environment can be highly advantageous. If participants in your FOSS project had a pleasant experience, they might return, and a fruitful collaboration may begin. Hence, some time should be invested in making “self-onboarding” easy and comfortable, from using the documentation. 
 
 In an asynchronous environment, information and communication are all text-based, including:
