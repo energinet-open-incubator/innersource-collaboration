@@ -23,7 +23,7 @@ The following guidelines apply to the scheduler:
 * [ ] Prepare and add the new agenda to the document:
   * [ ] Create the new agenda. [The meeting template](workinggroup-minutes-template.md) already contains some fixed agenda points to go through at every meeting. If relevant, add any additional points to go through at the next meeting. 
   * [ ] When the new agenda is created, fill out the small form at the end (the commit-message) with, e.g., "Create new agenda for MM-DD-YYYY" in the textbox where it by default says "Create new file". 
-  * [ ] When you want to directly add the file to the repository without the review process of a pull request, keep the "Commit directly to main branch" setting. 
+  * [ ] Create the document as a pull-request, by using the "Create a new branch for this commit and start a pull request." setting. Call the branch "username-minutes-dd-mm-yyyy". Then, related discussions can happen here, agenda points can potentially be added, and the scribe can add their notes after the meeting.
   * [ ] To upload the document, press the big green "Commit new file" button. You'll arrive at the new file you just created in the folder. Now, copy the URL for the file you created (to add to the calendar invite).
 
 * [ ] Update the calendar invite for the next meeting:
@@ -76,25 +76,24 @@ Once the agenda is complete the meeting is over.
 
 The _Scribe_ ensures that meeting notes are taken and sends them out.
 
-Use the meeting template created by the Scheduler for this. Open the linked file and click the pencil button in the menu to the right.
+Use the meeting template created by the Scheduler for this, which can be found as a [pull request](https://github.com/project-origin/origin-collaboration/pulls) marked with the meeting date. Open the linked file (there is a "files changed" tab in the pull request) and click the three dots in the upper right corner and click "Edit".
 
 **During Meeting**
 
-* [ ] Note the first names of each meeting attendee.
+* [ ] Note the first names of each meeting attendee in the **Attendees** section.
 * [ ] Record a short summary of each discussion in the **Key Points** section.
 * [ ] Record all assignments in the **Assignments** section.
 
 **After Meeting**
 
+* [ ] Upload your notes to Github by committing them to the pull request. It could be useful to add a comment along the lines of "Minutes for working session DD-MM-YYYY added".
 * [ ] Email the notes to everyone on the meeting invite. 
   This email should include (in order):
   * Link to the agenda document where the notes are located.
   * Any access disclaimer where needed.
   * Copy/pasted notes from the agenda document. (If it's a formatted email you can just take the pretty rendered content from GitHub.)
 
-See this [sample email].
-* [ ] Upload this document into the [working session folder].
-  * [ ] See [PrepareDoc] for how to check in the changes. It could be useful to add a comment along the lines of "Minutes for working session DD-MM-YYYY added".  
+  * [ ] Allow some time for a bit of post-processing of the meeting notes. If anyone has something to add, they can commit it to the pull request, and related discussions can happen in the pull request. Within a reasonable time, finish processing/adding to the notes and merge the pull request, to upload it to the [meeting minutes folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes).
 
 
 ### Tips
