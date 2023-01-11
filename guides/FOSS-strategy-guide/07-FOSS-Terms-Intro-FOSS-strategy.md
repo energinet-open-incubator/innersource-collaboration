@@ -48,7 +48,7 @@ Deliberate strategic use of Open Source publication is the ultimate evolution of
 
 The following collection of strategies creating incentives isn't complete, precise or authoritative. They are also illustrated in a very abbreviated, shortened way. Try to understand them and the dynamics, give it your best try, hope for the best try to record the results and evaluate the outcomes so you can learn and hone your expertise.
 
-Take these leading questions to for all strategies:
+The following leading questions should be evaluated for all potential strategies:
 - If you use someone else's FOSS: Why would they put it out for free and what follows for me from that? Is there any money made? Do they need to make money?
 - If you publish FOSS for others to use: What do you expect others to do, why do you do this, how do you finance the extra effort, etc. 
 
