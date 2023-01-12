@@ -8,7 +8,7 @@ While **Agile** often appears to be **more plannable** and "clean", **Open Sourc
 
 Both have proven to work over decades, with Open Source and its ways of working representing the bedrock of any digital effort these days.
 
-Open Source historically evolved in an environment with spatially distributed developers, often over multiple time zones. The evolution happened during a time where Zoom and Team calls were not readily available but mostly emails or text chats and some simple web applications dominated communication. See also the [guide on asynchronous environments]().
+Open Source historically evolved in an environment with spatially distributed developers, often over multiple time zones. The evolution happened during a time where Zoom and Team calls were not readily available but mostly emails or text chats and some simple web applications dominated communication. See also the [guide on asynchronous environments](https://github.com/project-origin/origin-collaboration/blob/main/guides/acting_in_asynchronous_environments.md).
 
 High churn of participants was (and is today) dominant as everyone stays only as long as there is something in it for them – often just a bug they need fixed and thus create a fix for themselves, or maybe for a feature. Very few will stay for the community or even become a trusted committer. Sometimes people come, go and reappear years later, sometimes even the trusted committers in low activity efforts.
 
