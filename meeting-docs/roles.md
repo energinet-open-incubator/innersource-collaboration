@@ -16,7 +16,7 @@ The following guidelines apply to the scheduler:
 * [ ] Prepare the new invite based on the old one. Add any new attendees email-address and add a short summary of the agenda. You can take the short agenda part the [Scribe] prepared.  
 * [ ] Visit the [working session meeting notes folder].
 * [ ] Open the  meeting template and select "raw" from the right hand menu. Copy the entire content to the clipboard.
-* [ ] Go to the [working session meeting notes folder] and select "Add file" -> "Create new file", and paste the content of the clipboard to this file.
+* [ ] Go to the [working session meeting notes folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting-minutes) and select "Add file" -> "Create new file", and paste the content of the clipboard to this file.
 * [ ] Name the file `project-origin-working-session-DD-MM-YYYY.md` (and of course replace `DD`, `MM` and `YYYY` with the date of the upcoming meeting.
 * [ ] **Complete the steps in the following, to set up this document**
 <a name="preparedoc"></a>
