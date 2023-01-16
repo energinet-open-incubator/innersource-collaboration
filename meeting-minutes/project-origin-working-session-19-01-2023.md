@@ -25,7 +25,7 @@ Delete the Do these things to set up this document and its bullet points.
 - [ ] Fill in a summary of items on the project board
 - [ ] Empty the “Done” column on the project board.
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
-- [ ] Review status of assignments from last meeting. (See below for summary)
+- [ ] Review status of [assignments from last meeting](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542722156846&cot=14). (See below for summary)
 - [ ] Fill in assignments from the last meeting (copy pasting from [Miro](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542722156846&cot=14) this time, see notes in comments there too, also GitHub issues in comments there.)
   - Laura
      - Set up a nice landing page to navigate around structures and templates we have set up
