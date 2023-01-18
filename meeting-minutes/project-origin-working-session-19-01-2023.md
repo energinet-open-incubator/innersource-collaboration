@@ -11,33 +11,37 @@ Delete the Do these things to set up this document and its bullet points.
 ## Roles
 - Scheduler: Laura
 - Facilitator: Laura
-- Scribe:  JOhannes
+- Scribe: Johannes
 
 ## Agenda
 
-- (if new attendees)
-  - Roundtable introductions - name, where from, nature of interest in Project-Origin.
-  - Explain the purpose of this working group.
 - [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+  - 4 cards are “Waiting/Blocked” here (licensing; defining success criteria; establish work structures; assign roles)
+  - 3 cards are “In Progress” (division btw. Project-Origin and Open Incubator; shared narrative; making Project-Origin FOSS product)
+  - 11 cards are in “Backlog” 
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+  - 3 cards are “Waiting/Blocked” (weekly sync, participant list, commercial licenses)
+  - 5 cards are “In Progress” (FOSS strategy, beginners guides, board usage, OS vs. agile, async env guide)
+  - 9 cards are in “Backlog” 
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
-
+  - 1 card in “Waiting/Blocked” (naming of the OS effort)
+  - 3 cards in “In Progress” (roadmap of tasks, key goals, division)
+  - 13 cards are in “Backlog”
 - [ ] Fill in a summary of items on the project board
 - [ ] Empty the “Done” column on the project board.
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Review status of [assignments from last meeting](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542722156846&cot=14). (See below for summary)
 - [ ] Fill in assignments from the last meeting (copy pasting from [Miro](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542722156846&cot=14) this time, see notes in comments there too, also GitHub issues in comments there.)
   - Laura
-     - Set up a nice landing page to navigate around structures and templates we have set up
-     - Set up coordination/knowledge sharing with the Datahub 3.0 work
-     - Determine where the Open Incubator project should live after we have started it up
+    - Contacting Datahub 3.0  (coordination/knowledge sharing
+    - Plan work session Backstage
+      - Landing page to navigate around structures and templates
   - Thomas
-    - Follow up on implementer days with externals
-  - Laura, Thomas
-    - Start setting up Backstage
+    - Github Action: Issue from TODO
+  - Johannes 
+    - ICSF approach notes
   - Anders
-    - Finish up separation between Origins and Open Incubator 
-
+    - Separation of projects Project-Origin, Open Incubator
 - [ ] Sign up for next week’s meeting roles.
 
 # Notes
