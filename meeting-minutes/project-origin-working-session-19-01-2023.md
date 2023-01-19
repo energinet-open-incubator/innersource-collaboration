@@ -44,7 +44,8 @@
 - [x] Ensure that any new attendees have a meaningful way to get involved.
 - [x] Sign up for next week’s meeting roles.
 
-- next 2nd of February, we skip one week due to busy Energinet schedule.
+- **next working session on 2nd of February 2023**, we skip one week due to busy Energinet schedule.
+  - @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
 
 # Notes
 
