@@ -23,12 +23,12 @@ Delete the Do these things to set up this document and its bullet points.
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
 
-- [ ]  Fill in a summary of items on the project board
+- [ ] Fill in a summary of items on the project board
 - [ ] Empty the “Done” column on the project board.
-- [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Review status of assignments from last meeting.
 - [ ] Fill in assignments from the last meeting
   - You can just copy/paste them from the last assignments section 
+- [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Sign up for next week’s meeting roles.
 
 # Notes
@@ -52,13 +52,10 @@ Put assignments here in the following format:
 
 ## Next Meeting’s Roles
 
-- [Scheduler][Scheduler] : 
+- [Scheduler](Scheduler): 
 <!-- - Crier:  -->
-- [Facilitator] [Facilitator]: 
-- Scheduler : 
-<!-- - Crier:  -->
--Facilitator: 
--Scribe:  
+- [Facilitator](Facilitator): 
+- [Scribe](Scribe):  
 
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
