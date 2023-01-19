@@ -58,7 +58,7 @@
 
 - Project Origin board:
   - #64 updates
-  - #68 Shared narrative updates: Laura meeting with Morten, noone heared any updates, we're mentioned Maria and Morten -> went to blocked now
+  - #68 Shared narrative updates: Laura meeting with Morten, no updates, we've mentioned Maria and Morten -> went to blocked now. Workshop in Feb. will address this
   - #127 we know have a sort-of idea, closing this and moving to doing in a new issue
   - #69 roles definition - update
   - #72 update from laura.
