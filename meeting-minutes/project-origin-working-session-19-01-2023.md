@@ -81,7 +81,8 @@
  
 ## Assignments
 - Johannes / @lenucksi:
-  - To split #69 out into two issues and add a comment on the roles 1+2 / corporate vs. foss.. Close original issue once that's done.
+  - ~To split #69 out into two issues and add a comment on the roles 1+2 / corporate vs. foss.. Close original issue once that's done.~
+    - Done in https://github.com/project-origin/origin-collaboration/issues/69#issue-1457664429 (see also last two comments before that one)
   - fix template "meaningful way to engage" thing -> goes to bottom, better flow
 - Laura / @lauranolling:
   - #117 add note to this on difference between the boards
