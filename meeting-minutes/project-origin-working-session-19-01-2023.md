@@ -16,17 +16,17 @@ Delete the Do these things to set up this document and its bullet points.
 ## Agenda
 
 - [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
-  - 4 cards are “Waiting/Blocked” here (licensing; defining success criteria; establish work structures; assign roles)
-  - 3 cards are “In Progress” (division btw. Project-Origin and Open Incubator; shared narrative; making Project-Origin FOSS product)
-  - 11 cards are in “Backlog” 
+  - 3 cards are “Waiting/Blocked” here 
+  - 4 cards are “In Progress” 
+  - 12 cards are in “Backlog” 
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
-  - 3 cards are “Waiting/Blocked” (weekly sync, participant list, commercial licenses)
-  - 5 cards are “In Progress” (FOSS strategy, beginners guides, board usage, OS vs. agile, async env guide)
+  - 3 cards are “Waiting/Blocked”
+  - 3 cards are “In Progress”
   - 9 cards are in “Backlog” 
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
-  - 1 card in “Waiting/Blocked” (naming of the OS effort)
-  - 3 cards in “In Progress” (roadmap of tasks, key goals, division)
-  - 13 cards are in “Backlog”
+  - 1 card in “Waiting/Blocked”
+  - 3 cards in “In Progress” 
+  - 12 cards are in “Backlog”
 - [ ] Fill in a summary of items on the project board
 - [ ] Empty the “Done” column on the project board.
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
