@@ -34,12 +34,12 @@ Delete the Do these things to set up this document and its bullet points.
 - [ ] Fill in assignments from the last meeting (copy pasting from [Miro](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542722156846&cot=14) this time, see notes in comments there too, also GitHub issues in comments there.)
   - Laura
     - Contacting Datahub 3.0  (coordination/knowledge sharing
-    - Plan work session Backstage
-      - Landing page to navigate around structures and templates
+    - ~Plan work session Backstage~
+    - Landing page to navigate around structures and templates
   - Thomas
-    - Github Action: Issue from TODO
+    - ~Github Action: Issue from TODO~
   - Johannes 
-    - ICSF approach notes
+    - ~ICSF approach notes~
   - Anders
     - Separation of projects Project-Origin, Open Incubator
 - [ ] Sign up for next week’s meeting roles.
