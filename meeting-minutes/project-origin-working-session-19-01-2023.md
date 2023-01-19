@@ -1,9 +1,9 @@
 # Project Origin / Energinet Open Incubator Working Group Work Session 19, 01, 2023
 
 ## Roles
-- Scheduler: Laura
-- Facilitator: Laura
-- Scribe: Johannes
+- Scheduler: Laura / @lauranolling
+- Facilitator: Laura / @lauranolling
+- Scribe: Johannes / @lenucksi
 
 ## Agenda
 
@@ -38,7 +38,7 @@
       - Done
   - Anders
     - Separation of projects Project-Origin, Open Incubator
-      - Work sessions with @lenucksi and @andre have been had.
+      - Work sessions with @lenucksi and @AndreAlnor have been had.
       - Some more definition arose, will be put into Miro, see assignment below 
 
 - [x] Ensure that any new attendees have a meaningful way to get involved.
@@ -49,44 +49,45 @@
 # Notes
 
 ## Attendees:
-- Laura, Thomas, Anders, Johannes
+- Laura (@lauranolling), Thomas (@wisbech), Anders (@AndersFausboll), Johannes (@lenucksi)
 
 ## Key Points:
 - Scribe says: Feel free to take notes and add them to the PR or get them to @lenucksi at the end so they can be integrated into the notes.
-- [Mozilla Doc]() mailed around - @wisbech mentioned difference and pace in of public and private projects. @lenucksi mentioned the archetypes with Private might be interested "rocket ship to mars" 
+- [Mozilla Doc](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf) mailed around - @wisbech mentioned difference and pace in of public and private projects. @lenucksi mentioned the archetypes with Private might be interested "rocket ship to mars" 
 
 - Project Origin board:
- - #64 updates
- - #68 Shared narrative updates: Laura meeting with Morten, noone heared any updates, we're mentioned Maria and Morten -> went to blocked now
- - #127 we know have a sort-of idea, closing this and moving to doing in a new issue
- - #69 roles definition - update
- - #72 update from laura.
- - #71 success criteria -> workshop, mid february?
+  - #64 updates
+  - #68 Shared narrative updates: Laura meeting with Morten, noone heared any updates, we're mentioned Maria and Morten -> went to blocked now
+  - #127 we know have a sort-of idea, closing this and moving to doing in a new issue
+  - #69 roles definition - update
+  - #72 update from laura.
+  - #71 success criteria -> workshop, mid february?
  
 - Collab board:
- - #109 in progress
- - #117 still needs a PR, also add the diff
- - #108 Done! We're in that meeting now.
- - #5 Done, let's close that one.
- - #7 updates in the ticket, goes to blocked due to funky stuff. 
+  - #109 in progress
+  - #117 still needs a PR, also add the diff
+  - #108 Done! We're in that meeting now.
+  - #5 Done, let's close that one.
+  - #7 updates in the ticket, goes to blocked due to funky stuff. 
  
 - Energinet Open incubator board:
- - #132 Got closed, we actually have a mechanism to make progress and lead our way now
- - #137 Scopeing of the open incubator effort needed, probably something for @lenucksi and @andersfausboll -> done as far as this issue goes, see assignments for future
- - #131 @André agrees. Name found. Yay. Energinet Open Incubator is a thing now.
-   - See also notes from @andersfausboll conversations with André on separation and @andre wishes (OSPO, Incubator, InnerSource ways of working, ...)
+  - #132 Got closed, we actually have a mechanism to make progress and lead our way now
+  - #137 Scopeing of the open incubator effort needed, probably something for @lenucksi and @andersfausboll -> done as far as this issue goes, see assignments for future
+  - #131 @AndreAlnor agrees. Name found. Yay. Energinet Open Incubator is a thing now.
+    - See also notes from @andersfausboll conversations with @AndreAlnor on separation and his wishes (OSPO, Incubator, InnerSource ways of working, ...)
  
- - @lauranolling moves on to new department in may as part of her graduate tour of duty, andré to get someone for the open source effort full time to follow up on what @laura started. 
+ - @lauranolling moves on to new department in may as part of her graduate tour of duty, andré to get someone for the open source effort full time to follow up on what @lauranolling started. 
  
 ## Assignments
-Johannes / @lenucksi:
-- To split #69 out into two issues and add a comment on the roles 1+2 / corporate vs. foss.. Close original issue once that's done.
-- fix template "meaningful way to engage" thing -> goes to bottom, better flow
- Laura / @lauranolling:
- - #117 add note to this on difference between the boards
- - Split #137 into project-origin/product and energinet-open-incubator issues -> some small teams session to be organized with @lauranolling, @andersfausboll, @lenucksi 
-Anders / @andersfausboll:
-- Put the current hypothesis of his conversations with @andre and @lenucksi on the separation & future of the efforts to the Miro.
+- Johannes / @lenucksi:
+  - To split #69 out into two issues and add a comment on the roles 1+2 / corporate vs. foss.. Close original issue once that's done.
+  - fix template "meaningful way to engage" thing -> goes to bottom, better flow
+- Laura / @lauranolling:
+  - #117 add note to this on difference between the boards
+  - Split #137 into project-origin/product and energinet-open-incubator issues
+  - Some small teams session to be organized with @lauranolling, @andersfausboll, @lenucksi 
+- Anders / @andersfausboll:
+  - Put the current hypothesis of his conversations with @andre and @lenucksi on the separation & future of the efforts to the Miro.
 
 ## Next Meeting’s Roles
 
