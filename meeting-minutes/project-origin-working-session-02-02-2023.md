@@ -32,8 +32,8 @@
   - Anders / @andersfausboll:
     - Put the current hypothesis of his conversations with @andre and @lenucksi on the separation & future of the efforts to the Miro.
     
-- [x] Ensure that any new attendees have a meaningful way to get involved.
-- [x] Sign up for next week’s meeting roles.
+- [ ] Ensure that any new attendees have a meaningful way to get involved.
+- [ ] Sign up for next week’s meeting roles.
 
 - @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
 
