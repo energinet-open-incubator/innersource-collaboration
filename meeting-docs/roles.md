@@ -21,7 +21,7 @@ The following guidelines apply to the scheduler:
 * [ ] **Complete the steps in the following, to set up this document**
 <a name="preparedoc"></a>
 * [ ] Prepare and add the new agenda to the document:
-  * [ ] Create the new agenda. [The meeting template](workinggroup-minutes-template.md) already contains some fixed agenda points to go through at every meeting. If relevant, add any additional points to go through at the next meeting. 
+  * [ ] Create the new agenda. [The meeting template](https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/workingroup-minutes-template.md) already contains some fixed agenda points to go through at every meeting. If relevant, add any additional points to go through at the next meeting. 
   * [ ] When the new agenda is created, fill out the small form at the end (the commit-message) with, e.g., "Create new agenda for MM-DD-YYYY" in the textbox where it by default says "Create new file". 
   * [ ] Create the document as a pull-request, by using the "Create a new branch for this commit and start a pull request." setting. Call the branch "username-minutes-dd-mm-yyyy". Then, related discussions can happen here, agenda points can potentially be added, and the scribe can add their notes after the meeting.
   * [ ] To upload the document, press the big green "Commit new file" button. You'll arrive at the new file you just created in the folder. Now, copy the URL for the file you created (to add to the calendar invite).
@@ -93,7 +93,7 @@ Use the meeting template created by the Scheduler for this, which can be found a
   * Any access disclaimer where needed.
   * Copy/pasted notes from the agenda document. (If it's a formatted email you can just take the pretty rendered content from GitHub.)
 
-  * [ ] Allow some time for a bit of post-processing of the meeting notes. If anyone has something to add, they can commit it to the pull request, and related discussions can happen in the pull request. Within a reasonable time, finish processing/adding to the notes and merge the pull request, to upload it to the [meeting minutes folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes).
+  * [ ] Allow some time for a bit of post-processing of the meeting notes. If anyone has something to add, they can commit it to the pull request, and related discussions can happen in the pull request. Within a reasonable time, finish processing/adding to the notes and merge the pull request, to upload it to the [meeting minutes folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting-minutes).
 
 
 ### Tips
