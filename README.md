@@ -23,9 +23,10 @@ If this is your first time participating in a project on Github, we will recomme
 - The list of the participants of this collaboration with their skills. Feel free to edit your info there: https://github.com/project-origin/origin-collaboration/blob/main/participants.md
 
 ### Boards
-- [Our collaboration platform: This is more centered to practical GitHub things for this org](https://github.com/orgs/project-origin/projects/2/views/1)
-- [The "internal backlog": More around getting things also beyond the GitHub org done](https://github.com/orgs/project-origin/projects/6/views/1)
-- [The "Energinet incubator" board: More about the evolution of skills and knowledge around FOSS as an organization](https://github.com/orgs/project-origin/projects/11/views/1)
+- **[Project Origin Backlog](https://github.com/orgs/project-origin/projects/6)**: For all the non-software parts of Project-Origin, including strategic decisions, tasks beyond software development and other shared tasks in the Project-Origin partnership 
+- **[Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1)**: All tasks specific to setting up structures, guidelines and templates necessary to obtain a scalable, well-functioning open source community 
+- **[Energinet Open Incubator Backlog](https://github.com/orgs/project-origin/projects/11)**: All tasks specific to Energinets internal efforts to obtain a shared procedure for consuming/participating/contributing/owning open source projects.
+
 - The stickies board from the first workshop in Aarhus on the 8.11.2022: https://github.com/orgs/project-origin/projects/5/views/1
  - Images of the board can be seen here: https://github.com/project-origin/origin-collaboration/tree/main/workshop-08.11.2022
 
