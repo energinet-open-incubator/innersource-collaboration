@@ -103,7 +103,8 @@
     - Move "tooling" issue to Open Incubator Project Board
     - Add comment on "rev up Open Incubator Github" (can't link because draft issue) on why the org wasn't made today
 - @lenucksi 
-    - Move [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162), [#163](https://github.com/project-origin/origin-collaboration/issues/163) from "No Status" column and add link to where they arose from
+    - ~Move [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162), [#163](https://github.com/project-origin/origin-collaboration/issues/163) from "No Status" column and add link to where they arose from~
+      - Done. This has arisen from https://github.com/project-origin/origin-collaboration/issues/69#issuecomment-1396829866, see also the links in [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162). I've moved them from `no status` to `backlog` in the Project-Origin project.  #163 is this PR, but I've moved it to `in review` too.
 
 ## Next Meeting’s Roles
 
