@@ -48,13 +48,13 @@
 **Project-Origin Backlog**
 
 - _In Progress_: 
-    - #64 (establish first work structures): There will be a workshop Feb. 20th following up on this moving forward. @andersfausboll argues that first work structures have been reached, @lauranolling mentions the checklist in comments have been completed. The group agrees to close this, after @wisbech (done) and @lauranolling added comments (see [Assignments](#assignments)) 
-    - #67 (Separating Project-Origin and Open incubator): @andersfausboll and @lauranolling worked through this, and @andersfausboll made a helpful diagram. @andersfausboll decides to take progress history into consideration before adding his perspectives, and the group agrees that commenting/adding diagram, discussion highlights and any other considerations will be valuable (see [Assignments](#assignments)). 
+    - [#64](https://github.com/project-origin/origin-collaboration/issues/64) (establish first work structures): There will be a workshop Feb. 20th following up on this moving forward. @andersfausboll argues that first work structures have been reached, @lauranolling mentions the checklist in comments have been completed. The group agrees to close this, after @wisbech (done) and @lauranolling added comments (see [Assignments](#assignments)) 
+    - [#67](https://github.com/project-origin/origin-collaboration/issues/67) (Separating Project-Origin and Open incubator): @andersfausboll and @lauranolling worked through this, and @andersfausboll made a helpful diagram. @andersfausboll decides to take progress history into consideration before adding his perspectives, and the group agrees that commenting/adding diagram, discussion highlights and any other considerations will be valuable (see [Assignments](#assignments)). 
         - A discussion arises on providing useful tooling to elevate quality of work, as @wisbech suggests using draw.io to create the diagram in an editable way before adding it. @lenucksi suggests working on a draft for a "tooling guide", which @wisbech agrees to start working on (see [Assignments](#assignments))
-    - #72 (Go through licensing): @lauranolling mentions that this issue is not in progress. The group agrees to move it to Waiting/Blocked). 
+    - [#72](https://github.com/project-origin/origin-collaboration/issues/72) (Go through licensing): @lauranolling mentions that this issue is not in progress. The group agrees to move it to Waiting/Blocked). 
     
 - _No Status_:
-    - #161, #162, #163 - @lenucksi agrees to move these to one of the "status" columns, and add link to where they arose from (see [Assignments](#assignments))
+    - [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162), [#163](https://github.com/project-origin/origin-collaboration/issues/163) - @lenucksi agrees to move these to one of the "status" columns, and add link to where they arose from (see [Assignments](#assignments))
     
 - _Backlog:_
     - The group decides to skip this column, as there are plenty to do with progress issues for now   
@@ -63,20 +63,20 @@
 **Collaboration Platform Backlog**
 
  - _In Progress:_ 
-     - #7 (availability of commercial GH license): Moved to waiting/blocked as no progress
-     - #109 (beginners guides): @lauranolling mentions that this is still in progress
-     - #117 (board usage):  A comment on board distinction has been added by @lauranolling , and @lenucksi added it to the Readme, closing 🎉 
+     - [#7](https://github.com/project-origin/origin-collaboration/issues/7) (availability of commercial GH license): Moved to waiting/blocked as no progress
+     - [#109](https://github.com/project-origin/origin-collaboration/issues/109) (beginners guides): @lauranolling mentions that this is still in progress
+     - [#117](https://github.com/project-origin/origin-collaboration/issues/117) (board usage):  A comment on board distinction has been added by @lauranolling , and @lenucksi added it to the Readme, closing 🎉 
 
 
 **Open Incubator Backlog**
 
 - _In Progress:_
-    - #67 (separating Project-Origin and Open Incubator): Moved from Project-Origin backlog
-    - #163 (create 02-02 work session): This PR
-    - #165 (scope Open Incubator and needs adressed): @andersfausboll and @lauranolling will go through this with @AndreAlnor on Monday  (see [Assignments](#assignments)), @lenucksi offers going through this with @andersfausboll and @lauranolling afterwards. @lenucksi points to a PDF (Mozilla), which he e-mailed and [linked](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542848548098&cot=14) in _the_ Miro, and recommends everyone going through it. @andersfausboll mentions reading a Tennet paper, (link?). 
+    - [#67](https://github.com/project-origin/origin-collaboration/issues/67) (separating Project-Origin and Open Incubator): Moved from Project-Origin backlog
+    - [#163](https://github.com/project-origin/origin-collaboration/issues/163) (create 02-02 work session): This PR
+    - [#165](https://github.com/project-origin/origin-collaboration/issues/165) (scope Open Incubator and needs adressed): @andersfausboll and @lauranolling will go through this with @AndreAlnor on Monday  (see [Assignments](#assignments)), @lenucksi offers going through this with @andersfausboll and @lauranolling afterwards. @lenucksi points to a PDF (Mozilla), which he e-mailed and [linked](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542848548098&cot=14) in _the_ Miro, and recommends everyone going through it. @andersfausboll mentions reading a Tennet paper, (link?). 
     
  - _Backlog:_
-     - #145 and #8 is moved here from the Project-Origin Backlog
+     - [#145](https://github.com/project-origin/origin-collaboration/issues/145) and [#8](https://github.com/project-origin/origin-collaboration/issues/8) is moved here from the Project-Origin Backlog
          - @wisbech mentions also moving the tooling issue here  (see [Assignments](#assignments)). @andersfausboll  mentions considering Innersource methods of "we chose A and didn't choose B and C because…" to make this more transparent .
          
  - _No status:_
@@ -95,14 +95,14 @@
     - Add comment to #64 on reason for closing issue, adress points in checklist and close
     - Scoping of Open Incubator first draft (shared assignment)
 - @andersfausboll 
-    - Add diagram to #67 and add any discussion highlights or other considerations if relevant 
+    - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
    - Scoping of Open Incubator first draft (shared assignment)
 - @wisbech 
     - First draft on "Tooling Guide", starting with suggested tool draw.io  
     - Move "tooling" issue to Open Incubator Project Board
     - Add comment on "rev up Open Incubator Github" (can't link because draft issue) on why the org wasn't made today
 - @lenucksi 
-    - Move #161, #162, #163 from "No Status" column and add link to where they arose from
+    - Move [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162), [#163](https://github.com/project-origin/origin-collaboration/issues/163) from "No Status" column and add link to where they arose from
 
 ## Next Meeting’s Roles
 
