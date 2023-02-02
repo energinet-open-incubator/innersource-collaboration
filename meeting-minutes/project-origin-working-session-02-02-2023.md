@@ -73,22 +73,23 @@
 - _In Progress:_
     - [#67](https://github.com/project-origin/origin-collaboration/issues/67) (separating Project-Origin and Open Incubator): Moved from Project-Origin backlog
     - [#163](https://github.com/project-origin/origin-collaboration/issues/163) (create 02-02 work session): This PR
-    - [#165](https://github.com/project-origin/origin-collaboration/issues/165) (scope Open Incubator and needs adressed): @andersfausboll and @lauranolling will go through this with @AndreAlnor on Monday  (see [Assignments](#assignments)), @lenucksi offers going through this with @andersfausboll and @lauranolling afterwards. @lenucksi points to a PDF (Mozilla), which he e-mailed and [linked](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542848548098&cot=14) in _the_ Miro, and recommends everyone going through it. @andersfausboll mentions reading a Tennet paper, (link?). 
+    - [#165](https://github.com/project-origin/origin-collaboration/issues/165) (scope Open Incubator and needs adressed): @andersfausboll and @lauranolling will go through this with @AndreAlnor on Monday  (see [Assignments](#assignments)), @lenucksi offers going through this with @andersfausboll and @lauranolling afterwards. @lenucksi points to a PDF (Mozilla), which he e-mailed and [linked](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542848548098&cot=14) in _the_ Miro, and recommends everyone going through it. @andersfausboll mentions reading a [Tennet paper](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764541909241135&cot=14). (See also the evolution diagram right next to it and the comments to this.) 
     
  - _Backlog:_
      - [#145](https://github.com/project-origin/origin-collaboration/issues/145) and [#8](https://github.com/project-origin/origin-collaboration/issues/8) is moved here from the Project-Origin Backlog
-         - @wisbech mentions also moving the tooling issue here  (see [Assignments](#assignments)). @andersfausboll  mentions considering Innersource methods of "we chose A and didn't choose B and C because…" to make this more transparent .
+         - @wisbech mentions also moving the tooling issue here  (see [Assignments](#assignments)). @andersfausboll  mentions considering Innersource methods of "we chose A and didn't choose B and C because…" to make this more transparent . @lenucksi points out here that passive documentation, i.e. the written explicit way, allows to generate/have exactly this "A not B and C" reasoning for future participants/onlookers without having to write explicit documents. It's not bad having them as well, especially if they link into the relevant passive documentation bits.
          
  - _No status:_
-     - Draft issue on "rev up Open Incubator Github Org": the group agrees to make further decisions here after the meeting with @andersfausboll, @AndreAlnor and @lauranolling. @lenucksi refers to issue #67 for discussion and useful links on this topic. 
+     - Draft issue on "rev up Open Incubator Github Org": the group agrees to make further decisions here after the meeting with @andersfausboll, @AndreAlnor and @lauranolling. @lenucksi refers to issue [#67](https://github.com/project-origin/origin-collaboration/issues/67) for discussion and useful links on this topic. 
         - A discussion arises here, as @wisbech points out that the role of such Github Org in relation to the Energinet-DataHub org is not clear. Additionally, not clear who should be the owner of this, besides definitely an energinet e-mail. @wisbech will add comment on this (see [Assignments](#assignments)).  
-        - Another discussion arises regarding open source products and licensing, as the group stumbles upon a public repo owned by an "energinet" user, but with no license. @lenucski compares the no-license case with accessible documents by Microsoft - available, but no right to modify or use, and recommends considering no-license code proprietary. @andersfausboll mentions the conflict of having different org-wide licenses and repo-licenses, and @lenucksi suggests using a lawyer in such case. 
+        - Another discussion arises regarding open source products and licensing, as the group stumbles upon a public repo owned by an "energinet" user, but with no license. @lenucksi compares the no-license case with accessible documents by Microsoft - available, but no right to modify or use, and recommends considering no-license code proprietary (and to refer to counsel for detailed evaluation). @andersfausboll mentions the conflict of having different licenses in files and and the root of a repository (general topic: contradicting license findings), and @lenucksi suggests using a lawyer in such case. 
         
 
 ### Other important points
 - @lenucksi suggests striking out any adressed/done assignments for this weekly session, to avoid transferring assignments that don't need to be. 
 - @andersfausboll  suggests moving the meeting next week to Wednesday, but not everyone is able to. @lenucksi suggests moving the meeting next week to 11.00, but no agreement is reached here. 
-- @lenucksi  suggests looking into the Github for Energinet-DataHub for some inspiration on licensing setup
+- @lenucksi suggests to test our notes for usability by asynchronous participants by letting @andersfausboll participate asynchronously using the working session notes post and the agenda pre the working session. This sees agreement. Next working session on the regular time & day next week.
+- @lenucksi  suggests looking into the Github for Energinet-DataHub for some [examples](https://github.com/Energinet-DataHub/greenforce-frontend/blob/main/NOTICE.md) how the topic of FOSS attribution could be approached. Not stating that the approach is a correct one, but they clearly have observed some of the common practices around this somewhere and are now applying what they understood - some of which looks like a good start - it might be interesting to discuss their way to it, their investment (are there maybe even any legal insights that informed this setup?) their decisions and lessons learned here and see if other parts of Energinet can profit from it or something has room for improvement.
  
 ## Assignments
 - @lauranolling 
@@ -116,6 +117,6 @@
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
 [project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
 
-[Scheduler]:meeting-docs/roles.md#scheduler
-[Facilitator]:meeting-docs/roles.md#facilitator
-[Scribe]:meeting-docs/roles.md#scribe
+[Scheduler]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler
+[Facilitator]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator
+[Scribe]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe
