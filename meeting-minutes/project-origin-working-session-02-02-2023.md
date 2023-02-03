@@ -90,7 +90,7 @@
 - @andersfausboll  suggests moving the meeting next week to Wednesday, but not everyone is able to. @lenucksi suggests moving the meeting next week to 11.00, but no agreement is reached here. 
 - @lenucksi suggests to test our notes for usability by asynchronous participants by letting @andersfausboll participate asynchronously using the working session notes post and the agenda pre the working session. This sees agreement. Next working session on the regular time & day next week.
 - @lenucksi  suggests looking into the Github for Energinet-DataHub for some [examples](https://github.com/Energinet-DataHub/greenforce-frontend/blob/main/NOTICE.md) how the topic of FOSS attribution could be approached. Not stating that the approach is a correct one, but they clearly have observed some of the common practices around this somewhere and are now applying what they understood - some of which looks like a good start - it might be interesting to discuss their way to it, their investment (are there maybe even any legal insights that informed this setup?) their decisions and lessons learned here and see if other parts of Energinet can profit from it or something has room for improvement.
- 
+ @andersfausboll mentioned that he wanted to compressed onboarding guides. Scope was not fully clear to @lenucksi but those can be useful. Especially if links to matching original sources and passive documentation bits are included. How about creating this as a pull request so we can build and enhance them together?
 ## Assignments
 - @lauranolling 
     - Add comment to #64 on reason for closing issue, adress points in checklist and close
