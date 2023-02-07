@@ -32,7 +32,7 @@
     - (Participate asynchronously using the working session notes post and the agenda pre the working session.)
     - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
     - Scoping of Open Incubator first draft (shared assignment)
-  - @wisbech 
+  - Thomas / @wisbech 
     - First draft on "Tooling Guide", starting with suggested tool draw.io  
     - Move "tooling" issue to Open Incubator Project Board
     - Add comment on "rev up Open Incubator Github" (can't link because draft issue) on why the org wasn't made today
