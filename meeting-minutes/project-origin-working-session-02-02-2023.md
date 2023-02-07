@@ -93,7 +93,8 @@
  @andersfausboll mentioned that he wanted to compressed onboarding guides. Scope was not fully clear to @lenucksi but those can be useful. Especially if links to matching original sources and passive documentation bits are included. How about creating this as a pull request so we can build and enhance them together?
 ## Assignments
 - @lauranolling 
-    - Add comment to #64 on reason for closing issue, adress points in checklist and close
+    - ~Add comment to #64 on reason for closing issue, adress points in checklist and close~
+        - Stated that missing points in checklists will be addressed after the partner meeting end of Feb.
     - Scoping of Open Incubator first draft (shared assignment)
 - @andersfausboll 
     - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
