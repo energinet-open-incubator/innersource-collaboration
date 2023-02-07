@@ -26,7 +26,7 @@
   - Laura / @lauranolling:
     - ~#117 add note to this on difference between the boards~
     - ~Split #137 into project-origin/product and energinet-open-incubator issues~
-    - Some small teams session to be organized with @lauranolling, @andersfausboll, @lenucksi 
+    - ~Some small teams session to be organized with @lauranolling, @andersfausboll, @lenucksi~ 
     - ~Contacting Datahub 3.0  (coordination/knowledge sharing)~
     - Landing page to navigate around structures and templates
   - Anders / @andersfausboll:
