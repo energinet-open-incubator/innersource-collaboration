@@ -11,38 +11,54 @@ In some cases, this decision policy will lead to decisions being made, that you 
 In such case, you can always pose an alternative suggestion, following our [Contribution Guidelines](Link here), for the community to adress. 
 Of course this is not a guarantee that the community will agree with you.
 
-In any case of interaction on the Project-Origin Github, we expect participants in the community to follow our [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md). 
+In any case of interaction on the Project-Origin Github, the founding partnership expects participants in the community to follow our [Contribution Guidelines](link-here) and behave according to our [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md). If any violating behavior is encountered, the [Trusted Committer](link-here) has the the authority to require modifications and/or ultimately remove the violating content on behalf of the partnership. 
 
 [//]: # (Note that "Contribution Guideline" is linked a lot. This document will be created asap)
 
 
+## Issues
+Everyone in the community can create issues or add comments and suggestions to others' issues posted here on Project-Origin. 
+
+### 
+
+
+### Feature Requests
+
+
+### Bug Reports
+
+
+### RFC
+
+
+
+## Pull requests 
+Everyone in the community can create pull requests, or add reviews, comments, and suggestions to others’ pull requests. The process for _merging_ pull requests follows the [InnerSource approach]( https://github.com/project-origin/origin-collaboration/blob/main/guides/innersource-short-role-descriptions.md#what-is-the-working-process-using-the-three-roles), where the decision of which pull requests get merged belongs to the Trusted Committer. 
+
+### Timeframe
+
+To ensure quick merge turnarounds, the merging process for pull requests follows a [lazy consensus approach](link-here) as well, which means that not reacting to a pull request is interpreted as silent consent. However, to ensure code quality and consistency with the goals of Project-Origin, **a pull request can only be merged when it is approved by a [Trusted Committer/Maintainer](link-here)**.
+
+
 ## Polls
 Polls will be posted in the [Discussion forum](https://github.com/project-origin/origin-collaboration/discussions).
-The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. 
+The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. The poll can have a status of _proposed_, _open_ or _closed_. When a poll is _closed_, the outcome of the vote can be considered as decided on. 
 
-If the poll doesn't follow the [Contribution Guidelines](link-here), the trus...
+[//]: # (Poll - (how) can we attach statusses to these?)
 
 ### Decision Criteria
 - In Project-Origin the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. 
 - If no votes are received, the [default option](contribution-guideline-link-here) will be chosen.
-- If two or more options get the same number of votes, the decision-mandate is given to the partners in the Project-Origin partnership.  
-  - In the case where 
-
-If you have any adjustment requests or comments to the poll, provide your feedback in the comment section on the poll. 
-If you do not agree with the result of a poll, you must actively propose an alternative following our [Contribution Guidelines](link-here).  
+- If two or more options get the same number of votes, the decision-mandate is given to the partners in the Project-Origin partnership. The partnership will then choose the decision they find as the In such case, the [Trusted Committer](link-here) will notify the community of the 
+- If you have any adjustment requests or comments to the poll, provide your feedback in the comment section on the poll. 
+- If you do not agree with the result of a poll, that is considered as closed, you must actively propose an alternative following our [Contribution Guidelines](link-here).  
 
 ### Answering Timeframe
-The answering deadline should be reasonable, to ensure that the community has the chance to see and react on your poll. It is recommended to provide **a time frame on at least 10 working days** to allow for interaction and potentially discussion on and adjustment of the poll. 
+The answering deadline should be reasonable, to ensure that the community has the chance to see and react on your poll. It is recommended to provide **a voting time frame on at least 10 working days** from the date that the poll receives the _open_ status. This time frame allows for interaction and potentially discussion on and adjustment of the poll. 
 
 #### Urgent decision-making
-Sometimes it may happen that decision-making on a topic is urgent. In such case, make sure to tag anyone directly affected by the decision, and mark the poll with the label `urgent` (See the [Labels Contribution Guidelines](link here) for more information on labelling).
+If you find that making a decision on your poll is urgent, make sure to label the poll as `urgent`, and tag anyone you know is directly affected by the decision. It is always up to the Trusted Committer to accept the poll, and convert its status to _open_.
 
-## Pull requests 
-Everyone in the community can create pull requests, or add reviews, comments, and suggestions to others’ pull requests. The process for _merging_ pull requests follows the [InnerSource approach]( https://github.com/project-origin/origin-collaboration/blob/main/guides/innersource-short-role-descriptions.md#what-is-the-working-process-using-the-three-roles), where the decision of which pull requests get merged belongs to the Product Owner and Trusted Committer. 
-Time frame
-
-To ensure quick merge turnarounds, the merging process for pull requests follows a [lazy consensus approach](link-here) as well, which means that not reacting to a pull request is interpreted as silent consent. However, to ensure code quality and consistency with the goals of Project-Origin, **a pull request can only be merged when it is approved by a [Trusted Committer/Maintainer](link-here)**.
-
-## Issues
+The founding partnership behind Project-Origin can evaluate decision-making on a topic as urgent. In such cases, the partners can make a decision fast, to ensure the progress of Project-Origin. In such case, the [Trusted Committer](link-here) is responsible for documenting the decision made by the group, and to tag anyone directly affected by the decision.
 
 
