@@ -1,7 +1,7 @@
 # Decision-Making Policy 
 
 This decision-making policy is mostly created as a collection of practices, reflecting what the community of Project-Origin finds as best practices for making the project run smoothly. Given that Project-Origin is a dynamic, evolving project, such practices will of course change over time. 
-Hence, If you find that something in this policy could be improved or modified, feel free to [start a discussion](https://github.com/project-origin/origin-collaboration/discussions) or [post an issue](https://github.com/project-origin/origin-collaboration/issues/new/choose), describing your suggestion(s). 
+Hence, If you find that something in this policy could be improved or modified, feel free to [start a discussion](https://github.com/project-origin/origin-collaboration/discussions), describing your suggestion(s). 
 
 In Project-Origin, work is mostly done asynchronously, where normal decision-making structures tend to be ineffective. 
 Hence, we have set up this decision-making policy, to create some general guiding structures to follow, specifying when a suggestion or vote can be regarded as decided/done. 
@@ -20,7 +20,7 @@ In any case of interaction on the Project-Origin Github, we expect participants 
 Polls will be posted in the [Discussion forum](https://github.com/project-origin/origin-collaboration/discussions).
 The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. 
 
-If the Poll doesn't follow the [Contribution Guidelines](link-here)
+If the poll doesn't follow the [Contribution Guidelines](link-here), the trus...
 
 ### Decision Criteria
 - In Project-Origin the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. 
