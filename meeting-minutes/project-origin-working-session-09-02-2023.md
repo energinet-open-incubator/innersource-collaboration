@@ -34,7 +34,7 @@
     - Scoping of Open Incubator first draft (shared assignment)
   - Thomas / @wisbech 
     - First draft on "Tooling Guide", starting with suggested tool draw.io  postponed 
-    - Move "tooling" issue to Open Incubator Project Board
+    - Move "tooling" issue to Open Incubator Project Board - note make it visible it is already there
     - Add comment on "rev up Open Incubator Github" (can't link because draft issue) on why the org wasn't made today - graduate this to an issue
     - Add the library as a link to the FOSS guide [FOSS guide part 1](https://github.com/orgs/project-origin/projects/11/views/1?pane=issue&itemId=19492319)
     - We have the content let us make it visible - think newspapers and clickbait
