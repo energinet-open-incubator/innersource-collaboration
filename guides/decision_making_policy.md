@@ -1,18 +1,40 @@
 # Decision-Making Policy 
 
-This project’s work is mostly done asynchronously, where normal decision-making structures tend to be ineffective. Hence, we have set up this decision-making policy, to create some general guiding structures to follow, specifying when a suggestion or vote can be regarded as decided/done. 
+This decision-making policy is mostly created as a collection of practices, reflecting what the community finds as best practices for making the project run smoothly. 
+In an open source community, such practices will of course dynamically change over time. 
+Hence, If you find that something in this policy could be improved or modified, feel free to [start a discussion](https://github.com/project-origin/origin-collaboration/discussions) or [post an issue](https://github.com/project-origin/origin-collaboration/issues/new/choose), describing your suggestion(s). 
 
-This decision-making policy is mostly created as a collection of practices implemented, and will continually be modified to reflect what the community finds as best practices for making the project run smoothly. In some cases, a decisions will be made on something, that you wanted to have a say in as well. In such case, we are always open to new/alternative suggestions, following our [Contribution Guidelines](Link here). 
+This project’s work is mostly done asynchronously, where normal decision-making structures tend to be ineffective. 
+Hence, we have set up this decision-making policy, to create some general guiding structures to follow, specifying when a suggestion or vote can be regarded as decided/done. 
+This way, the decision mandate is given to the community that is actively participating in the project. 
 
-If you find that something in this policy could be improved, feel free to [start a discussion](https://github.com/project-origin/origin-collaboration/discussions) or [post an issue](https://github.com/project-origin/origin-collaboration/issues/new/choose), describing your suggestion(s). 
+In some cases, this decision policy will lead to decisions being made, that you don't necessarily agree with. 
+In such case, you can always pose an alternative suggestion, following our [Contribution Guidelines](Link here), for the community to adress. 
+Of course this is not a guarantee that the community will agree with you. 
+In any case, we expect participants of the Project-Origin community to follow our [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md). 
+
+
+[//]: # (Note that "Contribution Guideline" is linked a lot. This document will be created asap)
+
+
 
 ## Polls
-Polls posted in the [Discussion forum](https://github.com/project-origin/origin-collaboration/discussions), will include a description of the different options, and possibly an answering deadline (see the [Contribution Guidelines](link here) for more information). The decision-making in polls follows a lazy consensus approach, inspired by the Apache definition of the concept (Apache Community Development - Lazy Consensus). 
+Polls will be posted in the [Discussion forum](https://github.com/project-origin/origin-collaboration/discussions).
+The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. 
 
-In Project-Origin the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. If no votes are received, the [default option](contribution-guideline-link-here) will be chosen. This also means that, if you have any adjustment requests to the poll, you must actively provide your proposal. Likewise, you must propose an alternative to the poll, if you do not agree with the result, or if you don’t think the topic the result of a poll, you must actively propose an alternative.  
+If the Poll doesn't follow the [Contribution Guidelines](link-here)
+
+### Decision Criteria
+- In Project-Origin the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. 
+- If no votes are received, the [default option](contribution-guideline-link-here) will be chosen.
+- If two or more options get the same number of votes, the decision-mandate is given to the partners in the Project-Origin partnership.  
+  - In the case where 
+
+If you have any adjustment requests or comments to the poll, provide your feedback in the comment section on the poll. 
+If you do not agree with the result of a poll, you must actively propose an alternative following our [Contribution Guidelines](link-here).  
 
 ### Answering Timeframe
-The answering deadline should be reasonable, to ensure that everyone has the chance to see and react on your poll. It is recommended to provide **a time frame on at least 10 working days** to allow for interaction and potentially discussion on/adjustment of the poll. 
+The answering deadline should be reasonable, to ensure that the community has the chance to see and react on your poll. It is recommended to provide **a time frame on at least 10 working days** to allow for interaction and potentially discussion on and adjustment of the poll. 
 
 #### Urgent decision-making
 Sometimes it may happen that decision-making on a topic is urgent. In such case, make sure to tag anyone directly affected by the decision, and mark the poll with the label `urgent` (See the [Labels Contribution Guidelines](link here) for more information on labelling).
