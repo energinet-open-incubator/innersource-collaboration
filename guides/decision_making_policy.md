@@ -1,21 +1,19 @@
 # Decision-Making Policy 
 
-This decision-making policy is mostly created as a collection of practices, reflecting what the community finds as best practices for making the project run smoothly. 
-In an open source community, such practices will of course dynamically change over time. 
+This decision-making policy is mostly created as a collection of practices, reflecting what the community of Project-Origin finds as best practices for making the project run smoothly. Given that Project-Origin is a dynamic, evolving project, such practices will of course change over time. 
 Hence, If you find that something in this policy could be improved or modified, feel free to [start a discussion](https://github.com/project-origin/origin-collaboration/discussions) or [post an issue](https://github.com/project-origin/origin-collaboration/issues/new/choose), describing your suggestion(s). 
 
-This project’s work is mostly done asynchronously, where normal decision-making structures tend to be ineffective. 
+In Project-Origin, work is mostly done asynchronously, where normal decision-making structures tend to be ineffective. 
 Hence, we have set up this decision-making policy, to create some general guiding structures to follow, specifying when a suggestion or vote can be regarded as decided/done. 
-This way, the decision mandate is given to the community that is actively participating in the project. 
+The policy intent is to explicitly give the decision mandate to the community actively participating in the project. 
 
 In some cases, this decision policy will lead to decisions being made, that you don't necessarily agree with. 
 In such case, you can always pose an alternative suggestion, following our [Contribution Guidelines](Link here), for the community to adress. 
-Of course this is not a guarantee that the community will agree with you. 
-In any case, we expect participants of the Project-Origin community to follow our [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md). 
+Of course this is not a guarantee that the community will agree with you.
 
+In any case of interaction on the Project-Origin Github, we expect participants in the community to follow our [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md). 
 
 [//]: # (Note that "Contribution Guideline" is linked a lot. This document will be created asap)
-
 
 
 ## Polls
