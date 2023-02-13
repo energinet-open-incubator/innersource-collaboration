@@ -15,7 +15,7 @@ In any case of interaction on the Project-Origin Github, the founding partnershi
 
 [//]: # (Note that "Contribution Guideline" is linked a lot. This document will be created asap)
 
-
+&nbsp;
 
 ## Issues
 Everyone in the community can create issues, using one of the [issue templates](https://github.com/project-origin/origin-collaboration/issues/new/choose) provided, or add comments and suggestions to others' issues posted here in the Origin-Collaboration repository. Issues are meant for discussing specific, closed-form ideas or details of a project. For more details on the use of issues, see the [Contribution Guidelines](link-here). 
@@ -67,7 +67,7 @@ Since the RFCs entails more significant changes to the project, it is ultimately
 There is not a timeframe for RFCs. The Trusted Committer(s) will always do their best to reply fast. 
 If the Trusted Committer doesn't receive any responses from the Contributor in an extended period of time, they have the mandate to close the issue. 
 
-
+&nbsp;
 
 ## Pull requests 
 Everyone in the community can [create a pull request](https://github.com/project-origin/origin-collaboration/compare), or add reviews, comments, and suggestions to [existing pull requests](https://github.com/project-origin/origin-collaboration/pulls). 
@@ -77,7 +77,7 @@ The process for _merging_ pull requests follows the [InnerSource approach](https
 To ensure quick merge turnarounds, the merging process for pull requests generally follows a [lazy consensus approach](link-here), which means that community members not reacting to a pull request gives their silent consent. 
 However, to ensure code quality and consistency with the goals of Project-Origin, **a pull request can only be merged when it is approved by a [Trusted Committer/Maintainer](link-here)**. To make sure you fulfill any merging criteria, make sure to consult the [Contribution Guidelines](link-here) before creating the pull request. 
 
-
+&nbsp;
 
 ## Discussions
 [Discussions](https://github.com/project-origin/origin-collaboration/discussions) are intended for open-form ideas or topics, and creates a space for the community to interact and communicate more broadly than is possible in the more closed-form issues and pull requests. 
