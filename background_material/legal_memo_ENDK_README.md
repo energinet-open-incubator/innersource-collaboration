@@ -1,5 +1,5 @@
 # Minutes - Legal Notes on Energinets Use of Open Source
-The document is copied and translated to English from an internal document at Energinet with file-number 16/04594-62. It is classified as Restricted/For work purposes, which means that sharing and distribution of this document is restricted by the following rules: 
+The [legal notes on Energinets use of Open Source](background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf) is copied and translated to English from an internal document at Energinet with file-number 16/04594-62. It is classified as Restricted/For work purposes, which means that sharing and distribution of this document is restricted by the following rules: 
 
 > These contain information, that are generally applicable to employees at Energinet, and that is not meant to be known by the public. Information in documents with this classification is hence not suitable for publication, but if they become available to irrelevant parties, they will not cause any competitive advantage to an actor or any significant planning-wise advantage to an attacker. 
 
