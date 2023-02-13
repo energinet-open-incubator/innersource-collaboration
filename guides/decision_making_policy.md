@@ -64,58 +64,69 @@ While feature requests are used to define specific, smaller ideas, a Request for
 Since the RFCs entails more significant changes to the project, it is ultimately up to the founding partnership of Project-Origin to approve an RFC. 
 
 #### _Timeframe_
-There is not a timeframe for RFCs. The Trusted Committer(s) will always do their best to reply fast. If the Trusted Committer doesn't receive any responses from the Contributor in an extended period of time, they have the mandate to close the issue. 
+There is not a timeframe for RFCs. The Trusted Committer(s) will always do their best to reply fast. 
+If the Trusted Committer doesn't receive any responses from the Contributor in an extended period of time, they have the mandate to close the issue. 
+
+
 
 ## Pull requests 
-Everyone in the community can create pull requests, or add reviews, comments, and suggestions to others’ pull requests. The process for _merging_ pull requests follows the [InnerSource approach]( https://github.com/project-origin/origin-collaboration/blob/main/guides/innersource-short-role-descriptions.md#what-is-the-working-process-using-the-three-roles), where the decision of which pull requests get merged belongs to the Trusted Committer. 
+Everyone in the community can [create a pull request](https://github.com/project-origin/origin-collaboration/compare), or add reviews, comments, and suggestions to [existing pull requests](https://github.com/project-origin/origin-collaboration/pulls). 
+The process for _merging_ pull requests follows the [InnerSource approach](https://github.com/project-origin/origin-collaboration/blob/main/guides/innersource-short-role-descriptions.md#what-is-the-working-process-using-the-three-roles), where the decision of which and when pull requests get merged belongs to the Trusted Committer. 
 
-### Timeframe and Merging Criteria 
-
-To ensure quick merge turnarounds, the merging process for pull requests follows a [lazy consensus approach](link-here) as well, which means that not reacting to a pull request is interpreted as silent consent. However, to ensure code quality and consistency with the goals of Project-Origin, **a pull request can only be merged when it is approved by a [Trusted Committer/Maintainer](link-here)**.
-
+#### _Timeframe_
+To ensure quick merge turnarounds, the merging process for pull requests generally follows a [lazy consensus approach](link-here), which means that community members not reacting to a pull request gives their silent consent. 
+However, to ensure code quality and consistency with the goals of Project-Origin, **a pull request can only be merged when it is approved by a [Trusted Committer/Maintainer](link-here)**. To make sure you fulfill any merging criteria, make sure to consult the [Contribution Guidelines](link-here) before creating the pull request. 
 
 
 
 ## Discussions
+[Discussions](https://github.com/project-origin/origin-collaboration/discussions) are intended for open-form ideas or topics, and creates a space for the community to interact and communicate more broadly than is possible in the more closed-form issues and pull requests. 
+Given the more informal format of Discussions, the decision-making mostly revolves around potentially creating issues and pull requests for ideas that sees a large connect from the community and evolves to a more definite feature. 
+The only exception is the [Polls](https://github.com/project-origin/origin-collaboration/discussions/categories/polls) channel, where decision-making is inherent, and hence somewhat more involved. 
+
+Decision-making will be adressed individually for each discussion channel in the following.
 
 ### Announcements
-Won't be used for decision-making, but can be used to announce, e.g., any decisions made in the partnership that may affect the community.
+Won't be used for decision-making, but can be used to announce, e.g., any decisions made in the partnership, or any major feature or progress that has been made, that affects the community.
 
 ### Documentation Issues
-Discussions on documentation issues will often result in a specific sugggestion for something to add to the existing documentation. In that case...
+Discussions on documentation issues will often result in a specific sugggestion for something to add to the existing documentation. 
+When such suggestion is reached, a [pull request](https://github.com/project-origin/origin-collaboration/pulls) providing concrete corrections and/or additions should be created. 
 
 ### General
 A forum for open, informal discussion in the community. This forum won't include decision-making.
 
 ### Ideas
-Open-ended discussion on ideas. If an idea evolves to a feature request, an issue can be created.  
+This discussion channel gives the community a place to discuss loose, open ideas, and potentially develop an idea until it becomes a well-defined feature request. 
+If an idea evolves to a feature request, an [issue](https://github.com/project-origin/origin-collaboration/issues/new/choose) can be created for this.  
 
 ### Polls
 Polls will be posted in the [Discussion forum](https://github.com/project-origin/origin-collaboration/discussions).
-The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. The poll can have a status of _proposed_, _open_ or _closed_. When a poll is _closed_, the outcome of the vote can be considered as decided on. 
+The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. 
+A poll can have a status of _proposed_, _open_ or _closed_. When a poll is _closed_, the outcome of the vote indicated in the poll can be considered as decided on. 
 
-[//]: # (Poll - (how) can we attach statusses to these?)
+[//]: # (Poll - (how) can we attach statusses to these? The creator of te poll can set criteria, but else than that not sure)
 
-#### Decision Criteria
-- In Project-Origin the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. 
+#### _Decision Criteria_
+In Project-Origin the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. A number of specific criteria are set up for polls:
+
 - If no votes are received, the [default option](contribution-guideline-link-here) will be chosen.
 - If two or more options get the same number of votes, the decision-mandate is given to the partners in the Project-Origin partnership. The partnership will then choose the decision they find as the In such case, the [Trusted Committer](link-here) will notify the community of the 
 - If you have any adjustment requests or comments to the poll, provide your feedback in the comment section on the poll. 
 - If you do not agree with the result of a poll, that is considered as closed, you must actively propose an alternative following our [Contribution Guidelines](link-here).  
 
-#### Answering Timeframe
+#### _Timeframe_
 The answering deadline should be reasonable, to ensure that the community has the chance to see and react on your poll. It is recommended to provide **a voting time frame on at least 10 working days** from the date that the poll receives the _open_ status. This time frame allows for interaction and potentially discussion on and adjustment of the poll. 
 
 
 **Urgent decision-making**
 
-If you find that making a decision on your poll is urgent, make sure to label the poll as `urgent`, and tag anyone you know is directly affected by the decision. It is always up to the Trusted Committer to accept the poll, and convert its status to _open_.
+If you find that making a decision on your poll is urgent, make sure to label the poll as `urgent`, and tag anyone you know is directly affected by the decision. However, note that the Trusted Committer must accept the proposed poll, until its status converts to _open_.
 
-The founding partnership behind Project-Origin can evaluate decision-making on a topic as urgent. In such cases, the partners can make a decision fast, to ensure the progress of Project-Origin. In such case, the [Trusted Committer](link-here) is responsible for documenting the decision made by the group, and to tag anyone directly affected by the decision.
-
+The founding partnership behind Project-Origin can evaluate decision-making on a topic as urgent in order to ensure continued progress of the project. In such cases, the partners can make a decision fast, after which the [Trusted Committer](link-here) is responsible for documenting the decision made by the group, and to tag anyone directly affected by the decision.
 
 ### Q&A
-The community member can mark something as an answer. If any task or feature request arises from the discussion post, an issue can be created for this. 
+Q&A creates a space for the community to ask each other questions, and support each other on specific issues. In a Q&A post, the author of the post has the mandate to mark something as an answer. However, any community member is free to suggest/object against an answer. If any task or feature request arises from the, an [issue](https://github.com/project-origin/origin-collaboration/issues/new/choose) or [pull request](https://github.com/project-origin/origin-collaboration/compare) can be created for this. 
 
 ### Show and Tell 
-Not used for decision-making, but rather as a place to highlight contributions you have made. 
+Not used for decision-making, but rather as a place to highlight and praise contributions that you, or someone else have made. 
