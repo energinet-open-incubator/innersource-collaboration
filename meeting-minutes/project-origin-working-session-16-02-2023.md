@@ -1,4 +1,4 @@
-# Project Origin / Energinet Open Incubator Working Group Work Session 14.02.2023
+# Project Origin / Energinet Open Incubator Working Group Work Session 16.02.2023
 
 ## Roles
 - [Scheduler](Scheduler): Laura / @lauranolling 
