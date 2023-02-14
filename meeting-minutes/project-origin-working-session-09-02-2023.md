@@ -1,9 +1,9 @@
 # Project Origin / Energinet Open Incubator Working Group Work Session 09.02.2023
 
 ## Roles
-- [Scheduler](Scheduler): Laura / @lauranolling 
-- [Facilitator](Facilitator): Johannes / @lenucksi 
-- [Scribe](Scribe): Thomas / @wisbech 
+- [Scheduler]: Laura / @lauranolling 
+- [Facilitator]: Johannes / @lenucksi 
+- [Scribe]: Thomas / @wisbech 
 
 ## Agenda
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
@@ -85,6 +85,6 @@
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
 [project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
 
-[Scheduler]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler
-[Facilitator]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator
-[Scribe]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe
+[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler
+[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator
+[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe
