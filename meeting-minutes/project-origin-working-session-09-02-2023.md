@@ -69,7 +69,8 @@
         - reach out to our new PMO in regard to Open Incubator and the innerSource approach here
         - unhide the tooling guide [https://github.com/project-origin/origin-collaboration/tree/main/guides](https://github.com/project-origin/origin-collaboration/tree/main/guides)
 - @lenucksi 
-         - look at the scribe links and make github work 
+         ~- look at the scribe links and make github work~
+           - Looks like I botched the [reference style links](https://gist.github.com/emedinaa/28ed71b450243aba48accd634679f805). Links at the bottom are the correct ones, links at the top not so much for that concept. Fixed in commit suggestions, also fixed the template, see here: #173 
         
         
 
