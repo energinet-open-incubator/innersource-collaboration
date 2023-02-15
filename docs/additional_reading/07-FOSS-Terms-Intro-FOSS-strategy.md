@@ -2,7 +2,7 @@
 
 This document introduces certain aspects of business strategy and common behavioral expectations supporting those strategies in the FOSS domain.
 
-It is strongly recommended to read the [Intro to FOSS Terms guide](../FOSS-Terms-guide/) beforehand to understand foundational concepts, boundaries, terms and mechanics of FOSS, i.e. Free and Open Source Software.
+It is strongly recommended to read the [Intro to FOSS Terms guide]([../FOSS-Terms-guide/](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide) beforehand to understand foundational concepts, boundaries, terms and mechanics of FOSS, i.e. Free and Open Source Software.
 
 While the FOSS Terms guide addresses a more constraint, technical and legal driven perspective, this guide addresses a more business driven perspective. However, as FOSS is a mixture of software engineering (domain), legal (tools/mechanics) and business/social (strategy+incentive building, ways of working), attempting to neglect one of the aspects is a reasonably safe way to trouble.
 
@@ -24,7 +24,7 @@ This brings up certain challenges:
   - There is a tacit expectation that a FOSS effort (especially a company sponsored one) is cared for indefinitely. If not it will be considered "abandonware" and might be taken over by others if they consider it valuable. A good course of action is to be explicit in the expectation management towards users here.
   - Does it have to pay for itself (ROI>=1)?
   - Can it be cross-financed through another activity? If so, how and why?
-- If participation by others is desired, making a clear case why they should do so, how and what they can achieve or expect is important. See the [FOSS governance chapter in the FOSS Terms guide](https://github.com/project-origin/origin-collaboration/blob/main/guides/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md) for this too. 
+- If participation by others is desired, making a clear case why they should do so, how and what they can achieve or expect is important. See the [FOSS governance chapter in the FOSS Terms guide](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md) for this too. 
 - Usually corporate projects tend to strongly use a "us vs them" boundary and identity. FOSS *weakens* that boundary and identity. It usually does not remove it entirely. 
   - The middle ground and the boundary needs to be handled in a comfortable and predictable yet safe way. 
   - Usually corporate software projects and products are created in a strongly plan driven "agile" system. Interactions from the outside may in their originating organization be plan driven too, however, to you they look unplanned, can not be planned and appear like interruptions. Thus, integrating "Agile" and Open Source is another challenge. One that is addressed in another [guide](../opensource-and-agile-guide/).
@@ -36,7 +36,7 @@ These challenges in general revolve around designing **incentives**, a classic p
 
 A common comparison is the agricultural cooperative or other non-profit cooperatives.
 
-Other, strongly marketing driven, approaches such as one comparable to e.g. the ["loss leader" strategy](https://www.investopedia.com/terms/l/lossleader.asp) are existent too. Given that Energinet is a public entity, some restrictions regarding applicable strategies exist. See the [FOSS Terms guide on public sector specialties](https://github.com/project-origin/origin-collaboration/blob/main/guides/FOSS-terms-guide/06-FOSS-Terms-Intro-public-sector-specialties.md) and the referenced Energinet legal memo for this.
+Other, strongly marketing driven, approaches such as one comparable to e.g. the ["loss leader" strategy](https://www.investopedia.com/terms/l/lossleader.asp) are existent too. Given that Energinet is a public entity, some restrictions regarding applicable strategies exist. See the [FOSS Terms guide on public sector specialties](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/06-FOSS-Terms-Intro-public-sector-specialties.md) and the referenced Energinet legal memo for this.
 
 
 
@@ -125,7 +125,7 @@ Thus, there are common counter strategies or ways how those could devolve. A few
 Once you stick an OSI license on an artifact and make it publicly visible on the internet, there is no way back. If you have a so called „permissive“ license on it (e.g. MIT, Apache2) even if you control the complete IP - and could thus decide to make it private or more restrictive – the freely licensed code will prevail and may be used by anyone as long as they abide to the terms of the license. Taking artifacts „private“ again will also lead to strong negative public reactions depending on how popular your artifact was before.
 
 ### Forks
-This has already briefly been mentioned in the [FOSS Terms Guide governance section](https://github.com/project-origin/origin-collaboration/blob/main/guides/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md) but it is a fundamental effect of Open Source, so it's mentioned again here with a derived effect that had some high profile occurances in the recent past.
+This has already briefly been mentioned in the [FOSS Terms Guide governance section](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md) but it is a fundamental effect of Open Source, so it's mentioned again here with a derived effect that had some high profile occurances in the recent past.
 
 Usually this is the consequence of attempting to restrict or „take private“ an artifact that was popular enough. Sometimes it even suffices to decide for an unpopular way with a large enough part of the user base to have them take your artifact and develop it further themselves. 
 While forking is one of the basic intended mechanisms of open source, if control of the direction of the product, revenue from the product in any of the ways illustrated above is critical to your business/part of your business strategy attempting to diplomatically keep things together is often a good idea. 
