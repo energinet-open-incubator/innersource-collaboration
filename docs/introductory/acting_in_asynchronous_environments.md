@@ -48,7 +48,7 @@ Imagine that a person finding the communication archives - or a specific message
 
 ## Passive documentation, self-onboarding and good active documentation are multiplicators for your time
 
-You, your [trusted committers]() and project members' time will be the limiting factor in Open Source projects. Also, time zones and thus your need to sleep at reasonable times for your time zone will be another limiting factor. 
+You, your [trusted committers](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer) and project members' time will be the limiting factor in Open Source projects. Also, time zones and thus your need to sleep at reasonable times for your time zone will be another limiting factor. 
 
 The more „self-onboarding“ capable your documentation/project in itself is and the better your approach to passive documentation is, the less impact on your, your trusted committers' and other project members' time will be. These approaches serve as a multiplicator. 
 
