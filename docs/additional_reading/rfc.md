@@ -2,7 +2,7 @@
 
 Requests for Comment (RFCs) are written, informal pieces of information. They can be assigned with a revision number, status, and/or category, and provides the basis of discussions and decisions on the topic of the RFC. 
 
-<img src="https://github.com/project-origin/origin-collaboration/blob/main/guides/figures/RFC.png" width="60%"/>
+<img src="https://github.com/project-origin/origin-collaboration/tree/main/docs/figures/RFC.png" width="60%"/>
 
 ## Context
 
@@ -20,7 +20,7 @@ They provide a guide, that explains when an RFC needs to be filled out in their 
 Many are inspired by their approach, and there are probably some specific elements here, that are useful for us in creating a structured, open collaboration. 
 
 They are also popular in [Energy Track and Trace (ETT)](https://github.com/Energy-Track-and-Trace), which is a project Energinet is part of. 
-In ETT, RFCs are used as [issue templates](https://github.com/project-origin/origin-collaboration/blob/main/guides/issue_trackers.md#issue-templates) and to [propose new ideas in a structured, documented way](https://github.com/Energy-Track-and-Trace/ett-documentation/tree/main/rfcs).  
+In ETT, RFCs are used as [issue templates](https://github.com/project-origin/origin-collaboration/tree/main/docs/github_guides/issue_trackers.md#issue-templates) and to propose new ideas in a structured, documented way.  
 
 ## How can RFCs be useful for us? 
 
