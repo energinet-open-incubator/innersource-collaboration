@@ -9,10 +9,10 @@ Delete the Do these things to set up this document and its bullet points.
 # Project Origin Working Group Meeting DD, MM, YYYY
 
 ## Roles
-- Scheduler: 
+- [Scheduler]: 
 <!-- - Crier:  -->
-- Facilitator: 
-- Scribe:  
+- [Facilitator]: 
+- [Scribe]:  
 
 ## Agenda
 
@@ -62,6 +62,6 @@ Put assignments here in the following format:
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
 [project board Energinet Open Incubator](https://github.com/orgs/project-origin/projects/11)
 
-[Scheduler]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler
-[Facilitator]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator
-[Scribe]:https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe
+[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler
+[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator
+[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe
