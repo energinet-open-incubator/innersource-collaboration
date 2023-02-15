@@ -142,6 +142,6 @@ Q&A creates a space for the community to ask each other questions, and support e
 ### Show and Tell 
 Not used for decision-making, but rather as a place to highlight and praise contributions that you, or someone else have made. 
 
-[Trusted Committer]: https://link-here/tclist
+[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md
 [Contribution Guidelines]: https://link-here/contrib-guideline
 [lazy consensus]: https://community.apache.org/committers/lazyConsensus.html
