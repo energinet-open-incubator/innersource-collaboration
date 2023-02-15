@@ -16,7 +16,7 @@ We currently have:
   - Internal educational material as the one you're reading now.
 
 - A longer horizon effort to build FOSS policy and understanding on a legal basis to ultimately help the products and everyone else.
-  - A list of (currently mostly legal-oriented action points) can be seen [here](../../work-items/b32b2223581c18fc327b0e10e83af79f646ef4b8). 
+  - A list of (currently mostly legal-oriented action points) can be seen [here](https://github.com/project-origin/origin-collaboration/blob/main/work-items/FOSS-terms-guide-action-items.md/). 
   - Once work progresses there, this section will contain some practical advice and links to address the topics of around liability, warranty, trademarks, patents, FOSS compliance etc. 
 
 
@@ -28,7 +28,7 @@ We should not be liable for the actions of others, i.e. what people do with our 
 
 We can also not help other parties to understand and control their risks. We can only be as explicit and transparent in our expectations and intent as possible to allow other parties an informed decision on participation and adjusting their way and level of investment.
 
-To enable such explicit expectations we need to have a clear understanding of our offerings and their strategy, i.e. product separation, definition and strategy. This guide does not deal with this. See the [strategy guide](../FOSS-strategy-guide/) for this. For some aspects of FOSS governance see the previous section. However, don't do governance before there is product definition.
+To enable such explicit expectations we need to have a clear understanding of our offerings and their strategy, i.e. product separation, definition and strategy. This guide does not deal with this. See the [strategy guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md) for this. For some aspects of FOSS governance see the previous section. However, don't do governance before there is product definition.
 
 ## Contribution of Open Source to Energinet as a company
 
