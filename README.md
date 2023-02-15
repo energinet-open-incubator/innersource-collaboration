@@ -13,7 +13,7 @@ Below, some information and links are provided to help navigate around the repos
 ### Introductory Guides
 If this is your first time participating in a FOSS project, you should start with the documents listed below. 
 
-- [FOSS Terms Guide](guides/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md)
+- [Free Open Source Software (FOSS) Terms Guide](guides/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md)
 - [Working Asynchronously](guides/acting_in_asynchronous_environments.md)
 - [Introduction on FOSS Product Management](FOSS-pm/introsuggestions-fosspm.md)
 - [Free Open Source Software (FOSS) Myths](guides/foss-myths.md)
