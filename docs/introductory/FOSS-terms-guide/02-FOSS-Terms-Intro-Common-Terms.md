@@ -23,7 +23,7 @@ Today, open source has become a strongly commercially used approach as well. It 
 It is recommended to align with the before-mentioned liberal and self-sovereign agenda where possible, as the pool of talents with Open Source skills is s largely powered by the attractiveness of said agenda. Incidentally, this agenda is consistent with the concept of "public money, public code", which is highly applicable to Energinet as a TSO. 
 
 The [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845)) document has a short section on this too, see section 1.1.1.
-Our ["EnerginetFOSS-memo]((../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf)) document also highlights the connection to "public money, public code" in [section 06 "FOSS and the public sector / TSOs"](06-FOSS-Terms-Intro-public-sector-specialties.md). 
+Our ["EnerginetFOSS-memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) document also highlights the connection to "public money, public code" in [section 06 "FOSS and the public sector / TSOs"](06-FOSS-Terms-Intro-public-sector-specialties.md). 
 
 
 ### Open Source, FOSS, FLOSS
@@ -127,7 +127,7 @@ With source code the "executing/building of the functionalities" written in the 
 
 - Three (strongly simplified) examples: 
   - The [Linux kernel](https://kernel.org) (about 2000-3000 text files in source, about 10 files in binary) (*A FOSS package*)
-  - [Numpy]() (a popular package data scientists use, e.g. for grid forecasting models) (*A FOSS package*)
+  - [Numpy](https://numpy.org/) (a popular package data scientists use, e.g. for grid forecasting models) (*A FOSS package*)
   - Microsoft Word (Tenthousands of source code files noone outside of Microsoft gets to see, 1 file Word.exe plus 100s of support files in binary) (Very much *not a FOSS package*) 
 
 ### Deployment
@@ -159,7 +159,6 @@ Examples:
 
 - Today, **most software engineering assembles enormous amounts of packages made by foreign parties and adds their own specific innovation on top** of this. 
   - Commonly the **relation between foreign source code and original, new source code is from 70 to 95% foreign to original** source code. 
-
 
 
 - This also goes for packages that are added, i.e. those packages also contain enormous amounts of foreign packages.
