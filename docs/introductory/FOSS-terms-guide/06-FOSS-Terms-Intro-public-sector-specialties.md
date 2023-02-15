@@ -1,12 +1,12 @@
 ## Public Money, Public Code: As a TSO
 
-Here, the [DAP](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845) is a strongly recommended read as well as the [EnerginetFOSS-memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf).
+Here, the [DAP](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845) is a strongly recommended read as well as the [EnerginetFOSS-memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md).
 
 As a publicly owned TSO that runs on public money, we are bound to additional special rules.
 
 Those rules could from concerns of critical infrastructure operation (NIS2 derivatives) or strict regulations on the use of public money or non-competition regulations as public body.     
 
-At a first glance, the following sections of the [EnerginetFOSS-memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf) appear to be especially relevant:
+At a first glance, the following sections of the [EnerginetFOSS-memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) appear to be especially relevant:
 (Authors entirely not legally founded opinion, i.e. folklore that we need to get checked.) 
 
 Section 4.2.1: In my interpretation we need to be able to argue the inverse of these things for each product. 
@@ -28,7 +28,7 @@ Nevertheless - see the action points for needed actions to see if the last parag
 
 **Action Points**:
 
-- Any regulation and rules that apply to us here must be analyzed and interpreted in the context of the given FOSS product. See the [EnerginetFOSS-memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf) for a description of non-competition rules.
+- Any regulation and rules that apply to us here must be analyzed and interpreted in the context of the given FOSS product. See the [EnerginetFOSS-memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) for a description of non-competition rules.
 - One possible interpretation of the non-competition rules is “public money, public code”, which means that Energinet is limited to providing and maintaining a public good that others (e.g., corporate   companies) can offer services around
 - It could be reasonable to take measures to ensure that the public good remains a public good and improvements by others are brought back to it. This could (but does not have to) lead to restrictive licenses for certain parts of FOSS packages published by us.
 - A strategy or policy must be created to handle these rules. 
@@ -50,7 +50,7 @@ The [open source, open service](#open-source-not-open-service) separation is rel
 
 Not all TSOs (or other corporations) act as public bodies. Thus they may have to earn money with open source (e.g. to satisfy profit expectations of their shareholders).
 
-This can lead to desires of monetizing Open Source in various ways. See the [strategy guide](../FOSS-strategy) and the [SFOSC models](https://sfosc.org/docs/business-models/) for information on what interests and approaches might be interesting for them.
+This can lead to desires of monetizing Open Source in various ways. See the [strategy guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md) and the [SFOSC models](https://sfosc.org/docs/business-models/) for information on what interests and approaches might be interesting for them.
 
 As a public body we likely do not need to monetize FOSS. 
 However, to further potential adoption of the public good we create, we might want to facilitate certain aspects of monetization in what we publish for other members of our economy. Thus we are "making the cake bigger for everyone".
@@ -60,7 +60,7 @@ A common monetization would be to enable multiple parties to offer implementatio
 
 **Action Points**:
 - We can contribute to this aspect by making our FOSS packages a friendly and cooperative place to collaborate 
-- Think about who makes decisions in terms of the roadmap/acceptance of patches (see the [strategy guide](../FOSS-strategy-guide/)  or the [FOSS governance chapter](04b-FOSS-Terms-Intro-FOSS-governance.md)) for considerations of who can become a trusted committer).				 
+- Think about who makes decisions in terms of the roadmap/acceptance of patches (see the [strategy guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md)  or the [FOSS governance chapter](04b-FOSS-Terms-Intro-FOSS-governance.md)) for considerations of who can become a trusted committer).				 
 - Another option is to enable other companies to host our FOSS packages, offering certain services to others in exchange for compensation. 
 - Analog example: We develop an email protocol and server application, someone else the actual operation of the software following this standard for money (e.g., Gmail, or  United Internet).
 
