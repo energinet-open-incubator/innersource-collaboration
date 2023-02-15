@@ -42,14 +42,14 @@ As stated above: Governance is a "social contract". The FOSS way of doing this i
 
 Depending on the size of the FOSS package and the number of involved people, this can range from a short 20 lines document to an elaborated process with all sorts of bells and whistles. 
 
-A recommendation is to keep it pragmatic, simple and short and always offer an easy way to contact the package owners [(maintainers / trusted committers)](https://github.com/project-origin/origin-collaboration/blob/main/guides/innersource-short-role-descriptions.md) for questions.
+A recommendation is to keep it pragmatic, simple and short and always offer an easy way to contact the package owners [(maintainers / trusted committers)](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md) for questions.
 
 ### "Running the show", getting write access or "how to become a maintainer".
 
 Open Source actively asks for contributions and work across corporate boundaries. 
 Thus, a common question is what happens if an external party to the original publisher contributes/engages so much that one could consider them as "running the show" (with the original publisher). 
 
-This is considered the **funnel from user to [contributor to *trusted committer*](https://github.com/project-origin/origin-collaboration/blob/main/guides/innersource-short-role-descriptions.md) or *maintainer***. The latter two have write access to the packages which is generally considered to be "they run the show".
+This is considered the **funnel from user to [contributor to *trusted committer*](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md) or *maintainer***. The latter two have write access to the packages which is generally considered to be "they run the show".
 
 **With write access they can decide which source code contributions get added to the source code and which don't.** They will have to justify that decision with the people making these contributions or else risk loss of contributors or even users. 
 
