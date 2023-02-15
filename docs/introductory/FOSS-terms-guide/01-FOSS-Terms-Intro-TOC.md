@@ -31,7 +31,7 @@ This document is separated into individual files based on the individual chapter
 |`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)| helps to set expectations what to expect from Open Source in the narrower sense and what not. <br />**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.| Beginner |
 |`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|highlights - as much as they're known - possible **specialties arising from the public sector and TSO environment**. <br />**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.| Beginner |
 
-Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS strategy](../FOSS-strategy-guide)
+Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS strategy](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md)
 
 The fourth and fifth section also highlights boundaries between publishers and users/contributors. 
 This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement, including both the license, a social contract and governance, defining the boundaries between the two roles. 
@@ -45,7 +45,7 @@ A practical proposal is to **separate them into individual tasks**, address them
 
 This guide frequently references two documents:
 - The [Danish Digitalization Agencies' guide on legal aspects of Open Source from 2009](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845). It is referred to shortly as **DAP**.
-- Our [Energinet "Open Source as TSO" memo](../../background_material/minutes_legal_notes_on_energinets_use_of_open_source.pdf). It is referred to shortly as **EnerginetFOSS-memo**. 
+- Our [Energinet "Open Source as TSO" memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md). It is referred to shortly as **EnerginetFOSS-memo**. 
 
 Books on the topic:
 - Denmark: Possibly [IT-Retten](https://bibliotek.dk/da/work/870970-basis%3A26085950)
