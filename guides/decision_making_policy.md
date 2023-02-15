@@ -14,7 +14,7 @@ Of course this is not a guarantee that the community will agree with you.
 In any case of interaction on the Project-Origin Github, the founding partnership expects participants in the community to follow our [Contribution Guidelines] and behave according to our [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md).
 If any violating behavior is encountered, the [Trusted Committer] has the the authority to require modifications and/or ultimately remove the violating content on behalf of the partnership.
 This decision-making policy is created specifically for the Origin-Collaboration repository. 
-The decision-making policy for the Registry repository can be found [here](link-here).
+The Registry repository has their own contribution guidelines, available [here](https://project-origin.github.io/registry/). 
 
 [//]: # (Note that "Contribution Guideline" is linked a lot. This document will be created asap)
 
