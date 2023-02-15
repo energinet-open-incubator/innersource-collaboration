@@ -45,8 +45,8 @@ If you want to dive deeper into how to succesfully run a FOSS project and work i
 ### Asynchronous work structures
 Please consult the following guidelines and policies for information about rules that apply for contribution and participation in the Origin-Collaboration repository. 
 
-- [Decision-Making Policy](docs/work_structures/decision_making_policy.md) 
-- [Contribution Guidelines](docs/work_structures/contribution_guidelines.md)
+- [Decision-Making Policy](docs/guidelines/decision_making_policy.md) 
+- [Contribution Guidelines](docs/guidelines/contribution_guidelines.md)
 - [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md)
 
 #### Trusted Committer
