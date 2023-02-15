@@ -2,7 +2,7 @@
 
 This document introduces certain aspects of business strategy and common behavioral expectations supporting those strategies in the FOSS domain.
 
-It is strongly recommended to read the [Intro to FOSS Terms guide]([../FOSS-Terms-guide/](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide) beforehand to understand foundational concepts, boundaries, terms and mechanics of FOSS, i.e. Free and Open Source Software.
+It is strongly recommended to read the [Intro to FOSS Terms guide](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide) beforehand to understand foundational concepts, boundaries, terms and mechanics of FOSS, i.e. Free and Open Source Software.
 
 While the FOSS Terms guide addresses a more constraint, technical and legal driven perspective, this guide addresses a more business driven perspective. However, as FOSS is a mixture of software engineering (domain), legal (tools/mechanics) and business/social (strategy+incentive building, ways of working), attempting to neglect one of the aspects is a reasonably safe way to trouble.
 
