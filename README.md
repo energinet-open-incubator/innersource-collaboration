@@ -16,7 +16,7 @@ If this is your first time participating in a FOSS project, you should start wit
 - [Free Open Source Software (FOSS) Terms Guide](guides/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md)
 - [Working Asynchronously](guides/acting_in_asynchronous_environments.md)
 - [Introduction on FOSS Product Management](FOSS-pm/introsuggestions-fosspm.md)
-- [Free Open Source Software (FOSS) Myths](guides/foss-myths.md)
+- [FOSS Myths](guides/foss-myths.md)
 - [InnerSource Roles in an Open Collaboration](innersource-short-role-descriptions.md)
 - [Combining OSS and Agile Work Structures](guides/integrating-oss-and-agile.md)
 
