@@ -1,7 +1,7 @@
 # Decision-Making Policy 
 
 This decision-making policy is mostly created as a collection of practices, reflecting what the community in the Origin-Collaboration repository finds as best practices for making the project run smoothly. Given that this is a dynamic, evolving project, such practices will of course change over time. 
-Hence, If you find that something in this policy could be improved or modified, feel free to [start a discussion](https://github.com/project-origin/origin-collaboration/discussions), describing your suggestion(s). 
+Hence, If you have a specific suggestion for modifying or reformulating something in this policy, feel free to [create a pull request](https://github.com/project-origin/origin-collaboration/https://github.com/project-origin/origin-collaboration/pulls), containing your suggestion(s). 
 
 In Project-Origin, work is mostly done asynchronously, where normal decision-making structures tend to be ineffective. 
 Hence, we have set up this decision-making policy, to create some general guiding structures to follow, specifying when a suggestion or vote can be regarded as decided/done. 
