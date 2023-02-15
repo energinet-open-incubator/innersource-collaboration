@@ -176,7 +176,7 @@ This process is called **FOSS compliance.** See also [responsibilities and expec
 We will need to address this based on a legal risk estimation based on legal reality and current legislation around intellectual property law in Denmark as this the evolution towards here is usually an ongoing process.
 
 ### Software patents and trademarks
-Some software implemented innovations can be patented. According to the [legal analysis document]() (Section 1.3.2ff) Denmark does not do software patents but the exist in reality nevertheless.
+Some software implemented innovations can be patented. According to the [legal analysis document](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) (Section 1.3.2ff) Denmark does not do software patents but the exist in reality nevertheless.
 
 Some licenses have certain aspects of patent protection or terminate on patents claims. (e.g. GPL class, DAP Section 2.2.1, 2.2.2ff )
 An evaluation of the risks and chances here, especially given novel and innovative material being developed by us, is strongly advised. It might be desirable to ensure that certain common material is not patented to remain accessible by all interested parties.
@@ -255,7 +255,7 @@ What you can do with source code, you can do with data.
 Data might be other text (like this one here), images, raw material for images (e.g. design templates), or raw data such as an energy system forecasting data (e.g. Excel/CSV files to train AIs with it).
 
 There are similar standardized  licenses for this, with one of the most popular being the [Creative Commons licenses](https://creativecommons.org/about/cclicenses/). 
-All legal effects listed above apply here as well. A detailed legal evaluation is required here if they are supposed to be used. The [legal analysis document]() does not write about the creative commons.
+All legal effects listed above apply here as well. A detailed legal evaluation is required here if they are supposed to be used. The [legal analysis document](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) does not write about the creative commons.
 The licenses also have shorthands indicating the template that is used.
 
 Common variations are (abbreviated according to the website, see the full license texts for the legal details. Contact a specialized legal counsel to see into actual enforceability, details or other related issues): 
@@ -264,4 +264,4 @@ Common variations are (abbreviated according to the website, see the full licens
 - Do you want to enforce changes being published under the same license: SA attribute
 - Attribution is always required with the following attribute: BY
 
-They Creative Commons steering body provides [further documentation for these variations]().
+The Creative Commons steering body provides [further documentation for these variations](https://creativecommons.org/licenses/?lang=en).
