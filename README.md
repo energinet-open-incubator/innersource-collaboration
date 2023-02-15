@@ -34,7 +34,6 @@ If you want to dive deeper into how to succesfully run a FOSS project and work i
 - [Success Indicators in FOSS](FOSS-pm/FOSS-common-success-criteria.md)
 - [FOSS Leading Principles](FOSS-pm/leading-principles.md). 
 - [FOSS Strategy Guide](guides/FOSS-strategy-guide/07-FOSS-Terms-Intro-FOSS-strategy.md)
-- [Indicators of FOSS success](https://github.com/project-origin/origin-collaboration/blob/main/FOSS-pm/FOSS-common-success-criteria.md)
 - [Using RFCs in Open-Source Projects](https://github.com/project-origin/origin-collaboration/blob/main/guides/rfc.md)
 - [Legal Memo on Energinets use of Open Source](background_material/legal_memo_ENDK_README.md)
 
