@@ -6,7 +6,6 @@ We’re still working out how to make contributing to this project as easy and t
 Hopefully, this document can make the contributing process more clear and answer some questions that you may have.
 Hence, these contribution guidelines are best used as a point-of-reference for participants, when in doubt of how or where to make their contribution(s). 
 
-
 Given that this is a dynamic, evolving project, these guidelines may change over time. 
 If you have a specific suggestion for modifying or reformulating something in these guidelines, feel free to [create a pull request](https://github.com/project-origin/origin-collaboration/https://github.com/project-origin/origin-collaboration/pulls), containing your suggestion. 
 
@@ -19,7 +18,7 @@ The specific guidelines for each of these communication forms will be described 
 ## General Community Guidelines
 
 ### 2FA
-Participants can only be allowed access to the Origin-Collaboration repository, if they have two-factor authentication activated for their Github account. More information on how to activate two-factor authentication [here](missing-link)
+Participants can only be allowed access to the Origin-Collaboration repository, if they have two-factor authentication activated for their Github account. More information on how to activate two-factor authentication [here](missing-link).
 
 ### Choosing between Contribution Options
 The most appropriate choice of contribution form, depends on, for one thing, how specific your contribution is. Some general guidelines for when to choose which are:
@@ -34,38 +33,40 @@ The most appropriate choice of contribution form, depends on, for one thing, how
   - You have a specific idea for a new feature, but you don't know how to implement it yet, or you want to refine the idea with the Trusted Committer and community before creating a pull request
   - You discovered a bug, and need inputs from the community and trusted committer, before knowing how to fix the bug
 - Create a pull request if any of these cases apply:
-  - New file
-  - New feature
-  - Modify something directly in a file
+  - You want to create a new file
+  - You want to add a new feature in an existing file
+  - You want to modify something specific in an existing file
 
 ### Labels
 Labels are useful to inform other community members about the topic(s) treated in your issues and pull requests. Further, it allows community members to find any pull requests and issues relevant to them, by using labels for filtering. 
 
 The labels are divided into categories, as provided below, along with an individual description of each label:
 
-- **Green**: Project governanve and -collaboration related stuff. Includes labels `shared narrative`, `legal` and `collaboration`.
-  - `shared narrative`: 
-  - `legal`:
-  - `collaboration`:
+- **Green**: Project governance and -collaboration related stuff. Includes labels `shared narrative`, `legal` and `collaboration`.
+  - `governance`: Setting up project governance structures or rules
+  - `legal`: Deals with legal apects of the project
+  - `collaboration`: Related to setting up collaboration structures
+  - `shared narrative`: Everything that helps us build our shared narrative
 - **Blue**: Product related stuff. Includes labels `documentation`, `product definition` and `enhancement`. 
-  - `documentation`:
-  - `product definition`:
-  - `enhancement`:
+  - `documentation`: Improvements or additions to documentation
+  - `product definition`: Related to our work in defining the individual parts that make up project-origin
+  - `enhancement`: New feature or request
 - **Purple**: Everything that requires/has required inputs for help. Includes labels `question`, `help wanted` and `good first issue`.
-  -  `question`:
-  -  `help wanted`:
-  -  `good first issue`: 
+  -  `question`: Further information is requested
+  -  `help wanted`: Extra attention is needed
+  -  `good first issue`: Good for newcomers
 - **Red**: Everything that isn't working, isn't right or won't be fixed. Includes labels `wont fix`, `bug` and `invalid`.
-  - `wont fix`:
-  - `bug`:
-  - `invalid`:
+  - `wont fix`: This will not be worked on
+  - `bug`: Something isn't working
+  - `invalid`: This does not follow the contribution guidelines
 - **Gray**: The more meta and maintaining/structuring kind of stuff. Includes labels `planning`,  `meta`, `housekeeping` and `duplicate`.
-  - `planning`:
-  -  `meta`:
-  -  `housekeeping`:
-  -  `duplicate`:
+  - `planning`: For the purpose of planning
+  - `workingsession-notes`: To be assigned on all working session notes pull requests so they can easily be found.
+  -  `meta`: Meta content on GitHub org, Organisation etc.
+  -  `housekeeping`: Things don't stay tidy themselves. Deals with all things keeping things tidy and neat.
+  -  `duplicate`: This issue or pull request already exists
 - **Orange**: The identifier for separation of internal Energinet stuff. Includes the label `energinet incubator`.
-  - `energinet incubator`: 
+  - `energinet incubator`: This issue belongs to the overarching Energinet FOSS Skill Incubator topic
 
 
 [//]: # (---------------------------------------------------------------------------------------------------------------------------------------------------) 
@@ -107,7 +108,27 @@ _Additional Information_
 [//]: # (---------------------------------------------------------------) 
               
 ### Task List
-Populated with tasks. Find isse template. 
+The task list tracks to-do's on the same topic, and hence helps split larger tasks into smaller to-do's. If you are working on several different tasks at the same time, it can also help you collect and track all your tasks at one place. 
+
+_Start Date_
+When did/will you start working on this task list? Fill in this field with the Day/Month/Year. 
+
+_Overview_
+Fill in this field with a few lines, explanaining the purpose of this task-list.
+
+_To Do_
+You add your tasks in this field, by writing "- [ ]" as shown below, and then replacing the placeholders ("Task 1", "Task 2") with the actual tasks that you need to complete. 
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [ ] ...
+
+You can add already existing issues or pull requests to your task list by writing a "#" and following it with the title of the issue/PR. 
+When the task list is created, you can convert your tasks to issues, by hovering over them with your mouse and clicking the issue symbol (circle) on the right. 
+You can mark a task as complete, by clicking the checkbox that appears in front of the task.
+
+
 
 
 #### _Format_ 
