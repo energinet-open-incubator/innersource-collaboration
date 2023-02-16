@@ -16,6 +16,60 @@ The specific guidelines for each of these communication forms will be described 
 
 [//]: # (---------------------------------------------------------------------------------------------------------------------------------------------------) 
 
+## General Community Guidelines
+
+### 2FA
+Participants can only be allowed access to the Origin-Collaboration repository, if they have two-factor authentication activated for their Github account. More information on how to activate two-factor authentication [here](missing-link)
+
+### Choosing between Contribution Options
+The most appropriate choice of contribution form, depends on, for one thing, how specific your contribution is. Some general guidelines for when to choose which are:
+
+- Use the Discussion forum, when one of these situations apply to you
+  - You don't know where to find something, or how to carry out a certain task on Github
+  - You are considering several alternatives for a solution, and it is not clear which one is best
+  - You have a loose idea for something, but need inputs for it to become an actual feature to request
+  - You have some information that you think is relevant for the community, about related news, something happening, or something you and/or others made in this project.
+- Use the Issues, when one of these situations apply to you
+  - You have a specific task/list of tasks related to the project, that you want to track, while potentially receiving inputs from the community
+  - You have a specific idea for a new feature, but you don't know how to implement it yet, or you want to refine the idea with the Trusted Committer and community before creating a pull request
+  - You discovered a bug, and need inputs from the community and trusted committer, before knowing how to fix the bug
+- Create a pull request if any of these cases apply:
+  - New file
+  - New feature
+  - Modify something directly in a file
+
+### Labels
+Labels are useful to inform other community members about the topic(s) treated in your issues and pull requests. Further, it allows community members to find any pull requests and issues relevant to them, by using labels for filtering. 
+
+The labels are divided into categories, as provided below, along with an individual description of each label:
+
+- **Green**: Project governanve and -collaboration related stuff. Includes labels `shared narrative`, `legal` and `collaboration`.
+  - `shared narrative`: 
+  - `legal`:
+  - `collaboration`:
+- **Blue**: Product related stuff. Includes labels `documentation`, `product definition` and `enhancement`. 
+  - `documentation`:
+  - `product definition`:
+  - `enhancement`:
+- **Purple**: Everything that requires/has required inputs for help. Includes labels `question`, `help wanted` and `good first issue`.
+  -  `question`:
+  -  `help wanted`:
+  -  `good first issue`: 
+- **Red**: Everything that isn't working, isn't right or won't be fixed. Includes labels `wont fix`, `bug` and `invalid`.
+  - `wont fix`:
+  - `bug`:
+  - `invalid`:
+- **Gray**: The more meta and maintaining/structuring kind of stuff. Includes labels `planning`,  `meta`, `housekeeping` and `duplicate`.
+  - `planning`:
+  -  `meta`:
+  -  `housekeeping`:
+  -  `duplicate`:
+- **Orange**: The identifier for separation of internal Energinet stuff. Includes the label `energinet incubator`.
+  - `energinet incubator`: 
+
+
+[//]: # (---------------------------------------------------------------------------------------------------------------------------------------------------) 
+
 ## Issues 
 Everyone in the community can create issues, using one of the [issue templates](https://github.com/project-origin/origin-collaboration/issues/new/choose) provided, or add comments and suggestions to others' issues posted here in the Origin-Collaboration repository. 
 Issues are meant for discussing specific, closed-form ideas or details of a project. 
@@ -122,13 +176,3 @@ If you have an idea for something, but you don’t know exactly if or how to imp
 
 Inspiration: [React contribution guidelines](https://reactjs.org/docs/how-to-contribute.html)
 
-
-[//]: # (---------------------------------------------------------------------------------------------------------------------------------------------------) 
-
-## General Community Guidelines
-
-## 2FA
-Participants can only be allowed access to the Origin-Collaboration repository, if they have two-factor authentication activated for their Github account. More information on how to activate two-factor authentication [here](missing-link)
-
-### Labels
-TODO: Find practices from discussion, where there is a proposal on using labels. 
