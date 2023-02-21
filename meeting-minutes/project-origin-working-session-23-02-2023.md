@@ -2,7 +2,7 @@
 
 ## Roles
 - [Scheduler]: Laura / @lauranolling 
-- [Facilitator]: Johannes / @lenucksi 
+- [Facilitator]: ?
 - [Scribe]: Thomas / @wisbech 
 
 ## Agenda
