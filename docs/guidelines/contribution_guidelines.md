@@ -15,7 +15,6 @@ Contributions are welcome in the form of discussion posts, issues, and pull requ
 The specific guidelines for each of these communication forms will be described in the following. 
 
 
-[//]: # (---------------------------------------------------------------------------------------------------------------------------------------------------) 
 
 ## General Community Guidelines
 
@@ -217,19 +216,18 @@ Of there is any additional, relevant information about the bug you encountered, 
 
 
  
-[//]: # (--------------------------------------------------------------------------------------------------------------------------------------------------)
 
-## Pull requests
+## Pull Requests
 Everyone in the community can create a pull request, or add reviews, comments, and suggestions to [existing pull requests](https://github.com/project-origin/origin-collaboration/pulls). 
 
-### Create a pull request
-If you want to create a new file, or you want to add/modify something in an existing file, you must create a pull request. To do so you must either:
+### Creating a Pull Request
+If you want to create a new file, or make changes to an existing file, you must create a pull request by either:
 
-1. Navigate to a relevant location for your new file, and click on "Add file" and then "Create new file" in the drop-down menu. Give the file a title (remember to add ".md" if you want to create a Markdown file), and fill in the file with your content. 
+1. Navigating to a relevant location for your new file, and click on "Add file" and then "Create new file" in the drop-down menu. Give the file a title (remember to add ".md" if you want to create a Markdown file), and fill in the file with your content. 
 
 **TODO: Add image create new file**
 
-2. Navigate to the [pull request templates](link-here) and find a relevant template for your pull request. This is relevant if you want to create 1. an [RFC](link-here), 2. a [meeting minutes], or 3. others?.
+2. Navigating to the [pull request templates](link-here) and find a relevant template for your pull request. This is relevant if you want to create 1. an [RFC](link-here), 2. a [meeting minutes], or 3. others?.
 
   i. Click on the pull request template you want to use
   ii. Click on the "Copy raw contents" symbol
@@ -237,12 +235,9 @@ If you want to create a new file, or you want to add/modify something in an exis
   iv. Left-click in the new file and choose "paste" in the drop-down menu, or press ctrl+V to paste the template. 
   v. Fill in the template with your content 
  
-3. Navigate to the location of the file you want to modify, click on the file, and then click on the "✏️" in the upper right corner of the file. 
+3. Navigating to the location of the file you want to modify, click on the file, and then click on the "✏️" in the upper right corner of the file. 
 
 **TODO: Add image**
-
-
-### Guidelines
 
 #### Commit Message
 The commit message must be filled with the following information: 
@@ -275,7 +270,7 @@ There are a number of best practices, which will help ensure that the path towar
 
 ### Pull Request Templates
 **TODO: Make templates**
-The Origin-Collaboration repository has a number of [pull request templates](link-here) for documents with certain requirements for their structures. These templates will be described individually below. 
+The Origin-Collaboration repository has a number of [pull request templates](link-here) for documents with certain structures, to make it easier for participants to create files to use for different purposes. These templates will be described individually below. 
 
 #### Request for Comments (RFC)
 Requests for Comments (RFCs) can be submitted in the Origin-Collaboration repository, to make bigger, more extensive change proposals which will affect Project-Origin both on the technical and business aspects. 
@@ -341,42 +336,121 @@ This section is for the scribe to fill in with the points:
 - Next meeting's roles
   - If the meeting is part of a recurring series of meetings, the participants can agree on someone to fill in the three roles for the next meeting. 
 
-[//]: # (--------------------------------------------------------------------------------------------------------------------------------------------------) 
+
+### Reviewing Pull Requests
+If you want to review someone else's pull request, you can review changes and leave individual comments or make change suggestions in the file(s) contained in the pull request, by:
+
+- Navigating to the pull request you want to review, from the [list of open pull requests](https://github.com/project-origin/origin-collaboration/pulls)
+- In the pull request, click on the tab "Files changed"
+ TODO: Image here
+- Hover over the line of code where you'd like to add a comment, or suggest a change and click the blue comment icon that appears. 
+  
+  TODO: Image here
+ 
+- To add a comment or suggestion for multiple lines, click and drag to select the range of lines, then click the blue comment icon.
+  - If you want to make a suggestion, you must click the square with a "+-" sign inside, in the top right corner of the comment box that appears. 
+  TODO: add image
+- When you are done adding your comment or suggestion, you can either choose "Add Single Comment", if you only have one thing to add, or "Start a Review" if you want to add several comments and/or suggestions.
+
+
+  
+
 
 ## Project Boards
-Describing the three project boards. 
+All project boards used in the Origin-Collaboration repository can be found under the [Projects](https://github.com/project-origin/origin-collaboration/projects?query=is%3Aopen) tab. Two Collaborative Project Boards have been created for collaboration between participants of this repository: 
+  
+- **Project-Origin Backlog**: This is an internal backlog for all the "non-software" kind of work in Project Origin. This Project board is relevant to **everyone** participating in the Project-Origin partnership. 
+- **Collaboration Platform Backlog**: This is a backlog specifically for setting up base documentation and decision structures here on Github. This Project board is relevant to anyone contributing in setting up these structures.
+  
+Additionally, a Project board is created to document the progress made in a workshop between the partners:
+  
+- **First Workshop in Aarhus 8.11.2022**: This Project board provides an overview of all the stickie notes produced at the first workshop.
 
-### General guidelines
-How to use the boards. When to move the issues to another status column. 
+Finally, everyone can create their own Project board, if they want to. The guidelines for creating new Project boards, or using the existing collaborative Project Boards, are provided in the following.
 
-### Using Draft issues 
-Using the draft issues feature. To inform the community of certain work that needs to be done, but that is not further defined, and that you haven't started working on yet. It is highly encouraged to use the discussions forum instead, for ideas that need to be refined.  
+### Creating a New Project Board
+An extensive guide on how to create a new Project board is provided [here](https://github.com/project-origin/origin-collaboration/blob/main/docs/github_guides/projects.md). When creating a new Project board, consider the following guidelines for the Origin-Collaboration repository:
+  
+- Give the Project board an informative title and preferably description as well, to make it easier for the community members to understand what the board contains, and whether or not it is relevant to them
+- Create board views sorted in ways that are easy to understand, to allow other community members to potentially interact with the board as well. You are welcome to draw inspiration from the existing project boards.
+- If you want to create a Project board to keep an overview of your own tasks, you must change its access settings to private. You can change access settings by clicking on the three dots in the upper right corner, and click on "Settings" and then "Manage Access". 
+
+If the project board does not comply with the Contribution Guidelines provided here, the Trusted Committer can request changes from the creator of the Project board, and ultimately delete the board, in a lack of response or compliance. 
+
+  
+### Using the Collaborative Boards
+The collaborative Project boards, [Project-Origin Backlog](https://github.com/orgs/project-origin/projects/6) and [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2), are set up with a consistent layout, to make it easier to interact in them. 
+  
+#### Board Views
+Both of the collaborative Project boards have a backlog/Scrumboard style view, with status columns. The Project-Origin Backlog additionally has several list-views sorted by different attributes, that can be specified for each separate issue. Participants of the Origin-Collaboration repository can use whichever view they like, or create new views in the boards if they want to, by clicking "+ New View" in the right end of the view tabs. 
+  
+TODO: Insert image here
+  
+  
+#### Card Columns
+There are four columns in the collaborative Project boards:
+
+- **Backlog**: Issues that are planned and defined, but work on the issue is not yet initiated.
+- **In Progress**: The issue or pull request is currently being worked on, and sees some sort of progress.
+- **Waiting/Blocked**: The issue or pull request waits for external inputs, review or something else to be finished/clarified, before work can continue.
+- **Done**: The work on the issue is done. 
+  - At each [weekly synchronous session]() the "Done" column is emptied, by clicking the three dots in the upper right corner of the column, and clicking "Archive all". 
+
+### Draft issues 
+In the Project boards, it is possible to use the "draft issue" feature, by clicking on the "+ New Item" in the bottom of a column.
+
+TODO: Insert image here. 
+  
+The draft issues should only be used with the purpose of informing the community of certain work that needs to be done, or link to relevant background information, but that is not further defined, and that you haven't started working on yet. It is highly encouraged to use the discussions forum instead, for ideas that need to be refined, or creating an actual issue for well-defined tasks, to allow for interaction in the issue, which is otherwise not possible in the "draft" mode.  
 
  
-[//]: # (---------------------------------------------------------------------------------------------------------------------------------------------------) 
 
 ## Discussions
 [Discussions](https://github.com/project-origin/origin-collaboration/discussions) are intended for open-form ideas or topics, and creates a space for the community to interact and communicate more broadly than is possible in the more closed-form issues and pull requests. 
 
-... potentially creating issues and pull requests for ideas that sees a large connect from the community and evolves to a more definite feature. If a specific discussion has been especially valuable for the arguments exchanged or the options discarded etc. or a specific good formulation is present feel free to link to said comment or discussion in the pull request. Such written discussion artifacts are considered passive documentation and reduce writing burden and can reduce disconnection from the past leading to history repeating.
+If a discussion turns into a well-defined feature or task and/or sees a large connect from the community, participants of the community can create issues and pull requests. If a specific discussion has been especially valuable for the arguments exchanged or the options discarded etc. or a specific good formulation is present feel free to link to said comment or discussion in the pull request/issue. Such written discussion artifacts are considered passive documentation and reduce writing burden and can reduce disconnection from the past leading to history repeating. The guidelines for using the [Discussions](https://github.com/project-origin/origin-collaboration/discussions) tab will be provided in the following. 
 
+
+
+### Creating a discussion
+Before creating a new discussion, make sure to check if there [already exists a post](https://github.com/project-origin/origin-collaboration/discussions) on your topic. To create a discussion, navigate to the Origin-Collaboration [Discussions](https://github.com/project-origin/origin-collaboration/discussions) and click on the green button "New Discussion". In the "Select Category" drop-down menu, click on the most appropriate category for your discussion. The purpose and guidelines for each discussion channel will be provided in the following.
+  
 ### General
-A forum for open, informal discussion in the community.
+The "General" channel is a forum for open, informal discussion in the community. As long as your post complies with our [Code of Conduct](linkhere), you are free to post whatever you would like to discuss with the rest of the community in this channel. 
 
 ### Announcements
-Can be used to announce, e.g., any decisions made in the partnership, or any major feature or progress that has been made, that affects the community.
+The "Announcement" channel can be used to announce decisions made in the partnership, or major features that you are working on, that will affect a larger part of the community. If you rather want to highlight something that you and/or someone else have made, you can post it in the [Show and Tell](#show-and-tell) channel instead. 
  
 ### Ideas
-If you have an idea for something, but you don’t know exactly if or how to implement it, you can post your idea in the Ideas discussion forum (link here). This discussion channel gives the community a place to discuss loose, open ideas, and potentially develop an idea until it becomes a well-defined feature request. If an idea evolves to a feature request, an issue can be created for this.
+If you have an idea for something, but you don’t know exactly if or how to implement it, you can post your idea in the "Ideas" discussion channel. This discussion channel gives the community a place to discuss loose, open ideas, and potentially develop an idea until it becomes a well-defined feature request. If an idea evolves to a feature request, an issue can be created for this.
+
+If you create a post, make sure to provide a self-explanatory, concise title, and describe the idea in an easy-to-understand way, providing at least
+1. A description of the idea
+2. The motivation behind the idea - What can be gained with your idea in Project-Origin? 
+3. Which parts of the idea you want to process in collaboration with the community, for the idea to become a feature request.
 
 ### Polls
-Polls will be posted in the Discussion forum. The decision-making in polls follows a lazy consensus approach, inspired by the Apache definition of the concept. A poll can have a status of proposed, open or closed. When a poll is closed, the outcome of the vote indicated in the poll can be considered as decided on. See more information about the decision-making process of polls in the [Decision-Making Policy](https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/decision_making_policy.md). 
+Polls will be posted in this discussion forum. You can create polls to evaluate the community's interest in your ideas, or discover the direction that gets the most connect from the community, for something you want to add. Anyone with read access to the Origin-Collaboration repository can create polls, vote in polls, and view the poll's results. 
+
+#### Guidelines for polls 
+If you are creating a poll, be aware of the following guidelines: 
+
+- Polls require a question and at least two options. 
+- You can add a maximum of eight options. 
+- You must add an answering deadline, to let the community know when the poll will be closed. 
+  - The deadline must be at least 10 working days, excluding rare exceptions. See the [Decision-Making Policy](Decision-Making Policy](https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/decision_making_policy.md) for more information. 
+  - The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. A poll can have a status of proposed, open or closed. When a poll is closed, the outcome of the vote indicated in the poll can be considered as decided on. 
+- Editing a poll will reset any votes that have already been made. 
+  
+
+If you are voting on a poll, note that you cannot change your vote, after submitting it. If you need some clarification before providing your answer, provide your clarification request as a comment in the discussion thread of the poll. 
 
 ### Q & A
-Q&A creates a space for the community to ask each other questions, and support each other on specific problems.
+The "Q & A" channel creates a space for the community to ask each other questions, and support each other on specific problems. 
+  
+As the discussion author, you can mark a comment as "the answer" to your question. In the upper-right corner of the comment you want to mark as the answer, click on the check-mark in the upper right corner of the comment. 
+  
+When you mark a question as an answer, GitHub will highlight the comment and replies to the comment to help visitors quickly find the answer, when navigating to your discussion post. (Note that you can't mark a threaded comment in response to a comment as the answer to a discussion. You also can't mark a minimized comment as the answer to a discussion). 
 
 ### Show and Tell
-A place to highlight and praise contributions that you, or someone else have made.
- 
-Inspiration: [React contribution guidelines](https://reactjs.org/docs/how-to-contribute.html)
-
+The "Show and Tell" channel is a place to highlight and praise contributions that you, or someone else have made. Make sure to mention any contributors of the feature that you want to highlight in your discussion post. 
