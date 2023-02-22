@@ -60,7 +60,7 @@ A small working group in Energinet has found it valuable to have weekly meetings
 Currently, the weekly synchronous sessions happen each Thursday at 10:00-11:00. If you want to participate in (one of) these sessions, reach out to [@lauranolling](mailto:lau@energinet.dk), who will add you to the calendar invitation. The agenda for the upcoming meeting will always be added as a [pull request](https://github.com/project-origin/origin-collaboration/pulls). 
 
 #### Meeting Minutes
-If you are interested in the topics and progress of previous weekly synchronous sessions, you can take a look at [this folder](https://github.com/project-origin/origin-collaboration/tree/main/meetings), where information, templates, and summaries for the meetings are uploaded.
+If you are interested in the topics and progress of previous weekly synchronous sessions, you can take a look at [this folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes), where summaries for the meetings are uploaded.
 
 ### Synchronous Partner Meetings
 Besides working on Github, the partnership carries out longer-duration physical partner meetings. These meetings are not fixed-date meetings, but will rather be planned when the partnership finds the need for one. So far, the partner meetings include workshops and implementer days. 
