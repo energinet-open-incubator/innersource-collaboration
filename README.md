@@ -5,6 +5,8 @@ The purpose of this repository is to create a space for us to build structures a
 
 Below, some information and links are provided to help navigate around the repository, and to help you to start collaborating here on Github!
 
+## Need any help? 
+If you have a problem or if you cannot find certain information anywhere, you can ask a question in the [Q&A Discussion Forum](https://github.com/project-origin/origin-collaboration/discussions/categories/q-a). People, who may have the same problem, can then find help in your discussion post later on. Alternatively, reach out to this repository's Trusted Committer, [@lauranolling](mailto:lau@energinet.dk), who will get back to you as soon as possible. 
 
 &nbsp;
 
@@ -69,7 +71,3 @@ The workshops treat both technical and business topics related to Project-Origin
 #### Implementer Days
 Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes).
 
-&nbsp;
-
-## Need any help? 
-If you have a problem or if you cannot find certain information anywhere, you can ask a question in the [Q&A Discussion Forum](https://github.com/project-origin/origin-collaboration/discussions/categories/q-a). People, who may have the same problem, can then find help in your discussion post later on. Alternatively, reach out to this repository's Trusted Committer, [@lauranolling](mailto:lau@energinet.dk), who will get back to you as soon as possible. 
