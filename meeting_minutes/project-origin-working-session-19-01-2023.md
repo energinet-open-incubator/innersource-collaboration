@@ -94,9 +94,9 @@
 
 ## Next Meeting’s Roles
 
-- [Scheduler](Scheduler): Laura 
-- [Facilitator](Facilitator): Johannes 
-- [Scribe](Scribe): Laura
+- [Scheduler]: Laura 
+- [Facilitator]: Johannes 
+- [Scribe]: Laura
 
 <!-- something tells me we need to fix the anchorlink style use here... -->
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
