@@ -60,7 +60,7 @@ Put assignments here in the following format:
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[project board Energinet Open Incubator](https://github.com/orgs/project-origin/projects/11)
+[project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
