@@ -63,5 +63,5 @@ Put assignments here in the following format:
 [project board Energinet Open Incubator](https://github.com/orgs/project-origin/projects/11)
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
-[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.mdd#facilitator
+[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
 [Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
