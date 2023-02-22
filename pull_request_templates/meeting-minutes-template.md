@@ -52,10 +52,10 @@ Put assignments here in the following format:
 
 ## Next Meeting’s Roles
 
-- [Scheduler](Scheduler): 
+- [Scheduler]: 
 <!-- - Crier:  -->
-- [Facilitator](Facilitator): 
-- [Scribe](Scribe):  
+- [Facilitator]: 
+- [Scribe]:  
 
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
