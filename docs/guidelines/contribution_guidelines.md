@@ -39,6 +39,7 @@ The labels are divided into categories, as provided below, along with an individ
   -  `question`: Further information is requested
   -  `help wanted`: Extra attention is needed
   -  `good first issue`: Good for newcomers
+  - `urgent`: This needs to be addressed asap 
 - **Red**: Everything that isn't working, isn't right or won't be fixed. Includes labels `wont fix`, `bug` and `invalid`.
   - `wont fix`: This will not be worked on
   - `bug`: Something isn't working
