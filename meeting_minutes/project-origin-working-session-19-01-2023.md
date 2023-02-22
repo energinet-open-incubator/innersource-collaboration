@@ -1,9 +1,9 @@
 # Project Origin / Energinet Open Incubator Working Group Work Session 19, 01, 2023
 
 ## Roles
-- Scheduler: Laura / @lauranolling
-- Facilitator: Laura / @lauranolling
-- Scribe: Johannes / @lenucksi
+- [Scheduler] : Laura / @lauranolling
+- [Facilitator] : Laura / @lauranolling
+- [Scribe] : Johannes / @lenucksi
 
 ## Agenda
 
@@ -94,9 +94,9 @@
 
 ## Next Meeting’s Roles
 
-- [Scheduler]: Laura 
-- [Facilitator]: Johannes 
-- [Scribe]: Laura
+- [Scheduler] : Laura 
+- [Facilitator] : Johannes 
+- [Scribe] : Laura
 
 <!-- something tells me we need to fix the anchorlink style use here... -->
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
