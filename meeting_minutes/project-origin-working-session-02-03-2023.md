@@ -34,7 +34,7 @@
   - Anders / @andersfausboll:
     - Put the current hypothesis of his conversations with @andre and @lenucksi on the separation & future of the efforts to the Miro.  
     - (Participate asynchronously using the working session notes post and the agenda pre the working session.)
-    - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
+    - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant - Anders will comment and close this issue
     - Scoping of Open Incubator first draft (shared assignment)
     - Reach out to the new PMO and MS for project portfolio #177
   - Thomas / @wisbech 
