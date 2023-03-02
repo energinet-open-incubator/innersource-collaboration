@@ -56,7 +56,7 @@
 # Notes
 
 ## Attendees:
-- 
+- @lauranolling, @wisbech, @andersfausboll 
 
 ## Key Points:
 - 
