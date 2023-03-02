@@ -64,7 +64,7 @@
 
 - [Scheduler]:  
 - [Facilitator]:  
-- [Scribe]: 
+- [Scribe]: @lauranolling 
 
 <!-- something tells me we need to fix the anchorlink style use here... -->
 
