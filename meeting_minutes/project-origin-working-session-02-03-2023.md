@@ -62,7 +62,7 @@
 
 ## Next Meeting’s Roles
 
-- [Scheduler]:  
+- [Scheduler]:  @lauranolling 
 - [Facilitator]:  @wisbech 
 - [Scribe]: @lauranolling 
 
