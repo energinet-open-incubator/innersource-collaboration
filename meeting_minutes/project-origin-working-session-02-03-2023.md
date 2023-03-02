@@ -18,8 +18,8 @@
   - 1 cards in “Waiting/Blocked” 
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
   - 15 cards in “Backlog” 
-  - 2 cards in “In Progress” 
-  - 0 cards in “Waiting/Blocked”
+  - 4 cards in “In Progress” 
+  - 1 cards in “Waiting/Blocked”
 - [ ] Empty the “Done” column on the project boards.
 - [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
 - [ ] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-02-2023.md). (List below)
@@ -30,17 +30,19 @@
     - [#162](https://github.com/project-origin/origin-collaboration/issues/162) make @wisbech trusted committer and make sure that he involves our partners in the decision making process and the implementation teams as well. @lauranolling is trusted commiter on the project-origin collaboration repo.
     - Reach out to our new PMO in regard to Open Incubator and the innerSource approach here
     - Unhide the guides [https://github.com/project-origin/origin-collaboration/tree/main/guides](https://github.com/project-origin/origin-collaboration/tree/main/guides)
+    - Licensing #72 is being adressed and is in progress
   - Anders / @andersfausboll:
     - Put the current hypothesis of his conversations with @andre and @lenucksi on the separation & future of the efforts to the Miro.  
     - (Participate asynchronously using the working session notes post and the agenda pre the working session.)
     - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
     - Scoping of Open Incubator first draft (shared assignment)
+    - Reach out to the new PMO and MS for project portfolio #177
   - Thomas / @wisbech 
     - First draft on "Tooling Guide", starting with suggested tool draw.io  postponed 
     - Add comment on "rev up Open Incubator Github" (can't link because draft issue) on why the org wasn't made today - graduate this to an issue
     - Add the library as a link to the FOSS guide [FOSS guide part 1](https://github.com/orgs/project-origin/projects/11/views/1?pane=issue&itemId=19492319)
     - Storytelling - the how
-    - Paperwriting with @tpryds get it ongoing 
+    - ~ Paperwriting with @tpryds get it ongoing  ~
     - Add the conclusions from the Mjølner meetup with @guidmaster to #83 
     - We have an agreement on a workshop between Team Atlas and project-origin working group
     - review Open Incubator 1-pager
