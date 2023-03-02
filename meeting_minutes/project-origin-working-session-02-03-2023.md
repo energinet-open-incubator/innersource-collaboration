@@ -14,7 +14,7 @@
   - 3 cards in “Waiting/Blocked”
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
   - 5 cards in “Backlog” 
-  - 1 cards in “In Progress” 
+  - 2 cards in “In Progress” 
   - 3 cards in “Waiting/Blocked” 
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
   - 15 cards in “Backlog” 
