@@ -27,7 +27,7 @@
   - Laura / @lauranolling:
     - Landing page to navigate around structures and templates
     - Scoping of Open Incubator first draft (shared assignment) transfer to note #165 
-    - [#162](https://github.com/project-origin/origin-collaboration/issues/162) make @wisbech trusted committer and make sure that he involves our partners in the decision making process and the implementation teams as well
+    - [#162](https://github.com/project-origin/origin-collaboration/issues/162) make @wisbech trusted committer and make sure that he involves our partners in the decision making process and the implementation teams as well. @lauranolling is trusted commiter on the project-origin collaboration repo.
     - Reach out to our new PMO in regard to Open Incubator and the innerSource approach here
     - Unhide the guides [https://github.com/project-origin/origin-collaboration/tree/main/guides](https://github.com/project-origin/origin-collaboration/tree/main/guides)
   - Anders / @andersfausboll:
