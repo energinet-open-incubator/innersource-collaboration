@@ -42,6 +42,8 @@
     - Storytelling - the how
     - Paperwriting with @tpryds get it ongoing 
     - Add the conclusions from the Mjølner meetup with @guidmaster to #83 
+    - We have an agreement on a workshop between Team Atlas and project-origin working group
+    - review Open Incubator 1-pager
     - Make some suggestions to the [tooling guide](https://github.com/project-origin/origin-collaboration/tree/main/guides) and make it more visible
     - Get @MortenHouborg to buy a git license for digitization
   - Johannes / @lenucksi
