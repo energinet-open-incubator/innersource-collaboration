@@ -129,6 +129,6 @@
 [Project board Collaboration Platform]: https://github.com/orgs/project-origin/projects/2/views/1
 [Project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
 
-[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler
-[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator
-[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe
+[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
+[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
+[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
