@@ -55,7 +55,7 @@
 - @lauranolling, @wisbech, @andersfausboll 
 
 ## Key Points:
-```suggestion
+
 **Project Origin Backlog**
 - In Progress:
     - Division Project-Origin and Open Incubator [#67](https://github.com/project-origin/origin-collaboration/issues/67): We agreed that we now are all aligned on the separation. For completeness @andersfausboll will add a final comment summarizing the separation (See the [Assignments](#assignments) section below)
