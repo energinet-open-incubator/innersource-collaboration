@@ -28,7 +28,7 @@
     - Set up Github pages
         - Landing page to navigate around structures and templates
         - Unhide the guides
-    - ~Scoping of Open Incubator first draft (shared assignment) transfer to note #165 ~
+    - ~Scoping of Open Incubator first draft (shared assignment) transfer to note #165~
     - ~[#162](https://github.com/project-origin/origin-collaboration/issues/162) make @wisbech trusted committer and make sure that he involves our partners in the decision making process and the implementation teams as well. @lauranolling is trusted commiter on the project-origin collaboration repo.~
   - Anders / @andersfausboll:
     - Put the current hypothesis of his conversations with @andre and @lenucksi on the separation & future of the efforts to the Miro.  
