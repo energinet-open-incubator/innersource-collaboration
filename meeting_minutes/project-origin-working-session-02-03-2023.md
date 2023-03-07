@@ -6,24 +6,24 @@
 - [Scribe]: Thomas / @wisbech 
 
 ## Agenda
-- [ ] Ensure that any new attendees have a meaningful way to get involved.
-- [ ] Fill in a summary of items on the project boards:
-- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [x] Ensure that any new attendees have a meaningful way to get involved.
+- [x] Fill in a summary of items on the project boards:
+- [x] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
   - 8 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 3 cards in “Waiting/Blocked”
-- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+- [x] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
   - 5 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked” 
-- [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
+- [x] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
   - 15 cards in “Backlog” 
   - 4 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked”
-- [ ] Empty the “Done” column on the project boards.
-- [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
-- [ ] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-02-2023.md). (List below)
-- [ ] Fill in assignments from the last meeting
+- [x] Empty the “Done” column on the project boards.
+- [x] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
+- [x] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-02-2023.md). (List below)
+- [x] Fill in assignments from the last meeting
   - Laura / @lauranolling:
     - Set up Github pages
         - Landing page to navigate around structures and templates
@@ -47,7 +47,7 @@
   - Johannes / @lenucksi
     - Look at the scribe links and make github work 
     - ~Help with scoping of Open Incubator one-pager (shared assignment)~
-- [ ] Sign up for next week’s meeting roles.
+- [x] Sign up for next week’s meeting roles.
 
 # Notes
 
