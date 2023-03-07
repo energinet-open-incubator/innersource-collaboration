@@ -120,10 +120,9 @@
   
 
 ## Next Meeting’s Roles
-
-- [Scheduler]:  @lauranolling 
-- [Facilitator]:  @wisbech 
-- [Scribe]: @lauranolling 
+- [Scheduler]:  Laura / @lauranolling 
+- [Facilitator]:  Thomas / @wisbech 
+- [Scribe]: Laura / @lauranolling 
 
 
 [Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
