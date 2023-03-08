@@ -17,9 +17,9 @@
   - 2 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked” 
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
-  - 15 cards in “Backlog” 
+  - 12 cards in “Backlog” 
   - 4 cards in “In Progress” 
-  - 0 cards in “Waiting/Blocked”
+  - 1 cards in “Waiting/Blocked”
 - [ ] Empty the “Done” column on the project boards.
 - [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
 - [ ] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-02-2023.md). (List below)
@@ -29,7 +29,7 @@
         - Landing page to navigate around structures and templates
         - Unhide the guides
     - ~Put up main points summary for the workshop 01-03-2023 using @lauranolling and @andersfausboll notes.~ 
-    - Move the weekly to 11:00-12:00 
+    - ~Move the weekly to 11:00-12:00~ 
     - Find out next steps for Energinet on communication side (shared assignment)
     - Licensing create suggestions document
   - Anders / @andersfausboll:
