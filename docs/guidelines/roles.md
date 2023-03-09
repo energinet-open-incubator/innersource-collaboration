@@ -86,20 +86,20 @@ Use the meeting template created by the Scheduler for this, which can be found a
 
 **During Meeting**
 
-* [ ] Note the first names of each meeting attendee in the **Attendees** section.
-* [ ] Record a short summary of each discussion in the **Key Points** section.
-* [ ] Record all assignments in the **Assignments** section.
+* Note the first names of each meeting attendee in the **Attendees** section.
+* Record a short summary of each discussion in the **Key Points** section.
+* Record all assignments in the **Assignments** section.
 
 **After Meeting**
 
-* [ ] Upload your notes to Github by committing them to the pull request. It could be useful to add a comment along the lines of "Minutes for working session DD-MM-YYYY added".
-* [ ] Email the notes to everyone on the meeting invite. 
+* Upload your notes to Github by committing them to the pull request. It could be useful to add a comment along the lines of "Minutes for working session DD-MM-YYYY added" to the commit message.
+* Email the notes to everyone on the meeting invite. 
   This email should include (in order):
   * Link to the agenda document where the notes are located.
   * Any access disclaimer where needed.
   * Copy/pasted notes from the agenda document. (If it's a formatted email you can just take the pretty rendered content from GitHub.)
 
-  * [ ] Allow some time for a bit of post-processing of the meeting notes. If anyone has something to add, they can commit it to the pull request, and related discussions can happen in the pull request. Within a reasonable time, finish processing/adding to the notes and merge the pull request, to upload it to the [meeting minutes folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting-minutes).
+  * Allow some time for a bit of post-processing of the meeting notes. If anyone has something to add, they can commit it to the pull request, and related discussions can happen in the pull request. Within a reasonable time, finish processing/adding to the notes and merge the pull request, to upload it to the [working session meeting notes folder].
 
 
 ### Tips
@@ -107,9 +107,8 @@ Use the meeting template created by the Scheduler for this, which can be found a
 * Ensure that a regular attendee who is not at the meeting could understand what happened by the notes only.
 * Make sure the notes are clear and to the point.
 Part of your service as _Scribe_ is to summarize the key points of what was said so that recipients don't need to wade through all of the conversation in order to understand its essentials.
-<!-- * Here is a [sample notes announcement].
-* Here is a [sample email]. -->
-* An easy way to send the notes to everyone on the meeting invite is to "Reply all" to the invite.
+
+<!-- anchorstyle links -->
 
 [meeting template]: https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md
 [working session meeting notes folder]: https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes
