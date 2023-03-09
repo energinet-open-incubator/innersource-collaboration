@@ -1,9 +1,9 @@
-# Project Origin / Energinet Open Incubator Working Group Work Session 02.03.2023
+# Project Origin / Energinet Open Incubator Working Group Work Session 09.03.2023
 
 ## Roles
-- [Scheduler]: Laura / @lauranolling 
-- [Facilitator]: Laura / @lauranolling
-- [Scribe]: Thomas / @wisbech 
+- [Scheduler]:  Laura / @lauranolling 
+- [Facilitator]:  Thomas / @wisbech 
+- [Scribe]: Laura / @lauranolling 
 
 ## Agenda
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
@@ -21,8 +21,7 @@
   - 4 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked”
 - [ ] Empty the “Done” column on the project boards.
-- [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
-- [ ] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-02-2023.md). (List below)
+- [ ] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-03-2023.md). (List below)
 - [ ] Fill in assignments from the last meeting
   - Laura / @lauranolling:
     - Set up Github pages
@@ -89,9 +88,9 @@
   
 
 ## Next Meeting’s Roles
-- [Scheduler]:  Laura / @lauranolling 
-- [Facilitator]:  Thomas / @wisbech 
-- [Scribe]: Laura / @lauranolling 
+- [Scheduler]:  
+- [Facilitator]: 
+- [Scribe]:
 
 
 [Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
