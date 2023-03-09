@@ -1,76 +1,82 @@
-This document describes the various roles involved with running the meetings involved in the creation of Project-Origin.
+This document describes the various roles involved with running weekly meetings in Project-Origin.
 All of these roles should be filled and completed for each meeting to be as successful as possible.
 The roles are:
 
-* [Scheduler](#scheduler)
-* [Facilitator](#facilitator)
-* [Scribe](#scribe)
+* [Scheduler]
+* [Facilitator]
+* [Scribe]
 
-<a name="scheduler"></a>
 ## Scheduler
 
 The _Scheduler_ sends the calendar invite for the meeting. 
-The following guidelines apply to the scheduler:
+**Preferably prepare the agenda and send it out before 48 hours prior to the meeting**. 
+A complete to-do list for preparing and sending out the agenda is provided in the following: 
 
-**Within 24 Hours of Previous Meeting**
-* [ ] Prepare the new invite based on the old one. Add any new attendees email-address and add a short summary of the agenda. You can take the short agenda part the [Scribe] prepared.  
-* [ ] Visit the [working session meeting notes folder].
-* [ ] Open the  meeting template and select "raw" from the right hand menu. Copy the entire content to the clipboard.
-* [ ] Go to the [working session meeting notes folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting-minutes) and select "Add file" -> "Create new file", and paste the content of the clipboard to this file.
-* [ ] Name the file `project-origin-working-session-DD-MM-YYYY.md` (and of course replace `DD`, `MM` and `YYYY` with the date of the upcoming meeting.
-* [ ] **Complete the steps in the following, to set up this document**
-<a name="preparedoc"></a>
-* [ ] Prepare and add the new agenda to the document:
-  * [ ] Create the new agenda. [The meeting template](https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/workingroup-minutes-template.md) already contains some fixed agenda points to go through at every meeting. If relevant, add any additional points to go through at the next meeting. 
-  * [ ] When the new agenda is created, fill out the small form at the end (the commit-message) with, e.g., "Create new agenda for MM-DD-YYYY" in the textbox where it by default says "Create new file". 
-  * [ ] Create the document as a pull-request, by using the "Create a new branch for this commit and start a pull request." setting. Call the branch "username-minutes-dd-mm-yyyy". Then, related discussions can happen here, agenda points can potentially be added, and the scribe can add their notes after the meeting.
-  * [ ] To upload the document, press the big green "Commit new file" button. You'll arrive at the new file you just created in the folder. Now, copy the URL for the file you created (to add to the calendar invite).
 
-* [ ] Update the calendar invite for the next meeting:
+1. To most easily set up the agenda, find the [meeting template] and select _"Copy raw contents"_ from the upper right hand menu (the two overlapping squares).
+2. Go to the [working session meeting notes folder] and select _"Add file"_ ➡️ _"Create new file"_, and paste the content of the clipboard to this file.
+3. Name the file `project-origin-working-session-dd-mm-yyyy.md` (and of course replace `dd`, `mm` and `yyyy` with the date of the upcoming meeting).
+4. Prepare the new agenda (The [meeting template] that you pasted already contains some fixed agenda points): 
+    - Update the _"Roles"_ section with the role assignments agreed at the previous working session (which you can find in the [working session meeting notes folder])
+    - Edit the numbers for each board's status columns to reflect their current state. 
+    - Add any additional points to go through at the next meeting, if requested by any participants.
+    - Below the _"assignments"_ item, first add the assignments from the previous agenda that haven't been striked out. Then add any new assignments agreed from the previous meeting's [Scribe] notes (You can find both in the [working session meeting notes folder]).
+5. When the new document is done, scroll down to the small commit-form at the end. 
+    - Leave the default title as-is (which is probably _"Create project-origin-working-session-dd-mm-yyyy.md"_). 
+    - In the text box where you can add an extended description, you can write down relevant information about the meeting. A suggestion for such description is (just copy/paste the below if it is useful):
+       > This adds the notes template with new agenda, carry-over etc. for the DD-MM-YYYY weekly sync session.
+       >
+       > Please review, add your material, your comments on your assignments etc. before the meeting.
+       > * Added names agreed for each of the three roles
+       > * Updated status overview of boards
+       > * Added assignments from last weeks session
+       > * Made document ready for scribe notes
+6. Create the document as a [pull request], by using the _Create a new branch for this commit and start a pull request_ setting. Call the branch `working-session-notes-dd-mm-yyyy`. 
+    - Then, related discussions can happen here, agenda points can potentially be added, and the scribe can add their notes directly to the pull request.
+7. To upload the document, press the _"Commit new file"_ button. Copy the URL link for the file you just created (to add to the calendar invite).
+8. Update the calendar invite for the next meeting:
+    - Open the next calendar instance in Outlook
+    - Add a small message to everyone, such as (just copy/paste this, if it is useful):
+      > Project Origin Weekly DD, MM, YYYY
+      > 
+      > Hello everyone, 
+      > 
+      > Here is the agenda for our first weekly sync session. 😊 NOTE: To be updated/cleaned up further up until 24 hours before the meeting. If you have anything to add, feel free to add it to the pull request: _link-to-pull-request-here_.
+      >
+      > Roles
+      > [...]
+      > 
+      > Agenda
+      > [...]
+      > 
+    - Add the correct meeting date to the first line and paste the link to your [pull request] at _link-to-pull-request-here_. (The scribe will need this link to add notes to it during the working session.)
+    - Copy/paste the _"Roles"_ and the _"Agenda"_ content you just created into the calendar invite. This is easiest to do by going to the _"Files changed"_ tab in your [pull request] and then choosing _"Display the rich diff"_ setting (which is a rectangle icon in the upper right corner)
 
-  * Paste the link to the agenda document in the invite. (The scribe will need this link to add notes to it during the working session.)
-  * Copy/paste the role assignments and agenda to the e-mail (the two first sections in the document you created).
-
-### Tips
-
-* You can reuse the old invite.
-
-<a name="facilitator"></a>
 
 ## Facilitator
 
-The _Facilitator_ conducts the meeting so that all of the agenda items are finished within the allotted time.
+The _Facilitator_ conducts the meeting so that all of the agenda items are finished within the allotted time. Below is a suggested list of to-do's to ensure that the meeting runs smoothly: 
 
-**Day Before Meeting**
-
-* [ ] Review the agenda and ensure that you are reasonably familiar with each item on it.
-
-**During Meeting**
-
-* [ ] Facilitate the meeting according to the **Tips** below.
-
-
+### Before the meeting
+* Review the agenda and ensure that you are reasonably familiar with each item on it. 
+* If convenient to you, it can be useful to:
+  * Open the [pull request] created by the [Scheduler] and select the _"Files changed"_ tab. Choose the _"Display the rich diff"_ setting (which is a rectangle icon in the upper right corner) and scroll to the agenda. 
+  * Open the three [Project board]s in each their tab, by right-clicking the links provided in the agenda and choosing _"Open in new tab*_. 
+ 
+### During the meeting
 * Have the agenda open and share your screen with the people on the call.
-* Guide the group through reviewing each agenda item from top to bottom.
-* Before discussing each item, briefly remind people of what it is so that they're up to speed and can contribute to the conversation).
-* The purpose of reviewing each agenda item is to generate actionable, assigned next steps.
-### Tips
-  * Guide the conversation towards understanding what is blocking the item's progression and what can be done to advance it.
-  * Strive for each task to be assigned to a volunteer on the call.
-  * When all such tasks have been assigned, move on to the next agenda item.
-  
-* When reviewing the project board:
-
-  * Treat each issue in the **In Review** and **In Progress** columns as if it were its own item on the agenda.
-  * The **Done** column does not need review.
-  * Call out if anyone would like to review any issue in the **To Do** column.
-  If so, then treat that issue like a regular agenda item.
-
-* Remember that it's OK to finish early.
-Once the agenda is complete the meeting is over.
+  * Present the agenda and then guide the group through reviewing each agenda item from top to bottom.
+  * Before discussing each item, briefly remind people of what it is so that they're up to speed and can contribute to the conversation.
+  * Keep in mind that the main purpose of reviewing each agenda item is to generate actionable, assigned next steps to create continuous project progress.
+    * If you are stuck, guide the conversation towards understanding what is blocking progression and what can be done to advance it.
+    * Strive for each task to be assigned to a volunteer on the call.
+* When reviewing a [Project board]:
+  * Treat each issue in the **In Progress** and **Waiting/Blocked** columns as its own item on the agenda.
+  * Ask if anyone would like to review any issue in the **To Do** column. If not, this column can be skipped.
+  * The **Done** column does not need review. When you want to empty the column click the three dots in the upper right corner of the column and choose _"Archive all"_.
+* Remember that it's OK to finish early. Once the agenda is complete the meeting is over.
 * At the close of the call thank everyone for participating.
 
-<a name="scribe"></a>
 
 ## Scribe
 
@@ -105,10 +111,10 @@ Part of your service as _Scribe_ is to summarize the key points of what was said
 * Here is a [sample email]. -->
 * An easy way to send the notes to everyone on the meeting invite is to "Reply all" to the invite.
 
-[template]: https://github.com/project-origin/origin-collaboration/pull/87
-[learning path folder]: https://github.com/project-origin/origin-collaboration/tree/main/meeting-docs
+[meeting template]: https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md
+[working session meeting notes folder]: https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes
 [Scheduler]: #scheduler
 [Facilitator]: #facilitator
 [Scribe]: #scribe
-[PrepareDoc]: #preparedoc
-[sample email]: ./examples/notes-email.md
+[pull request]: https://github.com/project-origin/origin-collaboration/pulls
+[Project board]: https://github.com/project-origin/origin-collaboration/projects?query=is%3Aopen
