@@ -17,19 +17,19 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Fill in a summary of items on the project boards:
 - [ ] Review status of in-flight work from the [Project-Origin backlog].
-  - X cards in “_Backlog_” 
-  - Y cards in “_In Progress_” 
-  - Z cards in “_Waiting/Blocked_”
+  - 8 cards in “_Backlog_” 
+  - 3 cards in “_In Progress_” 
+  - 2 cards in “_Waiting/Blocked_”
   - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog].
-  - X cards in “_Backlog_” 
-  - Y cards in “_In Progress_” 
-  - Z cards in “_Waiting/Blocked_” 
+  - 5 cards in “_Backlog_” 
+  - 2 cards in “_In Progress_” 
+  - 1 cards in “_Waiting/Blocked_” 
   - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board].
-  - X cards in “_Backlog_” 
-  - Y cards in “_In Progress_” 
-  - Z cards in “_Waiting/Blocked_”
+  - 13 cards in “_Backlog_” 
+  - 5 cards in “_In Progress_” 
+  - 0 cards in “_Waiting/Blocked_”
   - [ ] Empty the “_Done_” column
 - [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
   - Laura / @lauranolling  
