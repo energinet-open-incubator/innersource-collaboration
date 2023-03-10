@@ -108,13 +108,27 @@ We are going to the new project board at the [Open Incubator organization](https
 
 ## Assignments 
 - Laura / @lauranolling  
-    - Put another checkpoint on the item list - [#16](https://github.com/energinet-open-incubator/incubator-collaboration/issues/16): Get the same license to cover both Origin and Incubator
-    - Landing page split into Open Incubator effort and Project-Origin docs
-    - Duplicate origin-collaboration repository to Energinet Open Incubator and make more Energinet-generic (shared assignment)
+    - Put another checkpoint on the item list in [#16](https://github.com/energinet-open-incubator/incubator-collaboration/issues/16): Get the same license to cover both Origin and Incubator
+    - Duplicate origin-collaboration repository to Energinet Open Incubator (shared assignment)
+       - Do the actual duplication
+       - Make more Energinet-generic 
+    - Set up Github pages
+        - Landing page to navigate around structures and templates
+        - Split into Open Incubator effort and Project-Origin docs
+        - Unhide the guides
+    - Find out next steps for Energinet on communication side (shared assignment)
+    - Licensing create suggestions document
 - Thomas / @wisbech 
-    - Write Jesper from Communications and inform on deadlink on InSite article 
+    - Review Open Incubator [first draft in Miro](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764545498972526&cot=14)
+    - Find out next steps for Energinet on communication side (shared assignment)
+    - Add the library as a link to the FOSS guide [FOSS guide part 1](https://github.com/orgs/project-origin/projects/11/views/1?pane=issue&itemId=19492319)
+    - Storytelling - the how in overview [PR #52](https://github.com/project-origin/registry/pull/52)
+    - Add the conclusions from the Mjølner meetup with @guidmaster to [#83](https://github.com/project-origin/origin-collaboration/issues/83)
+    - Make some suggestions to the [tooling guides](https://github.com/project-origin/origin-collaboration/tree/main/docs/github_guides) and make them more visible
 - Anders / @andersfausboll 
     - Duplicate origin-collaboration repository to Energinet Open Incubator and make more Energinet-generic (shared assignment)  
+    - Contact Energinet PMO and potentially Microsoft Rasmus Knabel [#177](https://github.com/project-origin/origin-collaboration/issues/177)
+    - Add a final comment summarizing the separation between Project-Origin and Energinet Open-Incubator in [#67](https://github.com/project-origin/origin-collaboration/issues/67)
 
   
 
