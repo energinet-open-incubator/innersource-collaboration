@@ -27,18 +27,20 @@ Find the complete to-do list for the scheduler here: https://github.com/project-
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Fill in a summary of items on the project boards:
 - [ ] Review status of in-flight work from the [Project-Origin backlog].
-  - X cards in “Backlog” 
-  - Y cards in “In Progress” 
-  - Z cards in “Waiting/Blocked”
+  - X cards in “_Backlog_” 
+  - Y cards in “_In Progress_” 
+  - Z cards in “_Waiting/Blocked_”
+  - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog].
-  - X cards in “Backlog” 
-  - Y cards in “In Progress” 
-  - Z cards in “Waiting/Blocked” 
+  - X cards in “_Backlog_” 
+  - Y cards in “_In Progress_” 
+  - Z cards in “_Waiting/Blocked_” 
+  - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board].
-  - X cards in “Backlog” 
-  - Y cards in “In Progress” 
-  - Z cards in “Waiting/Blocked”
-- [ ] Empty the “Done” column on the project boards.
+  - X cards in “_Backlog_” 
+  - Y cards in “_In Progress_” 
+  - Z cards in “_Waiting/Blocked_”
+  - [ ] Empty the “_Done_” column
 - [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
 - [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
 - [ ] Sign up for next week’s meeting roles.
