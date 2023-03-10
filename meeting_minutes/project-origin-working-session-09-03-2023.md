@@ -6,23 +6,23 @@
 - [Scribe]: Laura / @lauranolling 
 
 ## Agenda
-- [ ] Ensure that any new attendees have a meaningful way to get involved.
-- [ ] Fill in a summary of items on the project boards:
-- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [x] Ensure that any new attendees have a meaningful way to get involved.
+- [x] Fill in a summary of items on the project boards:
+- [x] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
   - 8 cards in “Backlog” 
   - 3 cards in “In Progress” 
   - 2 cards in “Waiting/Blocked”
-- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+- [x] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
   - 5 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked” 
-- [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
+- [x] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
   - 12 cards in “Backlog” 
   - 4 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked”
-- [ ] Empty the “Done” column on the project boards.
-- [ ] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-03-2023.md). (List below)
-- [ ] Fill in assignments from the last meeting
+- [x] Empty the “Done” column on the project boards.
+- [x] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-02-03-2023.md). (List below)
+- [x] Fill in assignments from the last meeting
   - Laura / @lauranolling:
     - Set up Github pages
         - Landing page to navigate around structures and templates
@@ -49,7 +49,7 @@
     - Make some suggestions to the [tooling guides](https://github.com/project-origin/origin-collaboration/tree/main/docs/github_guides) and make them more visible
   - Johannes / @lenucksi
     - Look at the scribe links and make github work
-- [ ] Sign up for next week’s meeting roles.
+- [x] Sign up for next week’s meeting roles.
 
 # Notes
 
