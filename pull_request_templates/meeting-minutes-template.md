@@ -84,3 +84,6 @@ Put assignments here in the following format:
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
 [Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+
+[Open Incubator organization]: https://github.com/energinet-open-incubator
+[Assignments]: #assignments
