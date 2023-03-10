@@ -17,7 +17,7 @@ Find the complete to-do list for the scheduler here: https://github.com/project-
 
 # Project Origin Working Group Meeting DD, MM, YYYY
 
-Are you participating in the upcoming meeting? Then **Please check out the agenda item "_Review status of assignments from last meeting_"**:
+Are you participating in the upcoming meeting? Then **Please check out the agenda item "_Review status of assignments from last meeting_"** and:
 - See if there are any assignments for you.
 - Have you already completed the task?
   - To keep track of what has been done, do like this: ~~to strike out the assignment~~.
