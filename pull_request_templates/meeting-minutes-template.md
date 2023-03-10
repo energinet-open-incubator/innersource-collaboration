@@ -1,8 +1,9 @@
-<!-- 
 
-#### Do these things to set up this document ####
+# Do these things to set up this document 
 
-Find the complete to-do list for the scheduler here: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler. In summary: 
+Find the complete to-do list for the scheduler here: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler. 
+
+In summary: 
 
 * Name this file: `project-origin-working-session-dd-mm-yyyy.md`
 * Replace DD, MM, YYYY in the title with the day, month and year of the upcoming meeting. 
@@ -10,10 +11,17 @@ Find the complete to-do list for the scheduler here: https://github.com/project-
 * Update the Project Board statuses with the correct number of cards in the specified columns
 * Copy the assignments list from the "Notes" section from the last meeting minutes and paste below the item: "Review status of assignments from last meeting" in the agenda.
 * Create a pull request and call the branch `working-session-notes-dd-mm-yyyy`(remember to apply the label `working-session-notes`when the pull request is created)
-* Delete this "Do these things to set up this document" part
+* Put a commit message in "Add an optional extended description..."
+  > This adds the notes template with new agenda, carry-over etc. for the DD-MM-YYYY weekly sync session.
+  >Please review, add your material, your comments on your assignments etc. before the meeting.
+  >
+  >* Added names agreed for each of the three roles
+  >* Updated status overview of boards
+  >* Added assignments from last weeks session
+  >* Made document ready for scribe notes
 
-##################################################
--->
+* **Delete this "Do these things to set up this document" part when you are done**
+
 
 # Project Origin Working Group Meeting DD, MM, YYYY
 
