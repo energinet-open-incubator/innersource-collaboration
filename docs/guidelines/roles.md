@@ -34,7 +34,8 @@ A complete to-do list for preparing and sending out the agenda is provided in th
 6. Create the document as a [pull request], by using the _Create a new branch for this commit and start a pull request_ setting. Call the branch `working-session-notes-dd-mm-yyyy`. 
     - Then, related discussions can happen here, agenda points can potentially be added, and the scribe can add their notes directly to the pull request.
 7. To upload the document, press the _"Commit new file"_ button. Copy the URL link for the file you just created (to add to the calendar invite).
-8. Update the calendar invite for the next meeting:
+    - Remember to add the label `working-session-notes` on the pull request, when it is created, to make it easier for everyone to find.  
+9. Update the calendar invite for the next meeting:
     - Open the next calendar instance in Outlook
     - Add a small message to everyone, such as (just copy/paste this, if it is useful):
       > Project Origin Weekly DD, MM, YYYY
