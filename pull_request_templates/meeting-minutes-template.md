@@ -48,7 +48,6 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
   - Y cards in “_In Progress_” 
   - Z cards in “_Waiting/Blocked_”
   - [ ] Empty the “_Done_” column
-- [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
 - [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
 - [ ] Sign up for next week’s meeting roles.
 
