@@ -1,40 +1,53 @@
-<!-- Do these things to set up this document
-Replace MMMM D with the month and day of the meeting.
-Copy the Roles assignments from the last meeting into the top of the document.
-Put a summary of items on the project board where it says Fill in a summary of items on the project board.
-Copy the assignments from the last meeting where it says Fill in assignments from the last meeting.
-Delete the Do these things to set up this document and its bullet points.
+<!-- 
+
+#### Do these things to set up this document ####
+
+Find the complete to-do list for the scheduler here: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler. In summary: 
+
+* Name this file: `project-origin-working-session-dd-mm-yyyy.md`
+* Replace DD, MM, YYYY in the title with the day, month and year of the upcoming meeting. 
+* Add the names in "Roles" provided in the "Notes" section from the last meeting minutes. 
+* Update the Project Board statuses with the correct number of cards in the specified columns
+* Copy the assignments list from the "Notes" section from the last meeting minutes and paste below the item: "Review status of assignments from last meeting" in the agenda.
+* Create a pull request and call the branch `working-session-notes-dd-mm-yyyy`(remember to apply the label `working-session-notes`when the pull request is created)
+* Delete this "Do these things to set up this document" part
+
+##################################################
 -->
 
 # Project Origin Working Group Meeting DD, MM, YYYY
 
 ## Roles
-- [Scheduler] : 
-<!-- - Crier:  -->
-- [Facilitator] : 
-- [Scribe] :  
+- [Scheduler]: Name / @username 
+- [Facilitator]: Name / @username
+- [Scribe]: Name / @username  
 
 ## Agenda
 
-- (if new attendees)
-  - Roundtable introductions - name, where from, nature of interest in Project-Origin.
-  - Explain the purpose of this working group.
-- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
-- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
-- [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
-
-- [ ] Fill in a summary of items on the project board
-- [ ] Empty the “Done” column on the project board.
-- [ ] Review status of assignments from last meeting.
-- [ ] Fill in assignments from the last meeting
-  - You can just copy/paste them from the last assignments section 
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
+- [ ] Fill in a summary of items on the project boards:
+- [ ] Review status of in-flight work from the [Project-Origin backlog].
+  - X cards in “Backlog” 
+  - Y cards in “In Progress” 
+  - Z cards in “Waiting/Blocked”
+- [ ] Review status of in-flight work from the [Collaboration Platform Backlog].
+  - X cards in “Backlog” 
+  - Y cards in “In Progress” 
+  - Z cards in “Waiting/Blocked” 
+- [ ] Review status of in-flight work from the [Energinet Open Incubator Board].
+  - X cards in “Backlog” 
+  - Y cards in “In Progress” 
+  - Z cards in “Waiting/Blocked”
+- [ ] Empty the “Done” column on the project boards.
+- [ ] Moving the weekly: @lenucksi would be happy if we could move this to 1100 from 1000 on Thursdays (or another day) and he has a regular one there.
+- [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
 - [ ] Sign up for next week’s meeting roles.
+
 
 # Notes
 
 ## Attendees:
-- Just put their names in one line
+- Just put their names in one line here.
 
 ## Key Points:
 - Put them here, One point per line
@@ -52,15 +65,13 @@ Put assignments here in the following format:
 
 ## Next Meeting’s Roles
 
-- [Scheduler] : 
-<!-- - Crier:  -->
-- [Facilitator] : 
-- [Scribe] :  
+- [Scheduler]: Name / @username 
+- [Facilitator]: Name / @username
+- [Scribe]: Name / @username 
 
-[project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
-
-[project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
+[Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
+[Project board Collaboration Platform]: https://github.com/orgs/project-origin/projects/2/views/1
+[Project board Energinet Open Incubator]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
