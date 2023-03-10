@@ -104,6 +104,8 @@ We are going to the new project board at the [Open Incubator organization](https
     - @wisbech argues that this goes all the way back to innovation: How do we plan to deal with this?  We need a more pro-active approach to this. We need some general guidelines on how to behave in public. 
      - @wisbech comments: Can we even host projects like this, or should we ask internals to do it? @wisbech finds that there should ideally be a foundation to move it to. @lenucksi argues that the same problems will still exist with public behavior. Investigating this is suggested to be an effort living inside of Open Incubator. @andersfausboll created an issue in the [Open Incubator Github](https://github.com/energinet-open-incubator/incubator-collaboration/issues/19) addressing the communications problem 
     - @wisbech mentions the Danish Rigsrevision as the main issue here. @lenucksi recommends looking into: Transfer cost pricing. The group agrees that this should be discussed further in another meeting and moves along with the agenda. 
+    
+
 ## Assignments 
 - Laura / @lauranolling  
     - Put another checkpoint on the item list - [#16](https://github.com/energinet-open-incubator/incubator-collaboration/issues/16): Get the same license to cover both Origin and Incubator
