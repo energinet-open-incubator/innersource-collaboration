@@ -27,9 +27,9 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
   - 1 cards in “_Waiting/Blocked_” 
   - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board].
-  - 13 cards in “_Backlog_” 
-  - 5 cards in “_In Progress_” 
-  - 0 cards in “_Waiting/Blocked_”
+  - 8 cards in “_Backlog_” 
+  - 4 cards in “_In Progress_” 
+  - 3 cards in “_Waiting/Blocked_”
   - [ ] Empty the “_Done_” column
 - [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
   - Laura / @lauranolling  
