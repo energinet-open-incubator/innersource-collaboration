@@ -12,11 +12,11 @@
   - 8 cards in “Backlog” 
   - 3 cards in “In Progress” 
   - 2 cards in “Waiting/Blocked”
-- [x] Review status of in-flight work from the [Collaboration Platform Backlog](
+- [x] Review status of in-flight work from the [Collaboration Platform Backlog]
   - 5 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked” 
-- [x] Review status of in-flight work from the [Energinet Open Incubator Board]
+- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog]
   - 12 cards in “Backlog” 
   - 4 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked”
@@ -137,10 +137,10 @@ We are going to the new project board at the [Open Incubator organization](https
 - [Facilitator]: Thomas / @wisbech 
 - [Scribe]: Laura / @lauranolling 
 
-
-[Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
-[Project board Collaboration Platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[Project board Energinet Open Incubator]: https://github.com/orgs/energinet-open-incubator/projects/1
+<!-- anchorlink style use -->
+[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
