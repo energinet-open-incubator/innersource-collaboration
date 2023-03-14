@@ -113,7 +113,7 @@
 - [Facilitator] : Johannes / @lenucksi 
 - [Scribe] : Thomas / @wisbech 
 
-<!-- something tells me we need to fix the anchorlink style use here... -->
+<!-- anchorlink style use -->
 [project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 
 [project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
