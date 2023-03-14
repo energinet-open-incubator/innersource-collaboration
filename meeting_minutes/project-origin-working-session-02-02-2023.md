@@ -7,15 +7,15 @@
 
 ## Agenda
 
-- [x] Review status of in-flight work from the [Project-Origin Backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [x] Review status of in-flight work from the [Project-Origin Backlog]
   - 1 cards are “Waiting/Blocked” here 
   - 2 cards are “In Progress” 
   - 11 cards are in “Backlog” 
-- [x] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+- [x] Review status of in-flight work from the [Collaboration Platform Backlog]
   - 1 cards are “Waiting/Blocked”
   - 3 cards are “In Progress”
   - 8 cards are in “Backlog” 
-- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog](https://github.com/orgs/project-origin/projects/11/views/2).
+- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog]
   - 0 card in “Waiting/Blocked”
   - 1 cards in “In Progress” 
   - 12 cards are in “Backlog”
@@ -109,9 +109,9 @@
 
 ## Next Meeting’s Roles
 
-- [Scheduler] : Laura / @lauranolling 
-- [Facilitator] : Johannes / @lenucksi 
-- [Scribe] : Thomas / @wisbech 
+- [Scheduler]: Laura / @lauranolling 
+- [Facilitator]: Johannes / @lenucksi 
+- [Scribe]: Thomas / @wisbech 
 
 <!-- anchorlink style use -->
 [Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
