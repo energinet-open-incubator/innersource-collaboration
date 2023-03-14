@@ -8,15 +8,15 @@
 ## Agenda
 - [x] Ensure that any new attendees have a meaningful way to get involved.
 - [x] Fill in a summary of items on the project boards:
-- [x] Review status of in-flight work from the [Project-Origin Backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [x] Review status of in-flight work from the [Project-Origin Backlog]
   - 8 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 3 cards in “Waiting/Blocked”
-- [x] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+- [x] Review status of in-flight work from the [Collaboration Platform Backlog]
   - 5 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked” 
-- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog](https://github.com/orgs/project-origin/projects/11/views/2).
+- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog]
   - 15 cards in “Backlog” 
   - 4 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked”
