@@ -8,15 +8,15 @@
 ## Agenda
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Fill in a summary of items on the project boards:
-- [ ] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [ ] Review status of in-flight work from the [Project-Origin Backlog]
   - 3 cards are “Waiting/Blocked”
   - 3 card in “In Progress” 
   - 12 cards are in “Backlog” 
-- [ ] Review status of in-flight work from the [Collaboration Platform Backlog](https://github.com/orgs/project-origin/projects/2/views/1).
+- [ ] Review status of in-flight work from the [Collaboration Platform Backlog]
   - 1 card is “Waiting/Blocked” 
   - 2 card is “In Progress” 
   - 8 cards are in “Backlog” 
-- [ ] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
+- [ ] Review status of in-flight work from the [Energinet Open Incubator Backlog]
   - 3 cards are “Waiting/Blocked”
   - 3 cards are “In Progress” 
   - 12 cards are in “Backlog"
@@ -76,16 +76,18 @@
 
 ## Next Meeting’s Roles
 
-- [Scheduler](https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scheduler):  Laura / @lauranolling 
-- [Facilitator](https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#facilitator): Johannes / @lenucksi 
-- [Scribe](https://github.com/project-origin/origin-collaboration/blob/main/meeting-docs/roles.md#scribe): Thomas / @wisbech 
+- [Scheduler]:  Laura / @lauranolling 
+- [Facilitator]: Johannes / @lenucksi 
+- [Scribe]: Thomas / @wisbech 
 
-<!-- something tells me we need to fix the anchorlink style use here... -->
-[project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
-
-[project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
+<!-- anchorlink style use -->
+[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
 [Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+
+[Open Incubator organization]: https://github.com/energinet-open-incubator
+[Assignments]: #assignments
