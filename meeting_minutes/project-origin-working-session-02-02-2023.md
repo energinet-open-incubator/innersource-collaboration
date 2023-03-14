@@ -7,7 +7,7 @@
 
 ## Agenda
 
-- [x] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [x] Review status of in-flight work from the [Project-Origin Backlog](https://github.com/orgs/project-origin/projects/6/views/1).
   - 1 cards are “Waiting/Blocked” here 
   - 2 cards are “In Progress” 
   - 11 cards are in “Backlog” 
@@ -15,7 +15,7 @@
   - 1 cards are “Waiting/Blocked”
   - 3 cards are “In Progress”
   - 8 cards are in “Backlog” 
-- [x] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
+- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog](https://github.com/orgs/project-origin/projects/11/views/2).
   - 0 card in “Waiting/Blocked”
   - 1 cards in “In Progress” 
   - 12 cards are in “Backlog”
@@ -114,11 +114,13 @@
 - [Scribe] : Thomas / @wisbech 
 
 <!-- anchorlink style use -->
-[project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
-
-[project board collaboration platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
+[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
 [Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+
+[Open Incubator organization]: https://github.com/energinet-open-incubator
+[Assignments]: #assignments
