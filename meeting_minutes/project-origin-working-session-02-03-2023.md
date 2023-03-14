@@ -125,6 +125,8 @@
 - [Scribe]: Laura / @lauranolling 
 
 
+<!-- anchorlink style use -->
+
 [Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
 [Project board Collaboration Platform]: https://github.com/orgs/project-origin/projects/2/views/1
 [Project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
