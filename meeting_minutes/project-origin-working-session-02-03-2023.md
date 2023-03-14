@@ -8,7 +8,7 @@
 ## Agenda
 - [x] Ensure that any new attendees have a meaningful way to get involved.
 - [x] Fill in a summary of items on the project boards:
-- [x] Review status of in-flight work from the [Project-Origin backlog](https://github.com/orgs/project-origin/projects/6/views/1).
+- [x] Review status of in-flight work from the [Project-Origin Backlog](https://github.com/orgs/project-origin/projects/6/views/1).
   - 8 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 3 cards in “Waiting/Blocked”
@@ -16,7 +16,7 @@
   - 5 cards in “Backlog” 
   - 2 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked” 
-- [x] Review status of in-flight work from the [Energinet Open Incubator Board](https://github.com/orgs/project-origin/projects/11/views/2).
+- [x] Review status of in-flight work from the [Energinet Open Incubator Backlog](https://github.com/orgs/project-origin/projects/11/views/2).
   - 15 cards in “Backlog” 
   - 4 cards in “In Progress” 
   - 1 cards in “Waiting/Blocked”
@@ -126,11 +126,14 @@
 
 
 <!-- anchorlink style use -->
-
-[Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
-[Project board Collaboration Platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[Project board Energinet Open Incubator]: https://github.com/orgs/project-origin/projects/11
+[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
 [Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+
+[Open Incubator organization]: https://github.com/energinet-open-incubator
+[Assignments]: #assignments
+
