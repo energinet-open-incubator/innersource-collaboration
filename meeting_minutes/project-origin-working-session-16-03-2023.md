@@ -55,7 +55,7 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
       - Do the actual duplication
       - Make more Energinet-generic 
     - Contact Energinet PMO and potentially Microsoft Rasmus Knabel [#177](https://github.com/project-origin/origin-collaboration/issues/177)
-    - Add a final comment summarizing the separation between Project-Origin and Energinet Open-Incubator in [#67](https://github.com/project-origin/origin-collaboration/issues/67)
+    - ~~Add a final comment summarizing the separation between Project-Origin and Energinet Open-Incubator in [#67](https://github.com/project-origin/origin-collaboration/issues/67)~~
 - [ ] Sign up for next week’s meeting roles.
 
 
