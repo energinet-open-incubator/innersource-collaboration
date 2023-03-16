@@ -63,11 +63,32 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 - Just put their names in one line here.
 
 ## Key Points:
-- Put them here, One point per line
-  - What to put here: If there's something longer: Point to the GitHub issue. If there's a pre-existing GitHub issue, point to the GitHub issue and state that/what some happened there. Often, just the issue and little words suffice, put the "what happened"/ "update" onto the actual issue. 
-    - Same obviously goes for discussions and pull requests.
-    - Pointing can happen either with a link or with #thenumberofthethinginquestion.
-  - If there's something un-githubbable, put some words here. You can refer to any persons involved by their GitHub handles if that helps getting the situation forward.
+**Project Origin Backlog**
+- In Progress:
+    - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
+    
+- Waiting/Blocked:
+    - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
+  
+    
+**Collaboration Platform Backlog** 
+- In Progress:
+    - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
+    
+- Waiting/Blocked:
+    - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
+
+
+**Energinet Open Incubator Backlog**
+- In Progress:
+    - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
+    
+- Waiting/Blocked:
+    - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
+    
+
+**Additional notes**
+- If there's something un-githubbable, but still important, put some words here. You can refer to any persons involved by their GitHub handles if that helps getting the situation forward.
 
 ## Assignments
 Put assignments here in the following format: 
