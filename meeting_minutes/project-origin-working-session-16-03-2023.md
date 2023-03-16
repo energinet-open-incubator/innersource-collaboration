@@ -33,10 +33,10 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
   - [ ] Empty the “_Done_” column
 - [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
   - Laura / @lauranolling  
-    - Put another checkpoint on the item list in [#16](https://github.com/energinet-open-incubator/incubator-collaboration/issues/16): Get the same license to cover both Origin and Incubator
-    - Duplicate origin-collaboration repository to Energinet Open Incubator (shared assignment)
-      - Do the actual duplication
-      - Make more Energinet-generic 
+    - ~Put another checkpoint on the item list in [#15](https://github.com/energinet-open-incubator/incubator-open-source-ressources/issues/14): Get the same license to cover both Origin and Incubator~
+    - ~Duplicate origin-collaboration repository to Energinet Open Incubator (shared assignment)~
+      - ~Do the actual duplication~
+      - Make Open-Incubator content from Project-Origin more Energinet-generic 
     - Set up Github pages
        - Landing page to navigate around structures and templates
        - Split into Open Incubator effort and Project-Origin docs
@@ -51,11 +51,9 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
     - Add the conclusions from the Mjølner meetup with @guidmaster to [#83](https://github.com/project-origin/origin-collaboration/issues/83)
     - Make some suggestions to the [tooling guides](https://github.com/project-origin/origin-collaboration/tree/main/docs/github_guides) and make them more visible
 - Anders / @andersfausboll 
-    - Duplicate origin-collaboration repository to Energinet Open Incubator (shared assignment)
-      - Do the actual duplication
-      - Make more Energinet-generic 
+    - ~Duplicate origin-collaboration repository to Energinet Open Incubator (shared assignment)~
     - Contact Energinet PMO and potentially Microsoft Rasmus Knabel [#177](https://github.com/project-origin/origin-collaboration/issues/177)
-    - ~~Add a final comment summarizing the separation between Project-Origin and Energinet Open-Incubator in [#67](https://github.com/project-origin/origin-collaboration/issues/67)~~
+    - ~Add a final comment summarizing the separation between Project-Origin and Energinet Open-Incubator in [#67](https://github.com/project-origin/origin-collaboration/issues/67)~
 - [ ] Sign up for next week’s meeting roles.
 
 
