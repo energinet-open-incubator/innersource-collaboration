@@ -55,6 +55,8 @@ Please consult the following guidelines and policies for information about rules
 In the Origin-Collaboration repository, @lauranolling currently acts as the Trusted Committer. In this repository, the Trusted Committer is effectively a combination of the [InnerSource Trusted Committer and Product Owner](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md). 
 
 ### Weekly Synchronous Sessions
+**Note: from 23-03-2023 these weekly's are carried out from an [Energinet Open Incubator](https://github.com/energinet-open-incubator) context instead, but still treating open source aspects of Project-Origin**.
+
 A small working group in Energinet has found it valuable to have weekly meetings, synchronous sessions, where the group goes through open issues in Project-Origin. If any attendee wants to discuss a specific matter, they can add a point to the agenda of the upcoming session, and the group will address the matter then. 
 
 Currently, the weekly synchronous sessions happen each Thursday at 10:00-11:00. If you want to participate in (one of) these sessions, reach out to [@lauranolling](mailto:lau@energinet.dk), who will add you to the calendar invitation. The agenda for the upcoming meeting will always be added as a [pull request](https://github.com/project-origin/origin-collaboration/pulls). 
@@ -70,4 +72,5 @@ The workshops treat both technical and business topics related to Project-Origin
 
 #### Implementer Days
 Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes).
+
 
