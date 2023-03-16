@@ -16,7 +16,7 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Fill in a summary of items on the project boards:
-- [ ] Review status of in-flight work from the [Project-Origin backlog].
+- [ ] Review status of in-flight work from the [Project-Origin Backlog].
   - 7 cards in “_Backlog_” 
   - 2 cards in “_In Progress_” 
   - 2 cards in “_Waiting/Blocked_”
@@ -26,7 +26,7 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
   - 1 cards in “_In Progress_” 
   - 1 cards in “_Waiting/Blocked_” 
   - [ ] Empty the “_Done_” column
-- [ ] Review status of in-flight work from the [Energinet Open Incubator Board].
+- [ ] Review status of in-flight work from the [Energinet Open Incubator Backlog].
   - 9 cards in “_Backlog_” 
   - 4 cards in “_In Progress_” 
   - 4 cards in “_Waiting/Blocked_”
@@ -81,9 +81,9 @@ Put assignments here in the following format:
 - [Facilitator]: Name / @username
 - [Scribe]: Name / @username 
 
-[Project board Project-Origin]: https://github.com/orgs/project-origin/projects/6/views/2
-[Project board Collaboration Platform]: https://github.com/orgs/project-origin/projects/2/views/1
-[Project board Energinet Open Incubator]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
+[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
 [Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
 [Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
@@ -91,3 +91,8 @@ Put assignments here in the following format:
 
 [Open Incubator organization]: https://github.com/energinet-open-incubator
 [Assignments]: #assignments
+
+
+<!-- Helping links used to create issue links in Scribe notes. Just write [#issue-number](helping-link-here/issue-number) -->
+<!-- https://github.com/project-origin/origin-collaboration/issues/ -->
+<!-- https://github.com/energinet-open-incubator/incubator-open-source-ressources/issues/ -->
