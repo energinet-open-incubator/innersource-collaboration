@@ -17,26 +17,26 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Fill in a summary of items on the project boards:
 - [ ] Review status of in-flight work from the [Project-Origin backlog].
-  - 8 cards in “_Backlog_” 
-  - 3 cards in “_In Progress_” 
+  - 7 cards in “_Backlog_” 
+  - 2 cards in “_In Progress_” 
   - 2 cards in “_Waiting/Blocked_”
   - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Collaboration Platform Backlog].
-  - 5 cards in “_Backlog_” 
-  - 2 cards in “_In Progress_” 
+  - 3 cards in “_Backlog_” 
+  - 1 cards in “_In Progress_” 
   - 1 cards in “_Waiting/Blocked_” 
   - [ ] Empty the “_Done_” column
 - [ ] Review status of in-flight work from the [Energinet Open Incubator Board].
-  - 8 cards in “_Backlog_” 
+  - 9 cards in “_Backlog_” 
   - 4 cards in “_In Progress_” 
-  - 3 cards in “_Waiting/Blocked_”
+  - 4 cards in “_Waiting/Blocked_”
   - [ ] Empty the “_Done_” column
 - [ ] Review status of [assignments from last meeting]. (Fill in a list below this item)
   - Laura / @lauranolling  
     - ~Put another checkpoint on the item list in [#15](https://github.com/energinet-open-incubator/incubator-open-source-ressources/issues/14): Get the same license to cover both Origin and Incubator~
     - ~Duplicate origin-collaboration repository to Energinet Open Incubator (shared assignment)~
       - ~Do the actual duplication~
-      - Make Open-Incubator content from Project-Origin more Energinet-generic 
+    - Make Open-Incubator content from Project-Origin more Energinet-generic 
     - Set up Github pages
        - Landing page to navigate around structures and templates
        - Split into Open Incubator effort and Project-Origin docs
