@@ -108,7 +108,8 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 Put assignments here in the following format: 
 
 - @lauranolling
-  - Reply to PMO Anne-Cathrine Juel Mygind looking for graduate, refer to @andersfausboll, @wisbech and @lenucksi.  
+  - Reply to PMO Anne-Cathrine Juel Mygind looking for graduate, refer to @andersfausboll, @wisbech and @lenucksi. 
+      - Remember to add comment in issue [#13](https://github.com/energinet-open-incubator/incubator-open-source-ressources/issues/13).
   - Add comment to [#79](https://github.com/project-origin/origin-collaboration/issues/79) on contribution guidelines progress and missing work. 
   - Add a `label`: to-do, color-coded to Open-Incubator repo.
   - Meeting @lauranolling and @andersfausboll on "handover" Trusted Committer (shared assignment)
