@@ -69,10 +69,11 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 
 ## Key Points:
 - Put them here, One point per line
-  - What to put here: If there's something longer: Point to the GitHub issue. If there's a pre-existing GitHub issue, point to the GitHub issue and state that/what some happened there. Often, just the issue and little words suffice, put the "what happened"/ "update" onto the actual issue. 
-    - Same obviously goes for discussions and pull requests.
-    - Pointing can happen either with a link or with #thenumberofthethinginquestion.
-  - If there's something un-githubbable, put some words here. You can refer to any persons involved by their GitHub handles if that helps getting the situation forward.
+  - What to put here: If there's something longer: Point to the GitHub issue. If there's a pre-existing GitHub issue, point to the GitHub issue and state what happened there. Often, just the issue and little words suffice, put the "what happened"/ "update" onto the actual issue as well. 
+    - The same goes for discussions and pull requests.
+    - Pointing can happen either with a link or with #the-number-of-the-issue-in-question.
+
+- If there's something un-githubbable, put some words here. You can refer to any persons involved by their GitHub handles if that helps getting the situation forward.
 
 ## Assignments
 Put assignments here in the following format: 
@@ -86,7 +87,7 @@ Put assignments here in the following format:
 - [Facilitator]: Name / @username
 - [Scribe]: Name / @username 
 
-[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
+[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/1
 [Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
 [Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
@@ -96,3 +97,8 @@ Put assignments here in the following format:
 
 [Open Incubator organization]: https://github.com/energinet-open-incubator
 [Assignments]: #assignments
+
+<!-- Helping links for Scribe notes to link to issues reviewed during meeting. Just write [#issue-number](helping-link-here/issue-number) -->
+
+<!-- https://github.com/project-origin/origin-collaboration/issues/ -->
+<!-- https://github.com/energinet-open-incubator/incubator-open-source-ressources/issues/ -->
