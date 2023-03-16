@@ -74,7 +74,7 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
     
 - Waiting/Blocked:
     - [#issue-number](link-to-issue) _title of issue_: A-small-description-of-what-was-discussed-related-to-this-issue
-    - 
+    
     
 **Collaboration Platform Backlog** 
 - In Progress:
