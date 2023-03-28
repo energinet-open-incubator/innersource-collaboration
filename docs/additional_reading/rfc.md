@@ -1,5 +1,16 @@
 # Request for Comments (RFC)
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Context](#context)
+3. [RFCs in Open Source](#rfcs-in-open-source)
+4. [How can RFCs be Useful for Us?](#how-can-rfcs-be-useful-for-us)
+5. [RFCs as Idea Proposals](#rfcs-as-idea-proposals)
+6. [RFCs as Decision Logs](#rfcs-as-decision-logs)
+
+## Introduction
+
 Requests for Comment (RFCs) are written, informal pieces of information. They can be assigned with a revision number, status, and/or category, and provides the basis of discussions and decisions on the topic of the RFC. 
 
 <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/RFC.png" width="60%"/>
@@ -12,41 +23,34 @@ They were invented in 1969 by Steve Crocker, with the intent to produce temporar
 RFCs are probably best known historically from their use by IETF to create internet standards. 
 However, RFCs don't always become standards - They can be informational, experimental etc.  
 
-## RFCs in open source 
+## RFCs in Open Source 
 
 RFCs are used widely in open source projects. 
-One example is Rust, which uses "lightweight RFCs" to achieve consensus on designs of substantial changes. 
-They provide a guide, that explains when an RFC needs to be filled out in their project, and when it doesn't - 
-Many are inspired by their approach, and there are probably some specific elements here, that are useful for us in creating a structured, open collaboration. 
+One example is [Rust](https://github.com/GuillaumeGomez/rfcs), whose approach have inspired many. They use "lightweight RFCs" to achieve consensus on designs of substantial changes. 
+They provide a guide (the README you arrive at, when following the previous link), that explains when and how an RFC must to be filled out in their project.
 
-They are also popular in [Energy Track and Trace (ETT)](https://github.com/Energy-Track-and-Trace), which is a project Energinet is part of. 
-In ETT, RFCs are used as [issue templates](https://github.com/project-origin/origin-collaboration/tree/main/docs/github_guides/issue_trackers.md#issue-templates) and to propose new ideas in a structured, documented way.  
+They are also popular in [Energy Track and Trace (ETT)](https://github.com/Energy-Track-and-Trace), which is a project Energinet is part of, to propose bigger, business-oriented ideas in a structured, documented way.  
 
-## How can RFCs be useful for us? 
+## How can RFCs be Useful for Us? 
 
 RFCs can have multiple different purposes in a project, but the concept of an RFC is in itself useful, as it creates a traceable, documented record of information. 
-Hence, if we decide to actively use RFCs during our project, they will create a transparency, an important element in establishing open collaboration.  
+Hence, if you decide to actively use RFCs in your project, they can help create transparency around decisions made.   
 
   
-## RFCs as idea proposals 
+## RFCs as Idea Proposals 
 
-If we decide to use RFCs to propose new ideas, similar to the use in ETT, such RFCs can be useful in two ways:  
+If you decide to use RFCs to propose new ideas, you can set up some additional attributes to make them useful in your project:  
 
-1. If assigned with a status, it can be used to make decisions, for example deciding how to use, or implement the idea, 
+- If assigned with a status, RFCs can be used in product governance, in terms of classifying the RFCs from, e.g., `proposal` to `accepted` or `declined`. 
+- It can be used to develop an idea from concept to a well-defined, implementable feature, by allowing participants to discuss the idea, and collaborate on refining it. 
+    - If going with this use-case, the RFC can at the same time function as a first draft to new documentation of the feature being implemented. 
 
-2. It can be used to develop the idea from concept to a well-defined, implementable feature, by allowing participants to discuss the idea, and collaborate on refining it. 
-- If going with this use case, the RFC can at the same time function as a first draft to new documentation of the feature being implemented. 
-  
+## RFCs as Decision Logs 
 
-## RFCs as decision logs 
+It is very likely that some of the project decisions are made in meetings. In such case, RFCs can additionally act as decision logs, by recording the decision in a document and assigning it with an `accepted` (or `proposed` if not fully decided) status. Doing so will serve two purposes: 
 
-Often, decisions are made in meetings. However, making decisions only in a narrow time-slot in meetings every one or two weeks, is neither very efficient, nor very scalable. 
-  
-Using RFCs as decision logs, can serve two purposes 
-
-- Create the opportunity to allow decisions to evolve and move forward in asynchronous cross-team collaboration in between meetings,   
-
-- Act as a documentation of decisions made, such that everyone who didn't participate in the given meeting, is informed. 
+- Create an opportunity to allow decisions to evolve in the Open Source community   
+- Act as documentation of decisions made, such that everyone who didn't participate in the given meeting is informed. 
 
   
 You can learn more about using RFCs in projects from this [InnerSource Commons RFC Pattern](https://patterns.innersourcecommons.org/p/transparent-cross-team-decision-making-using-rfcs) and from the [Youtube video about how BBC iPlayer and Sounds uses RFCs](https://www.youtube.com/watch?v=U6zlghE0HcE). 
