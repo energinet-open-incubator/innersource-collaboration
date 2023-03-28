@@ -1,8 +1,29 @@
-# Intro to FOSS strategy
+# Introduction to FOSS strategy
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Overview](#overview)
+3. [Challenges](#challenges)
+4. [Common FOSS Strategies](#common-foss-strategies)
+    - [Influencing/Setting Standards](#influencingsetting-standards)
+    - [Service and Support](#service-and-support)
+    - [Open Core](#open-core)
+    - [Widget frosting](#widget-frosting)
+    - [Loss Leader: Devaluing your competitors offerings](#loss-leader-devaluing-your-competitors-offerings)
+    - [Breaking up vendor lockins to purchaser driven](#breaking-up-vendor-lockins-to-purchaser-driven)
+    - [Commoditizing the complement](#commoditizing-the-complement)
+5. [Common counter strategies](#common-counter-strategies)
+    - [Open Once, Open Always](#open-once-open-always)
+    - [Forks](#forks)
+    - [Unpopular Open Core communities](#unpopular-open-core-communities)
+    - [People breaking the Open Core supplements](#people-breaking-the-open-core-supplements)
+    - [Losing your own standard](#losing-your-own-standard)
+    - [Marketing](#marketing)
+
+## Introduction
 This document introduces certain aspects of business strategy and common behavioral expectations supporting those strategies in the FOSS domain.
 
-It is strongly recommended to read the [Intro to FOSS Terms guide](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md) beforehand to understand foundational concepts, boundaries, terms and mechanics of FOSS, i.e. Free and Open Source Software.
+It is strongly recommended to read the [Intro to FOSS Terms guide] beforehand to understand foundational concepts, boundaries, terms and mechanics of FOSS, i.e. Free and Open Source Software.
 
 While the FOSS Terms guide addresses a more constraint, technical and legal driven perspective, this guide addresses a more business driven perspective. However, as FOSS is a mixture of software engineering (domain), legal (tools/mechanics) and business/social (strategy+incentive building, ways of working), attempting to neglect one of the aspects is a reasonably safe way to trouble.
 
@@ -24,10 +45,10 @@ This brings up certain challenges:
   - There is a tacit expectation that a FOSS effort (especially a company sponsored one) is cared for indefinitely. If not it will be considered "abandonware" and might be taken over by others if they consider it valuable. A good course of action is to be explicit in the expectation management towards users here.
   - Does it have to pay for itself (ROI>=1)?
   - Can it be cross-financed through another activity? If so, how and why?
-- If participation by others is desired, making a clear case why they should do so, how and what they can achieve or expect is important. See the [FOSS governance chapter in the FOSS Terms guide](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md) for this too. 
+- If participation by others is desired, making a clear case why they should do so, how and what they can achieve or expect is important. See the [chapter 4b in the FOSS Terms Guide] for this too. 
 - Usually corporate projects tend to strongly use a "us vs them" boundary and identity. FOSS *weakens* that boundary and identity. It usually does not remove it entirely. 
   - The middle ground and the boundary needs to be handled in a comfortable and predictable yet safe way. 
-  - Usually corporate software projects and products are created in a strongly plan driven "agile" system. Interactions from the outside may in their originating organization be plan driven too, however, to you they look unplanned, can not be planned and appear like interruptions. Thus, integrating "Agile" and Open Source is another challenge. One that is addressed in another [guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/integrating-oss-and-agile.md).
+  - Usually corporate software projects and products are created in a strongly plan driven "agile" system. Interactions from the outside may in their originating organization be plan driven too, however, to you they look unplanned, can not be planned and appear like interruptions. Thus, integrating "Agile" and Open Source is another challenge, addressed in [the Integrating Open Source and Agile Guide].
 - Participating in other people's FOSS efforts or publishing your own FOSS efforts is significant effort. 
   - You can't do shortcuts anymore as others will see all shortcuts you take. 
   - Communicating as briefly and implicitly as common with corporate projects will make it hard to impossible for external bystanders to participate. Which you might want.  
@@ -36,7 +57,7 @@ These challenges in general revolve around designing **incentives**, a classic p
 
 A common comparison is the agricultural cooperative or other non-profit cooperatives.
 
-Other, strongly marketing driven, approaches such as one comparable to e.g. the ["loss leader" strategy](https://www.investopedia.com/terms/l/lossleader.asp) are existent too. Given that Energinet is a public entity, some restrictions regarding applicable strategies exist. See the [FOSS Terms guide on public sector specialties](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/06-FOSS-Terms-Intro-public-sector-specialties.md) and the referenced Energinet legal memo for this.
+Other, strongly marketing driven, approaches such as one comparable to e.g. the ["loss leader" strategy](https://www.investopedia.com/terms/l/lossleader.asp) are existent too. Given that Energinet is a public entity, some restrictions regarding applicable strategies exist. See the [chapter 6 in the FOSS Terms Guide] and the referenced [EnerginetFOSS-memo] for this.
 
 
 
@@ -52,21 +73,18 @@ The following leading questions should be evaluated for all potential strategies
 - If you use someone else's FOSS: Why would they put it out for free and what follows for me from that? Is there any money made? Do they need to make money?
 - If you publish FOSS for others to use: What do you expect others to do, why do you do this, how do you finance the extra effort, etc. 
 
-There's a set of articles around this, see there if you want to read more:
+See the [Wikipedia on FOSS strategies](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) if you want to read more:
 
-- [Wikipedia on FOSS strategies](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
-- [TODO] Paper on FOSS strategies
-- [TODO] Summary of other approache sources / deduplicate
 
-### **Influencing/Setting** **standards to sell into**
-(Using Energy Track & Trace as example) Energy Track&Trace tries to establish a standard that Energinet could build implementations for. Or operate infrastructure that makes use of such standards. 
+### Influencing/Setting Standards
+(Using Energy Track & Trace as example) Energy Track & Trace tries to establish a standard that Energinet could build implementations for. Or operate infrastructure that makes use of such standards. 
 - All of it assumes that the standard sees widespread adoption and thus demand for products that cater to it.
 - Another desirable effect could be that only the presence of a common standard makes a given problem solvable. Thus, the standard enables new, innovative business that has not been possible before. 
 - Examples: 
   - Internet standards such as SIP (telephony), Kubernetes, etc.
   - Map data collection, car telemetry data across car manufacturers
 
-### Service & Support
+### Service and Support
 You build something free, it becomes popular because it is useful. As the expert on the component you sell professional services, customization, and support and assurance contracts in case of issues in operation.
 - A variation on this: You charge the first customer asking for a certain customization or addition of a feature and make the feature free for all after completion (or with a delay). 
   - This can lead to a game of "who's the first to ask and thus pay" that can be detrimental to the product. It's more frequently seen in FLOSS than in FOSS.
@@ -95,7 +113,7 @@ You sell services and hosting for your product.
 - To some degree: patent free video and audio codecs saving you license costs and bandwidth in your data centers (AVIF, H.264 etc. vs. 	Youtube etc.) 		
 - See also: Forks
 
-### Breaking up vendor lockins/turning markets from vendor to purchaser driven
+### Breaking up vendor lockins to purchaser driven
 
 You are bound to non-interoperating software from a small set of vendors that exploit all opportunities for vendor lock-in (e.g. cloud providers such as AWS, Azure, GCP). You obviously don't like that as they will use their price-setting power. You attempt to create a base product for such a domain that is popular enough to see widespread adoption resulting in the majority of tenders requesting support for the base product thus establishing a defacto standard forcing interoperability on the vendors attempting vendor lockin.
 
@@ -122,12 +140,12 @@ Your competitors or members of the general public might not like what you're doi
 Thus, there are common counter strategies or ways how those could devolve. A few examples are illustrated here.
 
 ### Open Once, Open Always
-Once you stick an OSI license on an artifact and make it publicly visible on the internet, there is no way back. If you have a so called „permissive“ license on it (e.g. MIT, Apache2) even if you control the complete IP - and could thus decide to make it private or more restrictive – the freely licensed code will prevail and may be used by anyone as long as they abide to the terms of the license. Taking artifacts „private“ again will also lead to strong negative public reactions depending on how popular your artifact was before.
+Once you stick an OSI license on an artifact and make it publicly visible on the internet, there is no way back. If you have a so called "permissive" license on it (e.g. MIT, Apache2) even if you control the complete IP - and could thus decide to make it private or more restrictive – the freely licensed code will prevail and may be used by anyone as long as they abide to the terms of the license. Taking artifacts „private“ again will also lead to strong negative public reactions depending on how popular your artifact was before.
 
 ### Forks
-This has already briefly been mentioned in the [FOSS Terms Guide governance section](https://github.com/project-origin/origin-collaboration/tree/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md) but it is a fundamental effect of Open Source, so it's mentioned again here with a derived effect that had some high profile occurances in the recent past.
+This has already briefly been mentioned in [chapter 4b in the FOSS Terms Guide] but it is a fundamental effect of Open Source, so it's mentioned again here with a derived effect that had some high profile occurances in the recent past.
 
-Usually this is the consequence of attempting to restrict or „take private“ an artifact that was popular enough. Sometimes it even suffices to decide for an unpopular way with a large enough part of the user base to have them take your artifact and develop it further themselves. 
+Usually, this is the consequence of attempting to restrict or „take private“ an artifact that was popular enough. Sometimes it even suffices to decide for an unpopular way with a large enough part of the user base to have them take your artifact and develop it further themselves. 
 While forking is one of the basic intended mechanisms of open source, if control of the direction of the product, revenue from the product in any of the ways illustrated above is critical to your business/part of your business strategy attempting to diplomatically keep things together is often a good idea. 
 Forks can quickly surpass the original artifact in popularity, leaving the original in the dust with a lot of effort invested but no leverage anymore. 
 - Examples: Nextcloud/Owncloud, Jenkins/Hudson, ElasticSearch/OpenSearch, OpenOffice/LibreOffice, Gitea/Gogs
@@ -135,25 +153,27 @@ Forks can quickly surpass the original artifact in popularity, leaving the origi
   - Imagine you follow an OpenCore / Service/Support / maybe parts of SaaS business strategy. 
   - Your license allows others to offer commercial hosting for others of your product (think AWS hosting Elastic Search). 
   - A competitor bigger and with larger economies of scale comes along and kills your SaaS business, your Service/Support offerings by offering what you offer cheaper and more convenient. 
-  - What do you do? You could try to restrict the „commercial hosting“ ability even further. If the competitor has enough resources, they will fork your existing product and continue development on their own. They can fully open their code because it has no value to them as their SaaS offering and integration into their SaaS environment pays for it.
+  - What do you do? You could try to restrict the "commercial hosting" ability even further. If the competitor has enough resources, they will fork your existing product and continue development on their own. They can fully open their code because it has no value to them as their SaaS offering and integration into their SaaS environment pays for it.
   - Examples: ElasticSearch/OpenSearch, Redis, MongoDB, ...
 
 ### Unpopular Open Core communities
 
 Open Core requires you to control your core and to exert some control or ensure incentives for your non-open supplements to stay economically valuable.
-This can quickly lead to communities that do not feel authentic or lead people to get the impression of being the „useful idiot“ providing free work for a corporate that is exploiting them. It can work, but it is a very thin and delicate path to walk.
+This can quickly lead to communities that do not feel authentic or lead people to get the impression of being the "useful idiot" providing free work for a corporate that is exploiting them. It can work, but it is a very thin and delicate path to walk.
 - Camunda follows this to some degree with success. So does Mattermost.
 
 ### People breaking the Open Core supplements
 Related to the above – imagine an Open Core product that sells specific high availability or enterprise authentication supplements.
-An enterprise using the core product figures that the main product is useful enough to them that they need the supplements but their calculations and resources show that building the desired supplement themselves is cheaper than buying it for them. They decide to „publish what they build for the greater good“. 
+An enterprise using the core product figures that the main product is useful enough to them that they need the supplements but their calculations and resources show that building the desired supplement themselves is cheaper than buying it for them. They decide to "publish what they build for the greater good". 
 You now have no-cost competition in your supplements you rely on to realize parts of your revenue. This could also be done by the enterprise to convince/nudge the Open Core company to integrate the built functionality into the core as a face-keeping way out for your company that at the same time removes the need to maintain what they built for the enterprise.
 
 ### Losing your own standard
-You‘re trying to play the standardization strategy to make your plans be the default approach for everyone. You have invested x people and use board style governance based on majority. 
+You're trying to play the standardization strategy to make your plans be the default approach for everyone. You have invested x people and use board style governance based on majority. 
 A bigger player (MS, Google, IBM, …) invests more people and money and manages to overtake your majority in the board. You now have lost (majority) control over your standard.
 
-## Marketing (or: build it and they won't come)
+## Marketing 
+Or: build it and they won't come.
+
 There's a common saying: "Build it and they will come".
 It is about as true and false at the same time as the "Open Source is more secure because when the code is open it's being constantly reviewed and all bugs are found automagically".
 
@@ -165,3 +185,18 @@ Especially in the earlier development stages, where there is no polished product
 Good documentation, technical depth, technically well made execution and something that is technically interesting (and of course buzzword complete to some degree) will often attract developers. Plus a friendly community where they can directly get technical answers. 
 So don't build a "talk to sales" front-end, a ticket system or technically clueless product manager in between.  
 Listening to what your developers would find interesting can often help.
+
+
+<!-- Anchorlink style -->
+[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
+[Intro to FOSS Terms guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md
+[chapter 2 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/02-FOSS-Terms-Intro-Common-Terms.md
+[chapter 3 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/03-FOSS-Terms-Intro-3modes-of-FOSS.md
+[chapter 4 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/04a-FOSS-Terms-Intro-FOSS-licenses.md
+[chapter 4b in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md
+[the Integrating Open Source and Agile Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/integrating-oss-and-agile.md
+[chapter 6 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/06-FOSS-Terms-Intro-public-sector-specialties.md
