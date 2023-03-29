@@ -16,7 +16,7 @@ We currently have:
   - Internal educational material as the one you're reading now.
 
 - A longer horizon effort to build FOSS policy and understanding on a legal basis to ultimately help the products and everyone else.
-  - A list of (currently mostly legal-oriented action points) can be seen [here](https://github.com/project-origin/origin-collaboration/blob/main/work-items/FOSS-terms-guide-action-items.md/). 
+  - A list of (currently mostly legal-oriented action points) can be seen [here](https://github.com/energinet-open-incubator/incubator-open-source-ressources/blob/main/work-items/FOSS-terms-guide-action-items.md). 
   - Once work progresses there, this section will contain some practical advice and links to address the topics of around liability, warranty, trademarks, patents, FOSS compliance etc. 
 
 
@@ -28,7 +28,7 @@ We should not be liable for the actions of others, i.e. what people do with our 
 
 We can also not help other parties to understand and control their risks. We can only be as explicit and transparent in our expectations and intent as possible to allow other parties an informed decision on participation and adjusting their way and level of investment.
 
-To enable such explicit expectations we need to have a clear understanding of our offerings and their strategy, i.e. product separation, definition and strategy. This guide does not deal with this. See the [strategy guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md) for this. For some aspects of FOSS governance see the previous section. However, don't do governance before there is product definition.
+To enable such explicit expectations we need to have a clear understanding of our offerings and their strategy, i.e. product separation, definition and strategy. This guide does not deal with this. See the [FOSS Strategy Guide] for this. For some aspects of FOSS governance see the previous section. However, don't do governance before there is product definition.
 
 ## Contribution of Open Source to Energinet as a company
 
@@ -56,3 +56,10 @@ What is the contribution of Open Source for us in a bit more detail?
     - Another approach raising the likelihood of the negative outcome is cutting corners and disrespecting other people's work. Reasonable approach to approach this: Be diligent, work proper and give credit where credit is due.
     - Corollary to the corollary: Haters gonna hate. Be prepared for some backlash but see if there's any merit and address it with reason. If there's no merit, there's no merit. Still try to be reasonable.  
 
+<!-- Anchorlink style -->
+[FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md 
+[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
