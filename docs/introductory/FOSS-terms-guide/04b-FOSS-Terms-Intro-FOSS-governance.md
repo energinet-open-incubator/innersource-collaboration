@@ -1,6 +1,6 @@
 # FOSS Governance: What to expect from a license and what not
 
-What can be achieved with FOSS licenses is rather limited in the broader scope of interactions around Open Source Code. As the DAP (section 4.2ff) states, FOSS licenses are licenses, not contracts under Danish law.
+What can be achieved with FOSS licenses is rather limited in the broader scope of interactions around Open Source Code. As the [DAP] (section 4.2ff) states, FOSS licenses are licenses, not contracts under Danish law.
 
 Also, some parts are likely nothing that should be regulated legally but with tacit rules, i.e. a "social contract" (of course, such expectations can and often should be put into writing and could even be taken into account on legal discussions). 
 
@@ -42,22 +42,22 @@ As stated above: Governance is a "social contract". The FOSS way of doing this i
 
 Depending on the size of the FOSS package and the number of involved people, this can range from a short 20 lines document to an elaborated process with all sorts of bells and whistles. 
 
-A recommendation is to keep it pragmatic, simple and short and always offer an easy way to contact the package owners [(maintainers / trusted committers)](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md) for questions.
+A recommendation is to keep it pragmatic, simple and short and always offer an easy way to contact the package owners (Maintainers/[Trusted Committer]s) for questions.
 
 ### "Running the show", getting write access or "how to become a maintainer".
 
 Open Source actively asks for contributions and work across corporate boundaries. 
 Thus, a common question is what happens if an external party to the original publisher contributes/engages so much that one could consider them as "running the show" (with the original publisher). 
 
-This is considered the **funnel from user to [contributor to *trusted committer*](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md) or *maintainer***. The latter two have write access to the packages which is generally considered to be "they run the show".
+This is considered the funnel from user to [Contributor] to [Trusted Committer]. The latter has write access to the packages which is generally considered to be "they run the show".
 
 **With write access they can decide which source code contributions get added to the source code and which don't.** They will have to justify that decision with the people making these contributions or else risk loss of contributors or even users. 
 
 ### Product development, roadmap - having a say on the future.
 
-A trusted committer or maintainer is a mix of product manager/owner, technical lead,  engineering manager and general cat herder or secretary.
-As mentioned they accept or deny contributions. Also, they bring the package forward in general. This is especially important if there's additional developers in the same company as the trusted committer. Having a roadmap or definition of the future, e.g. a vision and some principles facilitates such decisions and explanation of them to others greatly.
-If there is more than one trusted committer, there needs to be a way to agree upon what gets accepted, what the future and road map looks like. This can range from very ad-hoc to full corporate board style. It can change and needs to be decided per package based on what fits by the trusted committers (and the corporations behind them if there are any).
+A [Trusted Committer] or maintainer is a mix of product manager/owner, technical lead,  engineering manager and general cat herder or secretary.
+As mentioned they accept or deny contributions. Also, they bring the package forward in general. This is especially important if there's additional developers in the same company as the Trusted Committer. Having a roadmap or definition of the future, e.g. a vision and some principles facilitates such decisions and explanation of them to others greatly.
+If there is more than one Trusted Committer, there needs to be a way to agree upon what gets accepted, what the future and road map looks like. This can range from very ad-hoc to full corporate board style. It can change and needs to be decided per package based on what fits by the trusted committers (and the corporations behind them if there are any).
 
 If there are multiple coherent packages that make up a FOSS product, a product definition and associated strategy helps to inform decisions what contribution and what code part goes into which package.
 Each package can have different governance approaches.
@@ -73,4 +73,11 @@ Imagine you are interested in **projecting an image of maximum vendor independen
 
 The [SFOSC](https://sfosc.org/docs/business-models/) offers some pre-packaged, "standardized" examples of how such governance structures can look like under various conditions. They can be taken as inspiration but should not be copied verbatim.
 
-Any governance can evolve over time. Thus, if there are multiple trusted committers involved having a way to agreeably enable such an evolution is important.
+Any governance can evolve over time. Thus, if there are multiple Trusted Committers involved having a way to agreeably enable such an evolution is important.
+
+<!-- Anchorlink style -->
+[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
