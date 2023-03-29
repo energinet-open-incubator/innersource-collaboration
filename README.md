@@ -68,7 +68,7 @@ If you are interested in the topics and progress of previous weekly synchronous 
 Besides working on Github, the partnership carries out longer-duration physical partner meetings. These meetings are not fixed-date meetings, but will rather be planned when the partnership finds the need for one. So far, the partner meetings include workshops and implementer days. 
 
 #### Workshops
-The workshops treat both technical and business topics related to Project-Origin. These workshops are mostly used to do the bigger-picture long-term planning of Project-Origin. The results from the workshops will be available [here](https://github.com/project-origin/origin-collaboration-workshops). 
+The workshops treat both technical and business topics related to Project-Origin. These workshops are mostly used to do the bigger-picture long-term planning of Project-Origin. The results from the workshops will be available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes). 
 
 #### Implementer Days
 Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes).
