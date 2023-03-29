@@ -22,8 +22,8 @@ Today, open source has become a strongly commercially used approach as well. It 
 
 It is recommended to align with the before-mentioned liberal and self-sovereign agenda where possible, as the pool of talents with Open Source skills is s largely powered by the attractiveness of said agenda. Incidentally, this agenda is consistent with the concept of "public money, public code", which is highly applicable to Energinet as a TSO. 
 
-The [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845)) document has a short section on this too, see section 1.1.1.
-Our ["EnerginetFOSS-memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) document also highlights the connection to "public money, public code" in [section 06 "FOSS and the public sector / TSOs"](06-FOSS-Terms-Intro-public-sector-specialties.md). 
+The [DAP] document has a short section on this too, see section 1.1.1.
+Our [EnerginetFOSS-memo] document also highlights the connection to "public money, public code" in [section 06 "FOSS and the public sector / TSOs"](06-FOSS-Terms-Intro-public-sector-specialties.md). 
 
 
 ### Open Source, FOSS, FLOSS
@@ -73,7 +73,7 @@ You can, of course, decide that you want to turn something that lived as a dedic
 In an ideal case, developers and non-developers can learn a good part of the ways of working of FOSS in a safe way (without the risks from publication and potentially hostile outside people) through InnerSource experience.
 
 The rest of this guide deals with FOSS / OpenSource, i.e. the non-inside corporate boundary only application. 
-If you want to learn more about InnerSource and its ways of working, see [this guide](https://innersourcecommons.org/learningpath) for more.
+If you want to learn more about InnerSource and its ways of working, see [this guide from InnerSource Commons](https://innersourcecommons.org/learningpath).
 
 ## Fundamental Technical Terms
 
@@ -196,15 +196,16 @@ A **service** is able to process data, render services to users that can be sold
 
 Hence, there is no such thing as "Open Service" in the domain of Open Source. 
 
-
-
-
-
-
-
 - Hosting open source applications and charging money for enabling access to them is one of the main income streams of all cloud providers such as Azure, Google Cloud or Amazon Web Services. 
   - Often they add friendly user interfaces or modify them to be more comfortable or integrate with other commercial offerings they might have.  See [responsibilities and expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md) for what follows from this.
 
 - In the **following sections everything only and explicitly talks about Open Source, not any form of deployment or service**.
    - Exceptions are explicitly mentioned. The main exception is **"Operation"**.  
      - Operation refers to Open Source Software that has been turned into a service, standalone or combined with commercial code by Energinet. 
+
+
+<!-- Anchorlink style -->
+[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
+
