@@ -12,7 +12,7 @@ It is common that such people are **not necessarily known by name** (usually jus
 
 The resulting product, encompassing all the work from all its participants over time, remains there forever.
 
-**Section 3ff of the [Danish digitalization agency paper]()** **(the "DAP")** addresses these three modes from a high-level legal perspective. Further aspects are addressed in other sections of the paper. 
+**Section 3ff of the [DAP]** addresses these three modes from a high-level legal perspective. Further aspects are addressed in other sections of the paper. 
 
 An important terminology used for **perspective** here is :
 
@@ -44,7 +44,7 @@ The **resulting service can be created for pure internal use by us or it could b
 
 Often different packages use the same FOSS license. In a work with 500 third party FOSS packages in the dependency tree there will often only be a set of incoming licenses with 50 different incoming licenses.
 
-(DAP 3.2ff) 
+([DAP] 3.2ff) 
 
 ## Publication
 
@@ -62,7 +62,7 @@ This gives the world maximum transparency to each and every aspect of developmen
 
 Since the third parties are not bound to us contractually and thus may have different objectives, **we need to make sure that we carefully review what they offer and what we push to the outside** and see into any different objectives they may have and how those fit ours.  
 
-(DAP 3.3ff)
+([DAP] 3.3ff)
 
 ## Participation
 
@@ -94,6 +94,11 @@ There are two commonly used terms in the participation process that describe the
 - **Downstream**: A derivation / modification of upstream / the "original work"
 -  **Example:** In the *outgoing contribution process*, we are in the downstream position, fix a bug there and and try to **bring it upstream**, i.e. to the FOSS package we have used. Often "**upstreaming** a fix / feature / ..." is heard too.
   - In the incoming contribution process, the roles are reversed   
+
+<!-- Anchorlink style -->
+[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
 
 
 
