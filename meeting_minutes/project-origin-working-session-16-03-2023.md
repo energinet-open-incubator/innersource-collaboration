@@ -120,6 +120,7 @@ Put assignments here in the following format:
 - [Facilitator]: Thomas / @wisbech
 - [Scribe]: Laura / @lauranolling 
 
+<!-- anchorlinks --> 
 [Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
 [Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
 [Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
