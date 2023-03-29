@@ -11,6 +11,7 @@ We currently have:
 - The Energinet incubator: Here, we focus on learning how to benefit from internal collaboration, InnerSource style. 
 - Various FOSS and InnerSource product efforts run by different teams. 
   - [Energy Track & Trace](https://github.com/Energy-Track-and-Trace/)
+  - Project-Origin
   - [Datahub](https://github.com/energinet-datahub) <!-- Their GitHub org page or additional content they might have --> 
   - The [**awesome-energinet-open** portal/list](https://weneedalinkwherewecanhosthisvisibleforeveryenerginetpersonthatsalsosafeforsomesensitivecontent) serving as an easy starting point to these efforts.
   - Internal educational material as the one you're reading now.
