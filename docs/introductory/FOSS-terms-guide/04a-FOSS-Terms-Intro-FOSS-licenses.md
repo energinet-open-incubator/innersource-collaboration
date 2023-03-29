@@ -21,9 +21,9 @@ All of these licenses try to exert a maximum liability limitation and enable at 
 3. Freedom to modify it
 4. Freedom to copy and distribute it in modifed or unmodified versions 
 
-**Section 4ff and 2.1.2ff of the [Danish digitalization agency paper]()** **(the "DAP")** is especially relevant here.
+**Section 4ff and 2.1.2ff of the [DAP] is especially relevant here.
 
-According to the DAP (4.2ff), licenses appear to be one-sided dealings imposed as condition by the intellectual property owner as opposed to contracts where a mutual agreement to a two-sided exchange to benefits and obligations happens.   
+According to the [DAP] (4.2ff), licenses appear to be one-sided dealings imposed as condition by the intellectual property owner as opposed to contracts where a mutual agreement to a two-sided exchange to benefits and obligations happens.   
 
 This chapter has two sections: 
 
@@ -176,7 +176,7 @@ This process is called **FOSS compliance.** See also [responsibilities and expec
 We will need to address this based on a legal risk estimation based on legal reality and current legislation around intellectual property law in Denmark as this the evolution towards here is usually an ongoing process.
 
 ### Software patents and trademarks
-Some software implemented innovations can be patented. According to the [legal analysis document](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) (Section 1.3.2ff) Denmark does not do software patents but the exist in reality nevertheless.
+Some software implemented innovations can be patented. According to the [EnerginetFOSS-memo] (Section 1.3.2ff) Denmark does not do software patents but the exist in reality nevertheless.
 
 Some licenses have certain aspects of patent protection or terminate on patents claims. (e.g. GPL class, DAP Section 2.2.1, 2.2.2ff )
 An evaluation of the risks and chances here, especially given novel and innovative material being developed by us, is strongly advised. It might be desirable to ensure that certain common material is not patented to remain accessible by all interested parties.
@@ -194,15 +194,15 @@ Also, people might violate the boundaries of use that was intended by the origin
 - abusing trademarks or affiliations like "Endorsed by Energinet" where that might not be the case. Distribution of our FOSS published software with malicious code that is then attributed to Energinet. (Something the ASF tries to prevent, see also the DAP section 3.3ff)
 - Claiming software patents against the publishers (there a termination-on-patent-enforcement clause in some FOSS licenses)
 - Not giving us the due credit or claiming our work as their own work. (Classic FOSS compliance enforcement example)
-- People contributing code to our packages they do not have the legal rights to contribute, resulting in an undistributable / illegal package for us. (Something the [DCO]() tries to address)
+- People contributing code to our packages they do not have the legal rights to contribute, resulting in an undistributable / illegal package for us. 
 
-Enforcement might require ability to speak for all authors. Or it might not. See also DAP section 1.2.4. The ASF tries to enable defending patent, trademark and compliance violations on behalf of the authors by requiring sign-off of a special document prior to contributing, the [ASF CLA](). 
+Enforcement might require ability to speak for all authors. Or it might not. See also DAP section 1.2.4. The ASF tries to enable defending patent, trademark and compliance violations on behalf of the authors by requiring sign-off of a special document prior to contributing, the [ASF Contributor License Agreement (CLA)](https://www.apache.org/licenses/contributor-agreements.html). 
 
 Another case, called **"dual-licensing"** common with commercial/profit-oriented publishers (e.g. GitLab, MySQL), would be to have the ability to offer a product based on FOSS source code with a "normal" full commercial contract and a (usually very restrictive) FOSS license. Thus, commercial entitites can choose to abide by the strong restrictive rules or buy the commercial license to e.g. be free to embed the product into a commercial offering (as much as the contract allows that).
 
-For this, they also need the ability to license, sublicense, relicense, etc. all of the source code as they see fit. This is usually also done by requiring sign-off of a special contract (**CLA**) requesting these rights from contributors or even requiring sign-over of the IP to the other entity (**CAA**). 
+For this, they also need the ability to license, sublicense, relicense, etc. all of the source code as they see fit. This is usually also done by requiring sign-off of a special contract (**CLA**) requesting these rights from contributors or even requiring sign-over of the Intellectual Property (IP) to the other entity in a Copyright Assignment Agreement (**CAA**). 
 
-Usually, FOSS packages requiring a CLA or even CAA see significant a drop in contributions due to the additional red-tape involved. Often trying to get a corporate entity to sign such a CLA takes long delaying contributions significantly. 
+Usually, FOSS packages requiring a CLA or even CAA see significant a drop in contributions due to the additional red-tape involved. Often trying to get a corporate entity to sign such a CLA takes long, hence delaying contributions significantly. 
 
 Depending on the desired outcome, it might make sense to use such a contract when publishing FOSS packages ourselves.
 
@@ -212,7 +212,7 @@ It also points out why usually none of these short circuit argumentations have t
 All of the below is **strictly not legal advice but *"FOSS license folklore"***, may not work under Danish law and should be closely discussed with specialized legal counsel to evaluate if they actually work in the desired way. 
 
 ##### AGPL (network copyleft)
-You publish code, offer a SaaS product based on it and don't want others to also offer a SaaS product just adding minor changes: This was the design principle of the AGPL. 
+You publish code, offer a Software as a Service (SaaS) product based on it and don't want others to also offer a SaaS product just adding minor changes: This was the design principle of the AGPL. 
 It was killed by hyperscalers through hosting the unmodified FOSS products. This lead to radical source-available/non-OSI certified licenses such as the [ElasticSearch turned SSPL](https://opensource.org/sspl-not-open-source) case. Tread very carefully here. 
 
 ##### GPL (strong copyleft)
@@ -220,9 +220,9 @@ You want to force others to publish the modifications they made? This is what th
 
 However, you'll need to 
 
-1. find changes, 
+1. Find changes, 
 
-2. they actually need to publish them or, if they do not, you need to prove that they have some and don't publish them and then have to sue them based on this and win. The latter takes very long and is rather costly.
+2. They actually need to publish them or, if they do not, you need to prove that they have some and don't publish them and then have to sue them based on this and win. The latter takes very long and is rather costly.
 
 The extent to which this is possible may differ based on legal system court and case details. Again: There's a lot of good will and diplomacy involved in FOSS. Try to prevent having to enforce things. And have a watertight case and rocksolid FOSS compliance if you do.
 
@@ -248,14 +248,13 @@ Be very careful about actually achievable liability limitations and whether thos
 ##### Public domain
 If your legal system provides this: Public domain. You negate that you even created this, you don't want attribution, it's just out there. Use at your own risk. 
 
-
 ## FOSS licenses are for code, Creative Commons are for data.
 
 What you can do with source code, you can do with data.
 Data might be other text (like this one here), images, raw material for images (e.g. design templates), or raw data such as an energy system forecasting data (e.g. Excel/CSV files to train AIs with it).
 
 There are similar standardized  licenses for this, with one of the most popular being the [Creative Commons licenses](https://creativecommons.org/about/cclicenses/). 
-All legal effects listed above apply here as well. A detailed legal evaluation is required here if they are supposed to be used. The [legal analysis document](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md) does not write about the creative commons.
+All legal effects listed above apply here as well. A detailed legal evaluation is required here if they are supposed to be used. The [EnerginetFOSS-memo] does not write about the creative commons.
 The licenses also have shorthands indicating the template that is used.
 
 Common variations are (abbreviated according to the website, see the full license texts for the legal details. Contact a specialized legal counsel to see into actual enforceability, details or other related issues): 
@@ -265,3 +264,8 @@ Common variations are (abbreviated according to the website, see the full licens
 - Attribution is always required with the following attribute: BY
 
 The Creative Commons steering body provides [further documentation for these variations](https://creativecommons.org/licenses/?lang=en).
+
+<!-- Anchorlink style -->
+[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
