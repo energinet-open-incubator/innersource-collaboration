@@ -31,7 +31,7 @@ This document is separated into individual files based on the individual chapter
 |`4`|[Responsibilities and Expectations](05-FOSS-Terms-Intro-responsibilities-and-expectations.md)| helps to set expectations what to expect from Open Source in the narrower sense and what not. <br />**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.| Beginner |
 |`5`|[Public sector specific considerations and specialities](06-FOSS-Terms-Intro-public-sector-specialties.md)|highlights - as much as they're known - possible **specialties arising from the public sector and TSO environment**. <br />**Caveat:** This section is work-in-progress and will need to be extended with the help of various Energinet functions - it is outside of the authors field of knowledge.| Beginner |
 
-Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS strategy](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md)
+Another guide deals with FOSS strategy. It connects and uses the material of this guide: [FOSS Strategy Guide]
 
 The fourth and fifth section also highlights boundaries between publishers and users/contributors. 
 This is important to understand, because it is a common misconception that "Open Source" is solely a license. It is not. It is a mode of engagement, including both the license, a social contract and governance, defining the boundaries between the two roles. 
@@ -44,8 +44,8 @@ A practical proposal is to **separate them into individual tasks**, address them
 ### Literature References
 
 This guide frequently references two documents:
-- The [Danish Digitalization Agencies' guide on legal aspects of Open Source from 2009](https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845). It is referred to shortly as **DAP**.
-- Our [Energinet "Open Source as TSO" memo](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md). It is referred to shortly as **EnerginetFOSS-memo**. 
+- The _Danish Digitalization Agencies' guide on legal aspects of Open Source from 2009_. It is referred to shortly as [DAP].
+- Our _Energinet "Open Source as TSO" memo_. It is referred to shortly as [EnerginetFOSS-memo] from here. 
 
 Books on the topic:
 - Denmark: Possibly [IT-Retten](https://bibliotek.dk/da/work/870970-basis%3A26085950)
@@ -68,7 +68,7 @@ It further explains select technical matter in a strongly abstracted and simplif
 
 Any examples used are hypothetical and strongly simplified to provide an intuition of the matter explained.
 
-The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [DAP]((https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845) document.
+The information is based on experience, common risk items being brought up in a German or US context, as well as information provided by the Danish digitalization agency in the [DAP] document.
 
 It is strictly recommended to seek advice from a FOSS specialized lawyer prior to consuming, deploying, publishing, or participating in Open Source or doing the same with commercial software using or embedding any Open Source component. See also the book referenced in the DAP by **Mads Bryde Andersen: IT- retten**
 
@@ -76,3 +76,7 @@ It is strictly recommended to seek advice from a FOSS specialized lawyer prior t
 
 Authors notice: The consultancy mandate does not include legal advice, FOSS compliance consulting or advice on FOSS publication beyond technical, ways-of-working and common domain expectations. Any further advice, especially of legal nature, implicit or explicit, needs to be sourced from the relevant partners, e.g. a specialized lawyer. 
 
+<!-- Anchorlink style -->
+[FOSS Strategy Guide]: https://github.com/energinet-open-incubator/incubator-open-source-ressources/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/energinet-open-incubator/incubator-open-source-ressources/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
