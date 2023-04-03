@@ -9,11 +9,11 @@ In summary:
 * Replace DD, MM, YYYY in the title with the day, month and year of the upcoming meeting. 
 * Add the names in "Roles" provided in the "Notes" section from the last meeting minutes. 
 * Update the Project Board status with the correct number of cards in the specified columns
-* Copy the assignments list from the "Notes" section from the last meeting minutes and paste below the item: "Review status of assignments from last meeting" in the agenda.
+* If relevant, copy the assignments list from the "Notes" section from the last meeting minutes and paste below the item: "Review status of assignments from last meeting" in the agenda.
 * Create a pull request and call the branch `working-session-notes-dd-mm-yyyy`(remember to apply the label `workingsession-notes`when the pull request is created)
 * Put a commit message in "Add an optional extended description..." (you can copy this below message easiest from the "Preview" mode)
-  > This adds the notes template with new agenda, carry-over etc. for the DD-MM-YYYY weekly sync session.
-  >Please review, add your material, your comments on your assignments etc. before the meeting.
+  > This adds the agenda, and notes template for the DD-MM-YYYY working group meeting.
+  > Please review, add your material, your comments on your assignments etc. before the meeting.
   >
   >* Added names agreed for each of the three roles
   >* Updated status overview of boards
