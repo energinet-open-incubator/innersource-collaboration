@@ -10,6 +10,39 @@ If you have a problem or if you cannot find certain information anywhere, you ca
 
 &nbsp;
 
+## Work Structures 
+
+### Asynchronous work structures
+Please consult the following guidelines and policies for information about rules that apply for contribution and participation in the Origin-Collaboration repository. 
+
+- [Decision-Making Policy](docs/guidelines/decision_making_policy.md) 
+- [Contribution Guidelines](docs/guidelines/contribution_guidelines.md)
+- [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md)
+
+#### Trusted Committer
+In the Origin-Collaboration repository, @lauranolling currently acts as the Trusted Committer. In this repository, the Trusted Committer is effectively a combination of the [InnerSource Trusted Committer and Product Owner](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md). 
+
+### Weekly Online Synchronous Sessions
+A small working group in Energinet has found it valuable to have weekly meetings, synchronous sessions, where the group goes through open issues in Project-Origin. If any attendee wants to discuss a specific matter, they can add a point to the agenda of the upcoming session, and the group will address the matter then. 
+
+If you are interested in the topics and progress of previous weekly synchronous sessions, you can take a look at [this folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes), where summaries for the meetings are uploaded.
+
+**Note: from 23-03-2023 these weekly's are carried out from an [Energinet Open Incubator](https://github.com/energinet-open-incubator) context instead, but still treating open source aspects of Project-Origin**
+
+### Online Meeting Minutes Template
+If you are going to set up online meetings in Project-Origin, feel free to use the [Meeting Minutes Template](https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md) if you find it helpful.  
+
+### Synchronous Partner Meetings
+Besides working on Github, the partnership carries out longer-duration physical partner meetings. These meetings are not fixed-date meetings, but will rather be planned when the partnership finds the need for one. So far, the partner meetings include workshops and implementer days. 
+
+#### Workshops
+The workshops treat both technical and business topics related to Project-Origin. These workshops are mostly used to do the bigger-picture long-term planning of Project-Origin. The results from the workshops will be available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes). 
+
+#### Implementer Days
+Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes).
+
+&nbsp;
+
 ## Reading Material 
 
 ### Introductory Guides
@@ -40,37 +73,5 @@ If you want to dive deeper into how to succesfully run a FOSS project and work i
 - [Legal Memo on Energinets use of Open Source](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md)
 
 
-&nbsp;
-
-## Work Structures 
-
-### Asynchronous work structures
-Please consult the following guidelines and policies for information about rules that apply for contribution and participation in the Origin-Collaboration repository. 
-
-- [Decision-Making Policy](docs/guidelines/decision_making_policy.md) 
-- [Contribution Guidelines](docs/guidelines/contribution_guidelines.md)
-- [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md)
-
-#### Trusted Committer
-In the Origin-Collaboration repository, @lauranolling currently acts as the Trusted Committer. In this repository, the Trusted Committer is effectively a combination of the [InnerSource Trusted Committer and Product Owner](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md). 
-
-### Weekly Synchronous Sessions
-**Note: from 23-03-2023 these weekly's are carried out from an [Energinet Open Incubator](https://github.com/energinet-open-incubator) context instead, but still treating open source aspects of Project-Origin**.
-
-A small working group in Energinet has found it valuable to have weekly meetings, synchronous sessions, where the group goes through open issues in Project-Origin. If any attendee wants to discuss a specific matter, they can add a point to the agenda of the upcoming session, and the group will address the matter then. 
-
-Currently, the weekly synchronous sessions happen each Thursday at 10:00-11:00. If you want to participate in (one of) these sessions, reach out to [@lauranolling](mailto:lau@energinet.dk), who will add you to the calendar invitation. The agenda for the upcoming meeting will always be added as a [pull request](https://github.com/project-origin/origin-collaboration/pulls). 
-
-#### Meeting Minutes
-If you are interested in the topics and progress of previous weekly synchronous sessions, you can take a look at [this folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes), where summaries for the meetings are uploaded.
-
-### Synchronous Partner Meetings
-Besides working on Github, the partnership carries out longer-duration physical partner meetings. These meetings are not fixed-date meetings, but will rather be planned when the partnership finds the need for one. So far, the partner meetings include workshops and implementer days. 
-
-#### Workshops
-The workshops treat both technical and business topics related to Project-Origin. These workshops are mostly used to do the bigger-picture long-term planning of Project-Origin. The results from the workshops will be available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes). 
-
-#### Implementer Days
-Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes).
 
 
