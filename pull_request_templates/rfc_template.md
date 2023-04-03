@@ -1,105 +1,38 @@
----
-name: 📬 RFC Template
-about: Fill in this template and you are on your way to submit an RFC to the Project-Origin
-  working group.
-title: "📬 [RFC]000 - Issue title"
-labels: rfc
-assignees: ''
+<!-- 
+- Fill in this pull request template and you are on your way to submit an RFC to the Project-Origin working group. 
+- Learn more about [using RFCs in this project](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/rfc.md).
 
----
+-->
 
-# 000-Template
+**Note**: This template for creating RFCs has been adapted from the template used in the [Energy Track and Trace](https://github.com/Energy-Track-and-Trace) project.
 
-### Note: This template for creating RFCs has been adapted from the template used in the [Energy Track and Trace](https://github.com/Energy-Track-and-Trace) project.
 
-Learn more about [using RFCs in this project](https://github.com/Energy-Track-and-Trace/ett-documentation/tree/main/rfcs).
+# [RFC] 000 - RFC Title Here
 
-- Feature Name: (fill me in with a unique ident, `my_awesome_feature`)
-- Start Date: (fill me in with today's date, YYYY-MM-DD)
-- Assignees: (Representatives of technical ownership areas affected by the RFC. This will often be tech leads, but they may delegate. RFCs cannot be accepted until all nominated owners have signed off.)
+- **Start Date**: DD-MM-YYYY
+- **Status**: 000 (Proposed) 
+- **Nominated Owners**: Tag @participants here to act as representatives of technical ownership areas affected by the RFC. This will often be tech leads, but they may delegate. RFCs cannot be accepted until all nominated owners have signed it off.
 
-## Title
 
-Short Title Here
+## Summary
 
-## Patlet
+Concise 1-2 sentence description of the problem addressed in this RFC and the suggested solution.
 
-Concise 1-2 sentence description of the problem and solution.
-Readers may quickly review dozens of these patlets to discover and browse the larger library of patterns.
-From http://wiki.c2.com/?PatLet
 
 ## Problem
+Fill in this field with challenges and/or issues that the suggested change addresses. This section should adress:
 
-What is the problem - crisp definition of the problem.
-Short description, usually not more than a couple sentences, that describes what the issues and challenges are.
-Be careful not to morph into information found in other sections below.
+- Where does the problem exist?
+- What makes the problem difficult?
+- What are the trade-offs?
 
-## Story (optional)
+## Motivation
+This field should contain information that explains why you are suggesting this solution and why this is the right solution. Optionally, you can fill in some information about alternative solutions, and why they were discarded.
 
-Sometimes there is a story that helps people understand the pattern better.
 
-## Context
+## Implications
+Describe which implications the proposal will have on Project-Origin, if your proposal is accepted.
 
-Where does the problem exist?
-What are the pre-conditions?
-**Unchangeable** before the solution goes into place.
-The content here is often tied to the applicability of the pattern for other readers: "Do I have this same particular situation?"
 
-## Forces
-
-What makes the problem difficult?
-What are the trade-offs?
-These are constraints that **can be changed** at a cost.
-The solution might change one or more of these forces in order to solve the problem, while also in-turn changing the context.
-
-## Sketch (optional)
-
-visual illustration
-
-## Solutions
-
-Verified resolutions and possible resolutions to the problem.
-
-## Resulting Context
-
-What is the situation after the problem has been solved?
-The original context is changed indirectly by way of the solution.
-Often this section can include discussion of the next possible Patterns/problems introduced.
-This section can be short in content - the solution may not introduce new problems or change much context.
-
-## Rationale (optional)
-
-Explains why this is the right solution; using totally different words WHY this solution balances these forces and this context to solve this problem.
-Can expand on what-if's or theories.
-
-## Known Instances (optional)
-
-Where has this been seen before?
-Helps to reinforce that this is a REAL pattern and that you match the context.
-
-May mention:
-
-* A particular business
-* Anonymized instances ex: "3 companies have proven that this is a good solution" or "A large financial services org...".
-
-## Status (optional until merging)
-
-(Draft, Proposal, Approved, Demonstrated, Active, Superseeded, Retired)
-
-You might store other related info here, such as review history: "Three of us reviewed this on 2/5/17 and it needs John's expertise before it can go further."
-
-## Author(s) (optional)
-
-Often, this is yourself.
-If you need to, find someone in the InnerSource Commons to be the nominal author (As Told To).
-Could also be no-one if you do not want to take on authorship (common with a donut looking for a solution).
-
-## Acknowledgements (optional)
-
-Include those who assisted in helping with this pattern - both for attribution and for possible future follow up.
-Though optional, most patterns should list who helped in their creation.
-
-## Alias (optional)
-
-If this pattern is also known under a different name than what is listed unter **Title**, please list those alternative titles here.
-e.g. if the pattern is named after the problem it solves, a helpful alias might be one that describes the solution that is applied.
+## Additional Information
+If relevant, add any additional information in this field. It could be, e.g., examples of known instances of you proposed solution in other business/contexts, or any co-authors of the proposal besides yourself.
