@@ -272,7 +272,7 @@ Requests for Comments (RFCs) can be submitted to this repository, to make bigger
 The RFC must contain the following information:
 
 _Title_:
-Leave the "📬 [RFC]000" part of the title, and fill in a title at "<title>" that encompasses the suggestion provided in the RFC. The number "000" illustrates the status of the RFC, and means that it has the status "draft". The RFC will change status over time, as it is treated by the community and the [Trusted Committer of this repository]. The RFC can be assigned one of the following statuses:
+Leave the "📬 \[RFC\] 000" part of the title, and fill in a title at "<title>" that encompasses the suggestion provided in the RFC. The number "000" illustrates the status of the RFC, and means that it has the status "draft". The RFC will change status over time, as it is treated by the community and the [Trusted Committer of this repository]. The RFC can be assigned one of the following statuses:
 
 **TODO: Create table statusses and descriptions of how to reach it**
 
