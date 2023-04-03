@@ -8,7 +8,7 @@ In summary:
 * Name this file: `project-origin-working-session-dd-mm-yyyy.md`
 * Replace DD, MM, YYYY in the title with the day, month and year of the upcoming meeting. 
 * Add the names in "Roles" provided in the "Notes" section from the last meeting minutes. 
-* Update the Project Board statuses with the correct number of cards in the specified columns
+* Update the Project Board status with the correct number of cards in the specified columns
 * Copy the assignments list from the "Notes" section from the last meeting minutes and paste below the item: "Review status of assignments from last meeting" in the agenda.
 * Create a pull request and call the branch `working-session-notes-dd-mm-yyyy`(remember to apply the label `workingsession-notes`when the pull request is created)
 * Put a commit message in "Add an optional extended description..." (you can copy this below message easiest from the "Preview" mode)
@@ -44,16 +44,6 @@ Are you participating in the upcoming meeting? Then **Please check out the agend
 - [ ] Ensure that any new attendees have a meaningful way to get involved.
 - [ ] Fill in a summary of items on the project boards:
 - [ ] Review status of in-flight work from the [Project-Origin Backlog].
-  - X cards in “_Backlog_” 
-  - Y cards in “_In Progress_” 
-  - Z cards in “_Waiting/Blocked_”
-  - [ ] Empty the “_Done_” column
-- [ ] Review status of in-flight work from the [Collaboration Platform Backlog].
-  - X cards in “_Backlog_” 
-  - Y cards in “_In Progress_” 
-  - Z cards in “_Waiting/Blocked_” 
-  - [ ] Empty the “_Done_” column
-- [ ] Review status of in-flight work from the [Energinet Open Incubator Backlog].
   - X cards in “_Backlog_” 
   - Y cards in “_In Progress_” 
   - Z cards in “_Waiting/Blocked_”
