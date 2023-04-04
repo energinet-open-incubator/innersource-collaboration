@@ -10,7 +10,7 @@ All repositories have a tab, containing all issues created in the given reposito
 
 In this tab, all issues created will be available in a list:
 
-![issues tab](https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/issues-list.png)
+![issues list](https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/issues-list.png)
 
 The issue list allows for precise filtering and mass-processing, e.g. if you want to mass update labels or clean up during a housekeeping session.
 
@@ -54,7 +54,7 @@ You can reference them using @ and their username. For example _@lenucksi_ or _@
 ## Issues in Projects views
 As an alternative to the full list of issues in the Issues tab, issues can be put into customized Project views, a list of which is found under the Projects tab:
 
-![issues tab](https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects.png)
+![issues in projects](https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects.png)
 
 In Projects, the advantage is that you can make your own custom views, and sort the issues by issues by topic, priority, status, and others. 
 Projects can be viewed either as a KANBAN (see also: Trello) style board or as a list. 
@@ -66,7 +66,7 @@ There's a button in the _draft issue_ to convert them to a "real" issue.
 
 The Projects views also offer you a _quick issue view_ if you click on an issue's title:
 
-![issues tab](https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects-list-inline-issueview.png)
+![issue view](https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects-list-inline-issueview.png)
 
 To learn more about the Github Projects feature, you can take a look at the [Projects Guide](https://github.com/project-origin/origin-collaboration/tree/main/guides/projects.md).
 
