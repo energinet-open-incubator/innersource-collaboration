@@ -4,7 +4,7 @@
 
 1. [Introduction](#introduction)
 2. [Issues](#issues)
-    - [Task](#taks)
+    - [Task](#task)
     - [Feature Request](#feature-request)
     - [Bug Report](#bug-report)
 6. [Pull requests](#pull-requests)
@@ -94,10 +94,11 @@ To ensure quick merge turnarounds, the merging process for pull requests general
 However, to ensure code quality and consistency with the goals of Project-Origin, **a pull request can only be merged when it is approved by a [Trusted Committer]**. To make sure you fulfill any merging criteria, make sure to consult the [Contribution Guidelines] before creating the pull request. 
 
 ### Creating a Meeting Minutes
-MISSING description of decision proces using the [Meeting Minutes template].
+There are no specific decision processes connected to submitting a meeting minutes pull request. Any decision-making processes should be specified by the submitter of the minutes pull request, or by the meeting participants if relevant. However, it is good practice as a facilitator to submit the meeting minutes pull request in good time, to allow meeting participants to add any inputs or comments before the upcoming meeting. 
 
 ### Creating a Request for Comments
-While feature requests are used to define specific, smaller ideas, a [Request for Comments] (RFC) is used to suggest broader, more substantial changes, such as new governance structures, new documentation setups, or new formats of bigger functionalities. 
+While feature requests are used to define specific, smaller ideas, a [Request for Comments] (RFC) is used to suggest broader, more substantial changes, such as new governance structures, new documentation setups, or new formats of bigger functionalities. You can learn more about how to submit an RFC in the [Contribution Guidelines].
+
 Since the RFCs entails more significant changes to the project, it is ultimately up to the working group of Project-Origin to approve an RFC. 
 
 #### _Timeframe_
