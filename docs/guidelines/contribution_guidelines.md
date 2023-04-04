@@ -214,7 +214,7 @@ Of there is any additional, relevant information about the bug you encountered, 
  
 
 ## Pull Requests
-Everyone in the community can [create a Pull Request], or add reviews, comments, and suggestions to existing [Pull Request]s. 
+Everyone in the community can create a Pull Request, or add reviews, comments, and suggestions to existing [Pull Request]s. 
 
 ### Creating a Pull Request
 If you want to create a new file, or make changes to an existing file, you must create a pull request by either:
