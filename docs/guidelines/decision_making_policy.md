@@ -36,8 +36,6 @@ If any violating behavior is encountered, the [Trusted Committer] has the the au
 This decision-making policy is created specifically for the _origin-collaboration_ repository. 
 
 
-[//]: # (Note that "Contribution Guideline" is linked a lot. This document will be created asap)
-
 &nbsp;
 
 ## Issues
@@ -128,9 +126,8 @@ If an idea evolves to a feature request, you can [create an Issue] for this.
 ### Polls
 [Polls] will also be posted in the [Discussions].
 The decision-making in polls follows a [lazy consensus] approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. 
-A poll can have a status of _proposed_, _open_ or _closed_. When a poll is _closed_, the outcome of the vote indicated in the poll can be considered as decided on. 
+A poll can be either _open_ or _closed_. When a poll is _closed_, the outcome of the vote indicated in the poll can be considered as decided on, unless the poll is closed as "outdated" or "duplicate". 
 
-[//]: # (Poll - (how) can we attach statusses to these? The creator of the poll can set criteria, but else than that not sure - labels?)
 
 #### _Decision Criteria_
 In this repository the lazy consensus approach entails that silence, or not answering the poll, is consent to whatever gets most votes. A number of specific criteria are set up for polls:
