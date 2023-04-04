@@ -86,7 +86,6 @@ The labels are divided into categories, as provided below, along with an individ
 
 
 
-
 ## Choosing between Contribution Options
 The most appropriate choice of contribution form, depends on, for one thing, how specific your contribution is. Some general guidelines for when to choose which are:
 
@@ -111,15 +110,20 @@ Everyone in the community can create issues, using one of the [Issue Templates] 
 Issues are meant for discussing specific, closed-form ideas or details of a project. 
 
 To create an issue in this repository, navigate to the "Issues" tab within the repository, and click on the green button in the upper right corner, "New Issue", or click here: [Issue Templates]. 
-Then, a number of issue templates to choose from appears. 
+Then, a number of issue templates to choose from appears:
 
-**TODO: image here issue templates**
+<img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_issue_templates.png" width="90%"/>
 
 In Github, there are some helping features that apply to all issues, shown and described in the following table.
 
-**TODO: TABLE HERE on issue format _Assignees_ , _Labels_, _Projects_, _Milestone_, _Development_**
+| Feature       | Description                                                    | 
+| ------------- | -------------------------------------------------------------- |
+| `Assignees`   | Type or choose a user to be responsible for the issue          |
+| `Labels`      | Apply any of the available labels relevant to the issue        |
+| `Projects`    | Select a project to contain the issue card if relevant         |
+| `Milestone`   | If relevant, select an open Milestone for the issue            |
+| `Development` | Link any pull request containing content related to this issue |
 
-(If you are contributing with specific items related to the issue such as, e.g., markdown-files, images, or PDF's, you can link the pull request(s) containing these items in this section.)
 
 In this repository, it is expected that the contributor at least provides information in the sections "Assignee" and "Labels". A list of the labels used in this repository is provided in the [Labels section](#labels).
 
@@ -154,7 +158,6 @@ Describe what needs to happen before the task can be considered done. Some examp
 _Additional Information_:
 Add something here, if you have some background information you want people to know, or if there are related issues or pull requests related to the task. 
 
-  
 
 ### Feature Request
 The Feature Request issue is used for specific ideas and improvement suggestions. 
@@ -221,7 +224,7 @@ If you want to create a new file, or make changes to an existing file, you must 
 
 1. Navigating to a relevant location for your new file, and click on "Add file" and then "Create new file" in the drop-down menu. Give the file a title (remember to add ".md" if you want to create a Markdown file), and fill in the file with your content. 
 
-**TODO: Add image create new file**
+  <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_create_new_file.png" width="30%"/>
 
 2. Navigating to the [Pull Request Templates] and find a relevant template for your pull request. This is relevant if you want to create 1. a Request for Comments ([RFC]), or 2. a [Meeting Minutes].
 
@@ -233,7 +236,7 @@ If you want to create a new file, or make changes to an existing file, you must 
  
 3. Navigating to the location of the file you want to modify, click on the file, and then click on the "✏️" in the upper right corner of the file. 
 
-**TODO: Add image**
+   <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_edit_file.png" width="90%"/>
 
 #### Commit Message
 The commit message must be filled with the following information: 
@@ -274,7 +277,14 @@ The RFC must contain the following information:
 _Title_:
 Leave the "📬 \[RFC\] 000" part of the title, and fill in a title at "<title>" that encompasses the suggestion provided in the RFC. The number "000" illustrates the status of the RFC, and means that it has the status "draft". The RFC will change status over time, as it is treated by the community and the [Trusted Committer of this repository]. The RFC can be assigned one of the following statuses:
 
-**TODO: Create table statusses and descriptions of how to reach it**
+
+| Status       | Description                                                     | 
+| ------------ | --------------------------------------------------------------- |
+| `Draft`      | The RFC is a draft and requires further discussion and/or work  |
+| `Proposed`   | The RFC is a proposal to the Project-Origin partnership         |
+| `Accepted`   | The RFC is accepted by the Project-Origin partnership           |
+| `Rejected`   | The RFC is rejected by the Project-Origin partnership           |
+| `Superseded` | The RFC is no longer active, as it is superseded by another RFC |
 
 _Summary_: 
 Summarize in 1-2 sentences problem adressed, and the suggested solution.
@@ -337,17 +347,11 @@ If you want to review someone else's pull request, you can review changes and Rl
 
 - Navigating to the pull request you want to review, from the list of open [Pull Request]s
 - In the pull request, click on the tab "Files changed"
- TODO: Image here
-- Hover over the line of code where you'd like to add a comment, or suggest a change and click the blue comment icon that appears. 
-  
-  TODO: Image here
- 
+- Hover over the line of code where you'd like to add a comment, or suggest a change and click the blue ➕ icon that appears. 
 - To add a comment or suggestion for multiple lines, click and drag to select the range of lines, then click the blue comment icon.
-  - If you want to make a suggestion, you must click the square with a "+-" sign inside, in the top right corner of the comment box that appears. 
-  TODO: add image
+  - If you want to make a suggestion, you must click the square with a "+-" sign inside, in the top right corner of the comment box that appears.
 - When you are done adding your comment or suggestion, you can either choose "Add Single Comment", if you only have one thing to add, or "Start a Review" if you want to add several comments and/or suggestions.
   
-
 
 ## Project Boards
 Everyone in the community can create and participate in using the Project boards in the _origin-collaboration_ repository, found under the [Projects] tab. 
@@ -378,11 +382,13 @@ The collaborative Project boards are set up with a specific layout intended to m
 #### Board View
 The boards has a backlog/Scrum-board style view, with status columns. The boards additionally has a _"By Priority"_ list-view, sorting issues according to a `priority` attribute, that must be specified manually for each issue. Participants of this repository can use views as they like, or alternatively create new views in the boards if they want to, by clicking "+ New View" in the upper right corner of the view tabs. 
   
-TODO: Insert image here
+<img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects_new_view.png" width="70%"/>
 
 **Note**: 
 - Issues can only be sorted according to certain attributes specified by the creator of the Project board, who, including the [Trusted Committer]s, are the only ones with the access to change/add to these attributes. If you want to add a new attribute, you should post your suggestion in [Discussions]. 
 - Remember to save your new view, by clicking the small arrow with the blue dot, and click "Save changes". 
+    
+  <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_save_view.png" width="30%"/>
   
 #### Card Columns
 There are four columns in the Backlog project boards:
@@ -396,7 +402,7 @@ There are four columns in the Backlog project boards:
 ### Draft issues 
 In the Project boards, it is possible to use the "draft issue" feature, by clicking on the "+ New Item" in the bottom of a column.
 
-TODO: Insert image here. 
+<img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects_add_card.png" width="70%"/>
   
 The draft issues should only be used with the purpose of informing the community of certain work that needs to be done, or link to relevant background information, but that is not further defined, and that you haven't started working on yet. It is highly encouraged to use the discussions forum instead, for ideas that need to be refined, or creating an actual issue for well-defined tasks, to allow for interaction in the issue, which is otherwise not possible in the "draft" mode.  
 
