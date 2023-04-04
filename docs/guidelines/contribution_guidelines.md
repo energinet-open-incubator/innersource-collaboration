@@ -444,9 +444,16 @@ If you are creating a poll, be aware of the following guidelines:
   - The deadline must be at least 10 working days, excluding rare exceptions. See the [Decision-Making Policy] for more information. 
   - The decision-making in polls follows a lazy consensus approach, inspired by the [Apache definition](https://community.apache.org/committers/lazyConsensus.html) of the concept. A poll can have a status of proposed, open or closed. When a poll is closed, the outcome of the vote indicated in the poll can be considered as decided on. 
 - Editing a poll will reset any votes that have already been made. 
-  
 
 If you are voting on a poll, note that you cannot change your vote, after submitting it. If you need some clarification before providing your answer, provide your clarification request as a comment in the discussion thread of the poll. 
+    
+When you reach your answering deadline you should
+    
+1. Select "Lock conversation" in the column on the right side of your poll. 
+2. Add a comment stating that the deadline is reached and select "Close with comment". 
+    - You also have the option to "Close as outdated" if your poll is not relevant anymore, or "Close as duplicate" if you find that someone else made a poll on the same topic
+
+    <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_close_poll.png" width="70%"/>
 
 ### Q & A
 The "Q & A" channel creates a space for the community to ask each other questions, and support each other on specific problems. 
