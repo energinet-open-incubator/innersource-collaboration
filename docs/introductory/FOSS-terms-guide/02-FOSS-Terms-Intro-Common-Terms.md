@@ -203,6 +203,19 @@ Hence, there is no such thing as "Open Service" in the domain of Open Source.
    - Exceptions are explicitly mentioned. The main exception is **"Operation"**.  
      - Operation refers to Open Source Software that has been turned into a service, standalone or combined with commercial code by Energinet. 
 
+## Open Source Engagement Levels 
+(Note: This section is created based on text from the Energinet Open Source Strategy).
+
+Energinet has defined four separate "_engagement levels_" to describe how much involvement an internal project (and its participants) has on a FOSS project and hence how much influence the internal project then has on the FOSS project's components. From the lowest to the highest amount of influence, the engagement levels are:
+
+1. Consumption
+    - The project uses existing FOSS components as a foundation within IT-services and products. Energinet has no engagement with the community that develops the software
+3. Participation
+    - The internal project uses FOSS components. In addition to consumption, the project engages in the Open Source community by attending conferences, mailing lists, news and updates, etc., to stay informed about software development on the consumed FOSS components
+5. Contribution
+    - The internal project is involved in communities with dedicated competencies to shape the future of strategic projects. As a contributor the internal project will deliver strategic objectives to the FOSS project that are critical to the project and possibly to Energinet as a whole. 
+7. Leadership
+    - The internal project drives and invests significantly in the FOSS project and its Open Source community. This engagement level is relevant if Energinet is first mover or if the development of the software is business-critical to Energinet. 
 
 <!-- Anchorlink style -->
 [FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
