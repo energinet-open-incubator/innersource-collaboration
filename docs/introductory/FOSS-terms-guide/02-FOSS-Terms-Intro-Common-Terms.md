@@ -208,14 +208,24 @@ Hence, there is no such thing as "Open Service" in the domain of Open Source.
 
 Energinet has defined four separate "_engagement levels_" to describe how much involvement an internal project (and its participants) has on a FOSS project and hence how much influence the internal project then has on the FOSS project's components. From the lowest to the highest amount of influence, the engagement levels are:
 
-1. Consumption
+1. **Consumption**
     - The project uses existing FOSS components as a foundation within IT-services and products. Energinet has no engagement with the community that develops the software
-3. Participation
+2. **Participation**
     - The internal project uses FOSS components. In addition to consumption, the project engages in the Open Source community by attending conferences, mailing lists, news and updates, etc., to stay informed about software development on the consumed FOSS components
-5. Contribution
+3. **Contribution**
     - The internal project is involved in communities with dedicated competencies to shape the future of strategic projects. As a contributor the internal project will deliver strategic objectives to the FOSS project that are critical to the project and possibly to Energinet as a whole. 
-7. Leadership
+4. **Leadership**
     - The internal project drives and invests significantly in the FOSS project and its Open Source community. This engagement level is relevant if Energinet is first mover or if the development of the software is business-critical to Energinet. 
+    
+## Personas Acting in a Project-Origin Community
+As Project-Origin is created as a FOSS project, it can be assumed that in time, an Open Source community will be established around the project. Given that Project-Origin lives in the energy domain and is a highly technical project in nature, it can be expected that the project will attract certain type of 'personas' and 'organisasonas' to the community. Clarifying these types will help in the establishment of an OS community as the project progresses.
+
+Below is a mapping of the engagement modes with examples of personas/organisasonas that will engage in a Project-Origin Open Source community:
+
+| Type | Consuming | Participating | Contributing | Leader |
+| --- | --- | --- | --- | --- |
+| Persona (individual) | Not so relevant | The "passionate soul" (developer or domain expert) | The PhD student | The guy in Nebraska (https://xkcd.com/2347/ - an anti-pattern) |
+| "Organisasona" | The small third party organisation wanting simple use of a service | The slightly more engaged, small organisation wanting to submit ideas | The engaged organisation, big or small | The very engaged organisation which  can/will drive governance efforts |
 
 <!-- Anchorlink style -->
 [FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
