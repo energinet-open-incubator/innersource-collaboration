@@ -102,7 +102,9 @@ The most appropriate choice of contribution form, depends on, for one thing, how
   - You want to create a new file
   - You want to add something to an existing file
   - You want to modify something specific in an existing file
-
+- Use [Projects] when you:
+  - Want an overview of issues treated by the working group of Open Incubator and their status
+  - Want to quickly go through issues currently worked on, and add comments to one or several of them
 
 
 ## Issues 
