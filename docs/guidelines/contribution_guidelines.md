@@ -345,7 +345,7 @@ This section is for the scribe to fill in with the points:
 
 
 ### Reviewing Pull Requests
-If you want to review someone else's pull request, you can review changes and Rleave individual comments or make change suggestions in the file(s) contained in the pull request, by:
+If you want to review someone else's pull request, you can review changes and leave individual comments or make change suggestions in the file(s) contained in the pull request, by:
 
 - Navigating to the pull request you want to review, from the list of open [Pull Request]s
 - In the pull request, click on the tab "Files changed"
@@ -357,13 +357,12 @@ If you want to review someone else's pull request, you can review changes and Rl
 
 ## Project Boards
 Everyone in the community can create and participate in using the Project boards in the _origin-collaboration_ repository, found under the [Projects] tab. 
-The Project boards are used to give an overview of planned, ongoing or blocked tasks, and to enable easy navigation to and interaction in all of those issues wihtout the need to search for them one-by-one in the full list of [Issues]. 
+The Project boards are used to give an overview of planned, ongoing or blocked tasks, and to enable easy navigation to and interaction in all of those issues without the need to search for them one-by-one in the full list of [Issues]. 
     
 Currently active, open Project boards are: 
 
 
 - **[Project-Origin Backlog]**: This is an internal backlog for all the "non-software" kind of work in Project Origin. This Project board is relevant to **everyone** participating in the Project-Origin partnership. 
-- **[Collaboration Platform Backlog]**: This is a backlog specifically for setting up base documentation and decision structures here on Github. This Project board is relevant to anyone contributing in setting up these structures.
 - **[First Workshop in Aarhus 8.11.2022]**: This Project board provides an overview of all the stickie notes produced at the first workshop.
 
 The guidelines for creating and using Project boards are provided in the following.
