@@ -44,10 +44,21 @@ Depending on the size of the FOSS package and the number of involved people, thi
 
 A recommendation is to keep it pragmatic, simple and short and always offer an easy way to contact the package owners (Maintainers/[Trusted Committer]s) for questions.
 
-### "Running the show", getting write access or "how to become a maintainer".
+## Defining Roles and Responsibilities
+Defining a number of roles and their responsibilities and accesses can contribute to creating a transparent governanve on a FOSS project. 
+
+- **User/Consumer**: A person who uses the FOSS source code provided in the FOSS project, but who does not actively contribute to it. The person is interested in the FOSS software being maintained, and may potentially participate in discussions and/or open calls on the FOSS project, and subscribe to mailing lists. 
+- **Contributor**: A person who contributes to the FOSS project in the form of either, e.g., code, documentation or issues. The person has read access and can submit pull requests, issues and discussion posts, but does not have write access directly to the code and files contained in the FOSS project.
+- **Internal Collaborator**: A person who is employed in a founding company/original publisher and has allocated ressources to contribute to the FOSS project. The person may, besides contributing asynchronously in the FOSS environment, be involved in a number of closed, synchronous sessions as well. The internal collaborator has read access and can submit pull requests.
+- **Maintainer/Trusted Committer**: A person who has write access and is responsible for ensuring product quality, reducing barriers to making contributions, and by the [InnerSource Commons definition] also keeping the community healthy. This person can both be an employee from the original publisher or be an outside contributor, who has contributed so much, that they are granted with write access as well (see the section below). 
+- **Community Manager**: A person acting in bigger FOSS projects, employed at the founding company, who is responsible for marketing and advocating for the FOSS porject, engaging different stakeholders and ensuring good developer relations. The person might also simultaneously be a Trusted Committer. 
+- **Owner**: A person who has write access and determines which functionalities can be accepted as a contribution. The owner is responsible for defining and prioritizing requirements and stories for the community to implement, and interacts with Trusted Committers to make sure that a requested or contributed feature actually belongs to the product. In smaller projects, the Trusted Committer and the Owner is the same person. 
+
+
+### Becoming a Trusted Committer
 
 Open Source actively asks for contributions and work across corporate boundaries. 
-Thus, a common question is what happens if an external party to the original publisher contributes/engages so much that one could consider them as "running the show" (with the original publisher). 
+Thus, a common question is what happens if an external party to the original publisher contributes/engages so much that one could consider them as "running the show" (in collaboration with the original publisher). At some point, the original publisher must consider whether it makes sense to grant the contributor write access, and hence making them a [Trusted Committer]. 
 
 This is considered the funnel from user to [Contributor] to [Trusted Committer]. The latter has write access to the packages which is generally considered to be "they run the show".
 
@@ -57,9 +68,11 @@ This is considered the funnel from user to [Contributor] to [Trusted Committer].
 
 A [Trusted Committer] or maintainer is a mix of product manager/owner, technical lead,  engineering manager and general cat herder or secretary.
 As mentioned they accept or deny contributions. Also, they bring the package forward in general. This is especially important if there's additional developers in the same company as the Trusted Committer. Having a roadmap or definition of the future, e.g. a vision and some principles facilitates such decisions and explanation of them to others greatly.
+
 If there is more than one Trusted Committer, there needs to be a way to agree upon what gets accepted, what the future and road map looks like. This can range from very ad-hoc to full corporate board style. It can change and needs to be decided per package based on what fits by the trusted committers (and the corporations behind them if there are any).
 
 If there are multiple coherent packages that make up a FOSS product, a product definition and associated strategy helps to inform decisions what contribution and what code part goes into which package.
+
 Each package can have different governance approaches.
 
 #### Clear expectation setting or: Preventing glass ceilings
@@ -81,3 +94,4 @@ Any governance can evolve over time. Thus, if there are multiple Trusted Committ
 [Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
 [Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
 [DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
+[InnerSource Commons definition]:  https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
