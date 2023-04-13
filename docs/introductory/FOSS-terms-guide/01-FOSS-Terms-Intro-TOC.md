@@ -8,7 +8,7 @@ This document serves to **level the understanding** between technical (software 
 ### How to work with it
 
 Depending on your education and role it might be possible to only skim over certain sections you may have sufficient knowledge in. 
-For a software engineer this likely is everything until "3 modes of Open Source".
+For a software engineer this likely is everything until "4 modes of Open Source".
 
 Important terms in the pre-requisite terms section are marked, hyperlinked and re-used in later sections.
 
