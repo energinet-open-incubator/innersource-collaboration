@@ -63,7 +63,16 @@ When starting an open source project, it's important to understand that building
 - Create a marketing plan for announcing and promoting the project.
   - Announcing and promoting your open source project is essential to attracting contributors and building a community around it. A well-crafted marketing plan can help you get the word out and attract people who are interested in contributing to your project.
 
+## Shared Ownership of a FOSS Project in a Partnership 
+When several companies partner up on an open source project, there are several considerations that need to be taken into account to ensure smooth collaboration and alignment. Here are some important factors to keep in mind:
 
+- **Define project goals and vision**: It's essential for all participating companies to agree on the project goals, vision, and roadmap before starting the collaboration. This helps to ensure that all parties have a shared understanding of the project's objectives, and can work towards a common goal.
+- **Establish clear roles and responsibilities**: Establishing clear roles and responsibilities is critical for the success of the project. Each company should have clearly defined roles and responsibilities, with each party accountable for their respective areas of expertise.
+- **Determine governance and decision-making processes**: To ensure effective collaboration, the project needs a clear governance model and decision-making processes. All participating companies should have an equal say in the project's governance, with clear processes for making decisions, resolving conflicts, and addressing issues that arise during the project.
+- **Agree on intellectual property rights**: Intellectual property rights are an important consideration for any open source project. All participating companies need to agree on how to handle intellectual property rights, such as copyrights and patents, to avoid any potential legal disputes in the future.
+- **Establish communication and collaboration channels**: Effective communication and collaboration channels are essential for the success of an open source project involving multiple companies. The project team should establish clear communication and collaboration channels, such as regular meetings, shared documentation, and a dedicated project management tool.
+- **Align on technology stack and development processes**: It's important to align on the technology stack and development processes from the outset of the project. This helps to ensure that all companies are working with compatible technologies and development processes, reducing the risk of integration issues down the line.
+- **Establish project milestones and timelines**: Finally, all participating companies should agree on project milestones and timelines. This helps to ensure that everyone is working towards the same goals and that the project stays on track. Regular check-ins and reviews can help to monitor progress and ensure that the project is moving forward as planned.
 
 ## Defining Roles and Access Rights
 Defining a number of roles and their responsibilities and accesses can contribute to creating a transparent governanve on a FOSS project. 
