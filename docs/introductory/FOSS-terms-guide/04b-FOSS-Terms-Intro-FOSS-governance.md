@@ -44,7 +44,14 @@ Depending on the size of the FOSS package and the number of involved people, thi
 
 A recommendation is to keep it pragmatic, simple and short and always offer an easy way to contact the package owners (Maintainers/[Trusted Committer]s) for questions.
 
-## Defining Roles and Responsibilities
+## Ownership and Responsibilities
+The ultimate goal of a FOSS project is obtaining a thriving, self-driving community around the project. However, such community doesn't automatically appear. Hence, as the creator/owner of a FOSS project, a lot of effort follows after creating the project, to attract and maintain an Open Source community:  
+
+As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project. While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you. If you’re part of a company open sourcing a project, make sure your project has the internal resources it needs to thrive. You’ll want to identify who’s responsible for maintaining the project after launch, and how you’ll share those tasks with your community. If you need a dedicated budget or staffing for promotion, operations and maintaining the project, start those conversations early. As you begin to open source the project, it’s important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don’t be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors. You've talked to your legal department to make sure that you choose the right open source license that guarantees that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from sticky legal situations. You have a marketing plan for announcing and promoting the project. Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests). At least two people have administrative access to the project
+
+
+
+## Defining Roles and Access Rights
 Defining a number of roles and their responsibilities and accesses can contribute to creating a transparent governanve on a FOSS project. 
 
 - **User/Consumer**: A person who uses the FOSS source code provided in the FOSS project, but who does not actively contribute to it. The person is interested in the FOSS software being maintained, and may potentially participate in discussions and/or open calls on the FOSS project, and subscribe to mailing lists. 
