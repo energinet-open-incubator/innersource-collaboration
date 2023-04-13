@@ -206,7 +206,7 @@ Hence, there is no such thing as "Open Service" in the domain of Open Source.
 ## Open Source Engagement Levels 
 (Note: This section is created based on text from the Energinet Open Source Strategy).
 
-Energinet has defined four separate "_engagement levels_" to describe how much involvement an internal project (and its participants) has on a FOSS project and hence how much influence the internal project then has on the FOSS project's components. From the lowest to the highest amount of influence, the engagement levels are:
+Energinet has defined four separate _modes_, or _engagement levels_, to describe how much involvement an internal project (and its participants) has on a FOSS project and hence how much influence the internal project then has on the FOSS project's components. From the lowest to the highest amount of influence, the engagement levels are:
 
 1. **Consumption**
     - The project uses existing FOSS components as a foundation within IT-services and products. Energinet has no engagement with the community that develops the software
