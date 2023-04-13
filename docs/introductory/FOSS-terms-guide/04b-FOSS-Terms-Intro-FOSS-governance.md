@@ -47,20 +47,16 @@ A recommendation is to keep it pragmatic, simple and short and always offer an e
 ## Ownership and Responsibilities
 When starting an open source project, it's important to understand that building a community around it is crucial for its success. As a company, you have certain responsibilities to ensure that your project not only gains traction but also thrives in the long run. Here are some of the key responsibilities you need to take:
 
-- Identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community.
-    - As your project grows, your community may need more than just code from you. Responding to issues and discussions, reviewing code, and evangelizing your project are all important tasks in an open source project. Your project should have sufficient internal resources to address and handle external inputs and contributions.
-
-- Allocate dedicated resources such as budget or staffing for promoting, operating and maintaining the project.
-  - Open source projects require a considerable investment of resources, including personnel, infrastructure, and funding. 
-  - As your community grows, managing community interactions becomes increasingly important. Ensure that someone is responsible for responding to issues and reviewing and merging pull requests. This person should be committed to helping maintain a positive and productive community around your project.
-
-- Involve frequent contributors, even if they're not employed by your company, in key aspects of the project.
+- **Identify who's responsible for maintaining the project after launch, and how you'll share those tasks with your community**
+      As your project grows, your community may need more than just code from you. Responding to issues and discussions, reviewing code, and evangelizing your project are all important tasks in an open source project. Your project should have sufficient internal resources to address and handle external inputs and contributions.
+- **Allocate dedicated resources such as budget or staffing for promoting, operating and maintaining the project**
+    Open source projects require a considerable investment of resources, including personnel, infrastructure, and funding. 
+    As your community grows, managing community interactions becomes increasingly important. Ensure that someone is responsible for responding to issues and reviewing and merging pull requests. This person should be committed to helping maintain a positive and productive community around your project.
+- **Involve frequent contributors, even if they're not employed by your company, in key aspects of the project**
   - Building a thriving open source community requires active engagement and contributions from people who are passionate about your project. By involving frequent contributors, even those who are not employed by your company, you can leverage their expertise and commitment to help drive the project forward.
-
-- Choose the right open source license and seek legal advice to avoid legal repercussions.
+- **Choose the right open source license and seek legal advice to avoid legal repercussions.**
   - Choosing the right open source license is critical to ensure that others can use, copy, modify, and contribute back to your project without repercussions. It also protects you from unpleasant legal situations. Seek legal advice to ensure that the chosen license aligns with your goals for the project.
-
-- Create a marketing plan for announcing and promoting the project.
+- **Create a marketing plan for announcing and promoting the project.**
   - Announcing and promoting your open source project is essential to attracting contributors and building a community around it. A well-crafted marketing plan can help you get the word out and attract people who are interested in contributing to your project.
 
 ## Shared Ownership of a FOSS Project in a Partnership 
