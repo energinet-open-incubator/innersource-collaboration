@@ -55,7 +55,7 @@ What is common to be shared?
  - Team A (called a **"Guest Team"**) found a bug or found a feature that they think could be beneficial for everyone using Team B's (called the **"Host Team"**) product/library etc.
  - Team B declared that they are open to contributions from others.
  - Team A now either directly creates a pull request (in the case of a small bug fix) or briefly informs Team B about their plans to contribute something and they discuss if its fits and how it's best done.
- - Team A builds the changes and pull requests it to Team B's project. A knowledgeable person from Team B reviews the changes and mentors the person from Team A for any needed changes they should make such that the change fits well into Team B's product. Team A makes said changes until it's good to be included.  Once that's done, Team B includes ("merges") the changes Team A made into their product.
+ - Team A builds the changes and pull requests it to Team B's project. A knowledgeable person from Team B (The [Trusted Committer]) reviews the changes and mentors the person from Team A (The [Contributor]) for any needed changes they should make such that the change fits well into Team B's product. Team A makes said changes until it's good to be included.  Once that's done, Team B includes ("merges") the changes Team A made into their product.
  - It is common to have someone from Team A answer to all questions around the new change for 30 days. (Called "30 days of warranty") to ensure a smooth handover. After 30 days, the change is maintained by Team B as if they had made it.
  - Everyone won. Ideally more people than just the ones involved got a bug fixed or a feature added that is beneficial for them, less wasteful planning and silo-jumping/escalation was needed, some communication bridges (direct relations between people) have been established or improved, etc.
 
@@ -231,4 +231,5 @@ Below is a mapping of the engagement modes with examples of personas/organisason
 [FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
 [EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
 [DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
-
+[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
