@@ -55,7 +55,7 @@ What is common to be shared?
  - Team A (called a **"Guest Team"**) found a bug or found a feature that they think could be beneficial for everyone using Team B's (called the **"Host Team"**) product/library etc.
  - Team B declared that they are open to contributions from others.
  - Team A now either directly creates a pull request (in the case of a small bug fix) or briefly informs Team B about their plans to contribute something and they discuss if its fits and how it's best done.
- - Team A builds the changes and pull requests it to Team B's project. A knowledgeable person from Team B reviews the changes and mentors the person from Team A for any needed changes they should make such that the change fits well into Team B's product. Team A makes said changes until it's good to be included.  Once that's done, Team B includes ("merges") the changes Team A made into their product.
+ - Team A builds the changes and pull requests it to Team B's project. A knowledgeable person from Team B (The [Trusted Committer]) reviews the changes and mentors the person from Team A (The [Contributor]) for any needed changes they should make such that the change fits well into Team B's product. Team A makes said changes until it's good to be included.  Once that's done, Team B includes ("merges") the changes Team A made into their product.
  - It is common to have someone from Team A answer to all questions around the new change for 30 days. (Called "30 days of warranty") to ensure a smooth handover. After 30 days, the change is maintained by Team B as if they had made it.
  - Everyone won. Ideally more people than just the ones involved got a bug fixed or a feature added that is beneficial for them, less wasteful planning and silo-jumping/escalation was needed, some communication bridges (direct relations between people) have been established or improved, etc.
 
@@ -203,9 +203,33 @@ Hence, there is no such thing as "Open Service" in the domain of Open Source.
    - Exceptions are explicitly mentioned. The main exception is **"Operation"**.  
      - Operation refers to Open Source Software that has been turned into a service, standalone or combined with commercial code by Energinet. 
 
+## Open Source Engagement Levels 
+(Note: This section is created based on text from the Energinet Open Source Strategy).
+
+Energinet has defined four separate _modes_, or _engagement levels_, to describe how much involvement an internal project (and its participants) has on a FOSS project and hence how much influence the internal project then has on the FOSS project's components. From the lowest to the highest amount of influence, the engagement levels are:
+
+1. **Consumption**
+    - The project uses existing FOSS components as a foundation within IT-services and products. Energinet has no engagement with the community that develops the software
+2. **Participation**
+    - The internal project uses FOSS components. In addition to consumption, the project engages in the Open Source community by attending conferences, mailing lists, news and updates, etc., to stay informed about software development on the consumed FOSS components
+3. **Contribution**
+    - The internal project is involved in communities with dedicated competencies to shape the future of strategic projects. As a contributor the internal project will deliver strategic objectives to the FOSS project that are critical to the project and possibly to Energinet as a whole. 
+4. **Leadership**
+    - The internal project drives and invests significantly in the FOSS project and its Open Source community. This engagement level is relevant if Energinet is first mover or if the development of the software is business-critical to Energinet. 
+    
+## Personas Acting in a Project-Origin Community
+As Project-Origin is created as a FOSS project, it can be assumed that in time, an Open Source community will be established around the project. Given that Project-Origin lives in the energy domain and is a highly technical project in nature, it can be expected that the project will attract certain type of 'personas' and 'organisasonas' to the community. Clarifying these types will help in the establishment of an OS community as the project progresses.
+
+Below is a mapping of the engagement modes with examples of personas/organisasonas that will engage in a Project-Origin Open Source community:
+
+| Type | Consuming | Participating | Contributing | Leader |
+| --- | --- | --- | --- | --- |
+| Persona (individual) | Not so relevant | The "passionate soul" (developer or domain expert) | The PhD student | The guy in Nebraska (https://xkcd.com/2347/ - an anti-pattern) |
+| "Organisasona" | The small third party organisation wanting simple use of a service | The slightly more engaged, small organisation wanting to submit ideas | The engaged organisation, big or small | The very engaged organisation which  can/will drive governance efforts |
 
 <!-- Anchorlink style -->
-[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
-[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[FOSS Strategy Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
 [DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
-
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
