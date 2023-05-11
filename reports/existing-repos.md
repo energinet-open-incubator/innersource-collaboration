@@ -50,7 +50,7 @@ The mentioned secret scanning tools above are probably also a good idea to get i
 
 ### People active in the GitHub-Org:
 
-See into updating the [participants.md](https://github.com/project-origin/origin-collaboration/blob/main/participants.md) with all partipating people and check the repositories and GitHub ACLs for any alignments with a desired state that might be needed or are unexpected.
+See into updating the [participants.md](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/participants.md) with all partipating people and check the repositories and GitHub ACLs for any alignments with a desired state that might be needed or are unexpected.
 
 
 ## Repositories

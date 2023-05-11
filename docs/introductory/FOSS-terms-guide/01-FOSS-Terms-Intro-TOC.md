@@ -77,6 +77,6 @@ It is strictly recommended to seek advice from a FOSS specialized lawyer prior t
 Authors notice: The consultancy mandate does not include legal advice, FOSS compliance consulting or advice on FOSS publication beyond technical, ways-of-working and common domain expectations. Any further advice, especially of legal nature, implicit or explicit, needs to be sourced from the relevant partners, e.g. a specialized lawyer. 
 
 <!-- Anchorlink style -->
-[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
-[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[FOSS Strategy Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
 [DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845

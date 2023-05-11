@@ -21,7 +21,7 @@
   - 12 cards are in “Backlog”
 - [x] Fill in a summary of items on the project board
 - [x] Empty the “Done” column on the project board.
-- [x] Review status of [assignments from last meeting](https://github.com/project-origin/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-19-01-2023.md). (See below for summary)
+- [x] Review status of [assignments from last meeting](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/meeting-minutes/project-origin-working-session-19-01-2023.md). (See below for summary)
 - [x] Fill in assignments from the last meeting
   - Laura / @lauranolling:
     - ~#117 add note to this on difference between the boards~
@@ -48,13 +48,13 @@
 **Project-Origin Backlog**
 
 - _In Progress_: 
-    - [#64](https://github.com/project-origin/origin-collaboration/issues/64) (establish first work structures): There will be a workshop Feb. 20th following up on this moving forward. @andersfausboll argues that first work structures have been reached, @lauranolling mentions the checklist in comments have been completed. The group agrees to close this, after @wisbech (done) and @lauranolling added comments (see [Assignments](#assignments)) 
-    - [#67](https://github.com/project-origin/origin-collaboration/issues/67) (Separating Project-Origin and Open incubator): @andersfausboll and @lauranolling worked through this, and @andersfausboll made a helpful diagram. @andersfausboll decides to take progress history into consideration before adding his perspectives, and the group agrees that commenting/adding diagram, discussion highlights and any other considerations will be valuable (see [Assignments](#assignments)). 
+    - [#64](https://github.com/energinet-open-incubator/origin-collaboration/issues/64) (establish first work structures): There will be a workshop Feb. 20th following up on this moving forward. @andersfausboll argues that first work structures have been reached, @lauranolling mentions the checklist in comments have been completed. The group agrees to close this, after @wisbech (done) and @lauranolling added comments (see [Assignments](#assignments)) 
+    - [#67](https://github.com/energinet-open-incubator/origin-collaboration/issues/67) (Separating Project-Origin and Open incubator): @andersfausboll and @lauranolling worked through this, and @andersfausboll made a helpful diagram. @andersfausboll decides to take progress history into consideration before adding his perspectives, and the group agrees that commenting/adding diagram, discussion highlights and any other considerations will be valuable (see [Assignments](#assignments)). 
         - A discussion arises on providing useful tooling to elevate quality of work, as @wisbech suggests using draw.io to create the diagram in an editable way before adding it. @lenucksi suggests working on a draft for a "tooling guide", which @wisbech agrees to start working on (see [Assignments](#assignments))
-    - [#72](https://github.com/project-origin/origin-collaboration/issues/72) (Go through licensing): @lauranolling mentions that this issue is not in progress. The group agrees to move it to Waiting/Blocked). 
+    - [#72](https://github.com/energinet-open-incubator/origin-collaboration/issues/72) (Go through licensing): @lauranolling mentions that this issue is not in progress. The group agrees to move it to Waiting/Blocked). 
     
 - _No Status_:
-    - [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162), [#163](https://github.com/project-origin/origin-collaboration/issues/163) - @lenucksi agrees to move these to one of the "status" columns, and add link to where they arose from (see [Assignments](#assignments))
+    - [#161](https://github.com/energinet-open-incubator/origin-collaboration/issues/161), [#162](https://github.com/energinet-open-incubator/origin-collaboration/issues/162), [#163](https://github.com/energinet-open-incubator/origin-collaboration/issues/163) - @lenucksi agrees to move these to one of the "status" columns, and add link to where they arose from (see [Assignments](#assignments))
     
 - _Backlog:_
     - The group decides to skip this column, as there are plenty to do with progress issues for now   
@@ -63,24 +63,24 @@
 **Collaboration Platform Backlog**
 
  - _In Progress:_ 
-     - [#7](https://github.com/project-origin/origin-collaboration/issues/7) (availability of commercial GH license): Moved to waiting/blocked as no progress
-     - [#109](https://github.com/project-origin/origin-collaboration/issues/109) (beginners guides): @lauranolling mentions that this is still in progress
-     - [#117](https://github.com/project-origin/origin-collaboration/issues/117) (board usage):  A comment on board distinction has been added by @lauranolling , and @lenucksi added it to the Readme, closing 🎉 
+     - [#7](https://github.com/energinet-open-incubator/origin-collaboration/issues/7) (availability of commercial GH license): Moved to waiting/blocked as no progress
+     - [#109](https://github.com/energinet-open-incubator/origin-collaboration/issues/109) (beginners guides): @lauranolling mentions that this is still in progress
+     - [#117](https://github.com/energinet-open-incubator/origin-collaboration/issues/117) (board usage):  A comment on board distinction has been added by @lauranolling , and @lenucksi added it to the Readme, closing 🎉 
 
 
 **Open Incubator Backlog**
 
 - _In Progress:_
-    - [#67](https://github.com/project-origin/origin-collaboration/issues/67) (separating Project-Origin and Open Incubator): Moved from Project-Origin backlog
-    - [#163](https://github.com/project-origin/origin-collaboration/issues/163) (create 02-02 work session): This PR
-    - [#165](https://github.com/project-origin/origin-collaboration/issues/165) (scope Open Incubator and needs adressed): @andersfausboll and @lauranolling will go through this with @AndreAlnor on Monday  (see [Assignments](#assignments)), @lenucksi offers going through this with @andersfausboll and @lauranolling afterwards. @lenucksi points to a [PDF (Mozilla)](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf), which he e-mailed and [linked](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542848548098&cot=14) in _the_ Miro, and recommends everyone going through it. @andersfausboll mentions reading a [Tennet paper](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764541909241135&cot=14). (See also the evolution diagram right next to it and the comments to this.) 
+    - [#67](https://github.com/energinet-open-incubator/origin-collaboration/issues/67) (separating Project-Origin and Open Incubator): Moved from Project-Origin backlog
+    - [#163](https://github.com/energinet-open-incubator/origin-collaboration/issues/163) (create 02-02 work session): This PR
+    - [#165](https://github.com/energinet-open-incubator/origin-collaboration/issues/165) (scope Open Incubator and needs adressed): @andersfausboll and @lauranolling will go through this with @AndreAlnor on Monday  (see [Assignments](#assignments)), @lenucksi offers going through this with @andersfausboll and @lauranolling afterwards. @lenucksi points to a [PDF (Mozilla)](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf), which he e-mailed and [linked](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764542848548098&cot=14) in _the_ Miro, and recommends everyone going through it. @andersfausboll mentions reading a [Tennet paper](https://miro.com/app/board/uXjVP3As-l8=/?moveToWidget=3458764541909241135&cot=14). (See also the evolution diagram right next to it and the comments to this.) 
     
  - _Backlog:_
-     - [#145](https://github.com/project-origin/origin-collaboration/issues/145) and [#8](https://github.com/project-origin/origin-collaboration/issues/8) is moved here from the Project-Origin Backlog
+     - [#145](https://github.com/energinet-open-incubator/origin-collaboration/issues/145) and [#8](https://github.com/energinet-open-incubator/origin-collaboration/issues/8) is moved here from the Project-Origin Backlog
          - @wisbech mentions also moving the tooling issue here  (see [Assignments](#assignments)). @andersfausboll  mentions considering Innersource methods of "we chose A and didn't choose B and C because…" to make this more transparent . @lenucksi points out here that passive documentation, i.e. the written explicit way, allows to generate/have exactly this "A not B and C" reasoning for future participants/onlookers without having to write explicit documents. It's not bad having them as well, especially if they link into the relevant passive documentation bits.
          
  - _No status:_
-     - Draft issue on "rev up Open Incubator Github Org": the group agrees to make further decisions here after the meeting with @andersfausboll, @AndreAlnor and @lauranolling. @lenucksi refers to issue [#67](https://github.com/project-origin/origin-collaboration/issues/67) for discussion and useful links on this topic. 
+     - Draft issue on "rev up Open Incubator Github Org": the group agrees to make further decisions here after the meeting with @andersfausboll, @AndreAlnor and @lauranolling. @lenucksi refers to issue [#67](https://github.com/energinet-open-incubator/origin-collaboration/issues/67) for discussion and useful links on this topic. 
         - A discussion arises here, as @wisbech points out that the role of such Github Org in relation to the Energinet-DataHub org is not clear. Additionally, not clear who should be the owner of this, besides definitely an energinet e-mail. @wisbech will add comment on this (see [Assignments](#assignments)).  
         - Another discussion arises regarding open source products and licensing, as the group stumbles upon a public repo owned by an "energinet" user, but with no license. @lenucksi compares the no-license case with accessible documents by Microsoft - available, but no right to modify or use, and recommends considering no-license code proprietary (and to refer to counsel for detailed evaluation). @andersfausboll mentions the conflict of having different licenses in files and and the root of a repository (general topic: contradicting license findings), and @lenucksi suggests using a lawyer in such case. 
         
@@ -97,15 +97,15 @@
         - Stated that missing points in checklists will be addressed after the partner meeting end of Feb.
     - Scoping of Open Incubator first draft (shared assignment)
 - @andersfausboll 
-    - Add diagram to [#67](https://github.com/project-origin/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
+    - Add diagram to [#67](https://github.com/energinet-open-incubator/origin-collaboration/issues/67) and add any discussion highlights or other considerations if relevant 
    - Scoping of Open Incubator first draft (shared assignment)
 - @wisbech 
     - First draft on "Tooling Guide", starting with suggested tool draw.io  
     - Move "tooling" issue to Open Incubator Project Board
     - Add comment on "rev up Open Incubator Github" (can't link because draft issue) on why the org wasn't made today
 - @lenucksi 
-    - ~Move [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162), [#163](https://github.com/project-origin/origin-collaboration/issues/163) from "No Status" column and add link to where they arose from~
-      - Done. This has arisen from https://github.com/project-origin/origin-collaboration/issues/69#issuecomment-1396829866, see also the links in [#161](https://github.com/project-origin/origin-collaboration/issues/161), [#162](https://github.com/project-origin/origin-collaboration/issues/162). I've moved them from `no status` to `backlog` in the Project-Origin project.  #163 is this PR, but I've moved it to `in review` too.
+    - ~Move [#161](https://github.com/energinet-open-incubator/origin-collaboration/issues/161), [#162](https://github.com/energinet-open-incubator/origin-collaboration/issues/162), [#163](https://github.com/energinet-open-incubator/origin-collaboration/issues/163) from "No Status" column and add link to where they arose from~
+      - Done. This has arisen from https://github.com/energinet-open-incubator/origin-collaboration/issues/69#issuecomment-1396829866, see also the links in [#161](https://github.com/energinet-open-incubator/origin-collaboration/issues/161), [#162](https://github.com/energinet-open-incubator/origin-collaboration/issues/162). I've moved them from `no status` to `backlog` in the Project-Origin project.  #163 is this PR, but I've moved it to `in review` too.
 
 ## Next Meeting’s Roles
 
@@ -114,13 +114,13 @@
 - [Scribe]: Thomas / @wisbech 
 
 <!-- anchorlink style use -->
-[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
-[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Project-Origin Backlog]: https://github.com/orgs/energinet-open-incubator/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/energinet-open-incubator/projects/2/views/1
 [Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
-[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
-[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
-[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+[Scheduler]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
+[Facilitator]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
+[Scribe]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
 
 [Open Incubator organization]: https://github.com/energinet-open-incubator
 [Assignments]: #assignments

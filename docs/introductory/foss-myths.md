@@ -57,7 +57,7 @@ But what if everyone mutually relies on the eyes of the others being there while
 ## Open Source is "free as in beer"
 Another common myth is: _There are no strings attached, it‘s just sharing code. Is there really a community?_
 
-Regarding legal ramifications (see the [FOSS Terms guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md): You don't want to pay up to 250k€ per case and deal with negative PR. Also, there are non-profit enforcement bodies with hefty endowments.) these additional aspects should be considered:
+Regarding legal ramifications (see the [FOSS Terms guide](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md): You don't want to pay up to 250k€ per case and deal with negative PR. Also, there are non-profit enforcement bodies with hefty endowments.) these additional aspects should be considered:
 
 - If you mindlessly consume whatever is out there you are binding your business to the will of whoever made what you're using. You will not have any say in what ways they chose or if they just abandon their component without a word (they do, frequently so, sometimes even [destructively nuking it before leaving](https://www.theverge.com/2022/1/9/22874949/developer-corrupts-open-source-libraries-projects-affected)).
 - Get involved with the people of the components that are critical to you and you can have more of a say or at least know earlier when it is time to move.
@@ -86,5 +86,5 @@ You are absolutely not. It's only the beginning of your public Open Source journ
 
 
 <!-- Anchorlink style -->
-[FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md
+[FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md
 

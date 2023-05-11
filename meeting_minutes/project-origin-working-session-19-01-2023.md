@@ -82,7 +82,7 @@
 ## Assignments
 - Johannes / @lenucksi:
   - ~To split #69 out into two issues and add a comment on the roles 1+2 / corporate vs. foss.. Close original issue once that's done.~
-    - Done in https://github.com/project-origin/origin-collaboration/issues/69#issue-1457664429 (see also last two comments before that one)
+    - Done in https://github.com/energinet-open-incubator/origin-collaboration/issues/69#issue-1457664429 (see also last two comments before that one)
   - ~fix template "meaningful way to engage" thing -> goes to bottom, better flow~
     - Done with #160 
 - Laura / @lauranolling:
@@ -99,13 +99,13 @@
 - [Scribe] : Laura
 
 <!-- anchorlink style use -->
-[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/2
-[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Project-Origin Backlog]: https://github.com/orgs/energinet-open-incubator/projects/6/views/2
+[Collaboration Platform Backlog]: https://github.com/orgs/energinet-open-incubator/projects/2/views/1
 [Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
-[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
-[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
-[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+[Scheduler]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
+[Facilitator]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
+[Scribe]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
 
 [Open Incubator organization]: https://github.com/energinet-open-incubator
 [Assignments]: #assignments

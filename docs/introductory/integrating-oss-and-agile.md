@@ -65,6 +65,6 @@ Open Source, and by lineage InnerSource too, environments have certain inbuilt e
 
 
 <!-- Anchorlink style -->
-[Guide on Asynchronous Environments]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/acting_in_asynchronous_environments.md
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
-[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
+[Guide on Asynchronous Environments]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/acting_in_asynchronous_environments.md
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor

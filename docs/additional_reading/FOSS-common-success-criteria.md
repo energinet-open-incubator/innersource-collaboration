@@ -49,4 +49,4 @@ Of course people copying your approach (copycats) or trying to jump on your buzz
 
 That will then start the real work for you then though...
 
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer

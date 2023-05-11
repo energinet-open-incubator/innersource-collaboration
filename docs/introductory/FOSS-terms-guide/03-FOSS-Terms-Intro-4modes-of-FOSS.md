@@ -20,7 +20,7 @@ An important terminology used for **perspective** here is:
 - **They**: Any other entity. Could, e.g., be: A person representing 50Hz/Elia, Elering, Statnet, an individual. The individual could also be employed by us but participating in their spare time as an individual.
 
 ## Orthogonal aspect of FOSS: The Ways of working
-(**Note**: A full introductory guide on working in asynchronous environments is available [here](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/acting_in_asynchronous_environments.md))
+(**Note**: A full introductory guide on working in asynchronous environments is available [here](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/acting_in_asynchronous_environments.md))
 
 Contributors and authors of packages contributed to may reside in **vastly different time zones**, have significantly **different work times** and especially also may **not have time to address contributions immediately**.
 There is **no built-in face-to-face communication** as with common software development, a client-lawyer interaction etc.
@@ -93,6 +93,6 @@ Since the third parties are not bound to us contractually and thus may have diff
 
 
 <!-- Anchorlink style -->
-[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
-[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[FOSS Strategy Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
 [DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845

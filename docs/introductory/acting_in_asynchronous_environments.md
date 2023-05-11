@@ -115,4 +115,4 @@ To obtain a well-functioning asynchronous environment, consider the following su
 - FOSS is event driven, as is your inbox. You check both regularly (with the intervals being different) and act if there is something to do. Do the same with your Slacks, GitHub inboxes, Miros etc. 
 
 <!-- anchorlink style use -->
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer

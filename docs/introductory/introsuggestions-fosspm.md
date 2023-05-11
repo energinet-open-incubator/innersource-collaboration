@@ -148,5 +148,5 @@ When you have chosen a person (or group of people) to take the decisions and app
 - Regularly take some time to step back, record lessons learned, things that worked well, things that didn't and to enjoy that you hopefully grew a working product with a nice community :smile: :tada: 
 
 <!-- Anchorlink style --> 
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
-[Product Owner]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-product-owner
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Product Owner]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-product-owner

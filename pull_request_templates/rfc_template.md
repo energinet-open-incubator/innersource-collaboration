@@ -1,6 +1,6 @@
 <!-- 
 - Fill in this pull request template and you are on your way to submit an RFC to the Project-Origin working group. 
-- Learn more about [using RFCs in this project](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/rfc.md).
+- Learn more about [using RFCs in this project](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/rfc.md).
 
 -->
 

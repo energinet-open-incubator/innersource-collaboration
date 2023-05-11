@@ -102,10 +102,10 @@ Part of your service as _Scribe_ is to summarize the key points of what was said
 
 <!-- anchorstyle links -->
 
-[meeting template]: https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md
-[working session meeting notes folder]: https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes
+[meeting template]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md
+[working session meeting notes folder]: https://github.com/energinet-open-incubator/origin-collaboration/tree/main/meeting_minutes
 [Scheduler]: #scheduler
 [Facilitator]: #facilitator
 [Scribe]: #scribe
-[Pull Requests]: https://github.com/project-origin/origin-collaboration/pulls
-[Project board]: https://github.com/project-origin/origin-collaboration/projects?query=is%3Aopen
+[Pull Requests]: https://github.com/energinet-open-incubator/origin-collaboration/pulls
+[Project board]: https://github.com/energinet-open-incubator/origin-collaboration/projects?query=is%3Aopen

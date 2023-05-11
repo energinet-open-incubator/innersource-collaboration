@@ -188,15 +188,15 @@ Listening to what your developers would find interesting can often help.
 
 
 <!-- Anchorlink style -->
-[FOSS Strategy Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
-[EnerginetFOSS-memo]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
-[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
+[FOSS Strategy Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md
+[EnerginetFOSS-memo]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/legal_memo/minutes_legal_notes_on_energinets_use_of_open_source.pdf
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contributor]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
 [DAP]: https://www.digitaliser.dk/resource/451301/artefact/retligeforholdvedopensource.pdf?artefact=true&PID=464845
-[Intro to FOSS Terms guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md
-[chapter 2 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/02-FOSS-Terms-Intro-Common-Terms.md
-[chapter 3 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/03-FOSS-Terms-Intro-3modes-of-FOSS.md
-[chapter 4 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/04a-FOSS-Terms-Intro-FOSS-licenses.md
-[chapter 4b in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md
-[the Integrating Open Source and Agile Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/integrating-oss-and-agile.md
-[chapter 6 in the FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/06-FOSS-Terms-Intro-public-sector-specialties.md
+[Intro to FOSS Terms guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md
+[chapter 2 in the FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/02-FOSS-Terms-Intro-Common-Terms.md
+[chapter 3 in the FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/03-FOSS-Terms-Intro-3modes-of-FOSS.md
+[chapter 4 in the FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/04a-FOSS-Terms-Intro-FOSS-licenses.md
+[chapter 4b in the FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/04b-FOSS-Terms-Intro-FOSS-governance.md
+[the Integrating Open Source and Agile Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/integrating-oss-and-agile.md
+[chapter 6 in the FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/06-FOSS-Terms-Intro-public-sector-specialties.md

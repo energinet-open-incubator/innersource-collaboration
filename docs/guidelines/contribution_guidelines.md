@@ -114,7 +114,7 @@ Issues are meant for discussing specific, closed-form ideas or details of a proj
 To create an issue in this repository, navigate to the "Issues" tab within the repository, and click on the green button in the upper right corner, "New Issue", or click here: [Issue Templates]. 
 Then, a number of issue templates to choose from appears:
 
-<img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_issue_templates.png" width="90%"/>
+<img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/contribution_issue_templates.png" width="90%"/>
 
 In Github, there are some helping features that apply to all issues, shown and described in the following table.
 
@@ -226,7 +226,7 @@ If you want to create a new file, or make changes to an existing file, you must 
 
 1. Navigating to a relevant location for your new file, and click on "Add file" and then "Create new file" in the drop-down menu. Give the file a title (remember to add ".md" if you want to create a Markdown file), and fill in the file with your content. 
 
-  <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_create_new_file.png" width="30%"/>
+  <img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/contribution_create_new_file.png" width="30%"/>
 
 2. Navigating to the [Pull Request Templates] and find a relevant template for your pull request. This is relevant if you want to create 1. a Request for Comments ([RFC]), or 2. a [Meeting Minutes].
 
@@ -238,7 +238,7 @@ If you want to create a new file, or make changes to an existing file, you must 
  
 3. Navigating to the location of the file you want to modify, click on the file, and then click on the "✏️" in the upper right corner of the file. 
 
-   <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_edit_file.png" width="90%"/>
+   <img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/contribution_edit_file.png" width="90%"/>
 
 #### Commit Message
 The commit message must be filled with the following information: 
@@ -327,7 +327,7 @@ To ensure that the meeting runs smoothly, three meeting participants will be ass
 - Scribe
   - The scribe writes down key points during the meeting by adding them to the meeting minutes pull request, that the scheduler created. 
   
-More information about the three roles is provided [here](https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/meeting_roles.md). 
+More information about the three roles is provided [here](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/meeting_roles.md). 
 
 _Agenda_: 
 This part of the document must be filled in with agenda points to go through in the meeting. Some suggested agenda points are added to the template, but can be modified as the scheduler sees fit. 
@@ -383,13 +383,13 @@ The collaborative Project boards are set up with a specific layout intended to m
 #### Board View
 The boards has a backlog/Scrum-board style view, with status columns. The boards additionally has a _"By Priority"_ list-view, sorting issues according to a `priority` attribute, that must be specified manually for each issue. Participants of this repository can use views as they like, or alternatively create new views in the boards if they want to, by clicking "+ New View" in the upper right corner of the view tabs. 
   
-<img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects_new_view.png" width="70%"/>
+<img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/projects_new_view.png" width="70%"/>
 
 **Note**: 
 - Issues can only be sorted according to certain attributes specified by the creator of the Project board, who, including the [Trusted Committer]s, are the only ones with the access to change/add to these attributes. If you want to add a new attribute, you should post your suggestion in [Discussions]. 
 - Remember to save your new view, by clicking the small arrow with the blue dot, and click "Save changes". 
     
-  <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_save_view.png" width="30%"/>
+  <img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/contribution_save_view.png" width="30%"/>
   
 #### Card Columns
 There are four columns in the Backlog project boards:
@@ -403,7 +403,7 @@ There are four columns in the Backlog project boards:
 ### Draft issues 
 In the Project boards, it is possible to use the "draft issue" feature, by clicking on the "+ New Item" in the bottom of a column.
 
-<img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/projects_add_card.png" width="70%"/>
+<img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/projects_add_card.png" width="70%"/>
   
 The draft issues should only be used with the purpose of informing the community of certain work that needs to be done, or link to relevant background information, but that is not further defined, and that you haven't started working on yet. It is highly encouraged to use the discussions forum instead, for ideas that need to be refined, or creating an actual issue for well-defined tasks, to allow for interaction in the issue, which is otherwise not possible in the "draft" mode.  
 
@@ -454,7 +454,7 @@ When you reach your answering deadline you should
 2. Add a comment stating that the deadline is reached and select "Close with comment". 
     - You also have the option to "Close as outdated" if your poll is not relevant anymore, or "Close as duplicate" if you find that someone else made a poll on the same topic
 
-    <img src="https://github.com/project-origin/origin-collaboration/blob/main/docs/figures/contribution_close_poll.png" width="70%"/>
+    <img src="https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/figures/contribution_close_poll.png" width="70%"/>
 
 ### Q & A
 The "Q & A" channel creates a space for the community to ask each other questions, and support each other on specific problems. 
@@ -467,19 +467,19 @@ When you mark a question as an answer, GitHub will highlight the comment and rep
 The "Show and Tell" channel is a place to highlight and praise contributions that you, or someone else have made. Make sure to mention any contributors of the feature that you want to highlight in your discussion post. 
 
 <!-- Anchorlink style -->
-[Pull Request]: https://github.com/project-origin/origin-collaboration/pulls 
-[Discussions]: https://github.com/project-origin/origin-collaboration/discussions
-[Issues]: https://github.com/project-origin/origin-collaboration/issues
-[Issue Templates]: https://github.com/project-origin/origin-collaboration/issues/new/choose
-[Projects]: https://github.com/project-origin/origin-collaboration/projects?query=is%3Aopen
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
-[Pull Request Templates]: https://github.com/project-origin/origin-collaboration/tree/main/pull_request_templates
-[RFC]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/rfc.md
-[Meeting Minutes]: https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes
-[Trusted Committer of this repository]: https://github.com/project-origin/origin-collaboration
-[Projects Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/github_guides/projects.md
-[Decision-Making Policy]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/decision_making_policy.md
-[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6
-[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
-[First Workshop in Aarhus 8.11.2022]: https://github.com/orgs/project-origin/projects/5/views/1 
-[Weekly Synchronous Sesssions]: https://github.com/project-origin/origin-collaboration#weekly-synchronous-sessions
+[Pull Request]: https://github.com/energinet-open-incubator/origin-collaboration/pulls 
+[Discussions]: https://github.com/energinet-open-incubator/origin-collaboration/discussions
+[Issues]: https://github.com/energinet-open-incubator/origin-collaboration/issues
+[Issue Templates]: https://github.com/energinet-open-incubator/origin-collaboration/issues/new/choose
+[Projects]: https://github.com/energinet-open-incubator/origin-collaboration/projects?query=is%3Aopen
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Pull Request Templates]: https://github.com/energinet-open-incubator/origin-collaboration/tree/main/pull_request_templates
+[RFC]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/rfc.md
+[Meeting Minutes]: https://github.com/energinet-open-incubator/origin-collaboration/tree/main/meeting_minutes
+[Trusted Committer of this repository]: https://github.com/energinet-open-incubator/origin-collaboration
+[Projects Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/github_guides/projects.md
+[Decision-Making Policy]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/decision_making_policy.md
+[Project-Origin Backlog]: https://github.com/orgs/energinet-open-incubator/projects/6
+[Collaboration Platform Backlog]: https://github.com/orgs/energinet-open-incubator/projects/2/views/1
+[First Workshop in Aarhus 8.11.2022]: https://github.com/orgs/energinet-open-incubator/projects/5/views/1 
+[Weekly Synchronous Sesssions]: https://github.com/energinet-open-incubator/origin-collaboration#weekly-synchronous-sessions

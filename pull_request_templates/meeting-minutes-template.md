@@ -1,7 +1,7 @@
 
 # Do these things to set up this document 
 
-Find the complete to-do list for the scheduler here: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler. 
+Find the complete to-do list for the scheduler here: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler. 
 
 In summary: 
 
@@ -101,18 +101,18 @@ Put assignments here in the following format:
 
 <!-- Anchorlinks -->
 
-[Project-Origin Backlog]: https://github.com/orgs/project-origin/projects/6/views/1
-[Collaboration Platform Backlog]: https://github.com/orgs/project-origin/projects/2/views/1
+[Project-Origin Backlog]: https://github.com/orgs/energinet-open-incubator/projects/6/views/1
+[Collaboration Platform Backlog]: https://github.com/orgs/energinet-open-incubator/projects/2/views/1
 [Energinet Open Incubator Backlog]: https://github.com/orgs/energinet-open-incubator/projects/1/views/1
 
-[Scheduler]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
-[Facilitator]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
-[Scribe]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
+[Scheduler]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scheduler
+[Facilitator]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#facilitator
+[Scribe]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/roles.md#scribe
 
 [Open Incubator organization]: https://github.com/energinet-open-incubator
 [Assignments]: #assignments
 
 <!-- Helping links for Scribe notes to link to issues reviewed during meeting. Just write [#issue-number](helping-link-here/issue-number) -->
 
-<!-- https://github.com/project-origin/origin-collaboration/issues/ -->
+<!-- https://github.com/energinet-open-incubator/origin-collaboration/issues/ -->
 <!-- https://github.com/energinet-open-incubator/incubator-open-source-ressources/issues/ -->

@@ -64,4 +64,4 @@ The Product Owner role determines which functionalities can be accepted as a con
 
 
 <!-- Anchorlink style -->
-[FOSS Terms Guide]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md
+[FOSS Terms Guide]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md

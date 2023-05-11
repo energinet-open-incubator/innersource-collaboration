@@ -87,7 +87,7 @@ If [the Trusted Committer] doesn't receive any responses from the Contributor in
 
 ## Pull requests 
 Everyone in the community can [create a Pull Request], or add reviews, comments, and suggestions to existing [Pull Requests]. 
-The process for _merging_ pull requests follows the [InnerSource approach]https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#what-is-the-working-process-using-the-three-roles), where the decision of which and when pull requests get merged belongs to the [Trusted Committer]. 
+The process for _merging_ pull requests follows the [InnerSource approach]https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#what-is-the-working-process-using-the-three-roles), where the decision of which and when pull requests get merged belongs to the [Trusted Committer]. 
 
 #### _Timeframe_
 To ensure quick merge turnarounds, the merging process for pull requests generally follows a [lazy consensus] approach, which means that community members not reacting to a pull request give their silent consent. 
@@ -157,35 +157,35 @@ Sometimes a working group (e.g., in one of the [Weekly Synchronous Sessions]) ca
 
 <!-- Anchorlinks --> 
 
-[Trusted Committer]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
-[Contribution Guidelines]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md
+[Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-trusted-committer
+[Contribution Guidelines]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md
 [lazy consensus]: https://community.apache.org/committers/lazyConsensus.html
-[create a Pull Request]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#creating-a-pull-request
-[create an Issue]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#issues
+[create a Pull Request]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#creating-a-pull-request
+[create an Issue]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#issues
 
 
-[Pull Requests]: https://github.com/project-origin/origin-collaboration/pulls
-[Issues]: https://github.com/project-origin/origin-collaboration/issues
-[Discussions]: https://github.com/project-origin/origin-collaboration/discussions
+[Pull Requests]: https://github.com/energinet-open-incubator/origin-collaboration/pulls
+[Issues]: https://github.com/energinet-open-incubator/origin-collaboration/issues
+[Discussions]: https://github.com/energinet-open-incubator/origin-collaboration/discussions
 
-[General]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#general
-[Announcements]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#announcements
-[Ideas]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#ideas
-[Polls]: https://github.com/project-origin/origin-collaboration/discussions/categories/polls
-[Q & A]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#q--a
-[Show and Tell]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#show-and-tell
+[General]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#general
+[Announcements]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#announcements
+[Ideas]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#ideas
+[Polls]: https://github.com/energinet-open-incubator/origin-collaboration/discussions/categories/polls
+[Q & A]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#q--a
+[Show and Tell]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#show-and-tell
 
-[default option]: https://github.com/project-origin/origin-collaboration/issues
-[Weekly Synchronous Sessions]: https://github.com/project-origin/origin-collaboration#weekly-synchronous-sessions
-[Code of Conduct]: https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md
-[issue templates]: https://github.com/project-origin/origin-collaboration/issues/new/choose
-[Contributor]: https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
-[the Trusted Committer]: https://github.com/project-origin/origin-collaboration#need-any-help
+[default option]: https://github.com/energinet-open-incubator/origin-collaboration/issues
+[Weekly Synchronous Sessions]: https://github.com/energinet-open-incubator/origin-collaboration#weekly-synchronous-sessions
+[Code of Conduct]: https://github.com/energinet-open-incubator/.github/blob/main/CODE_OF_CONDUCT.md
+[issue templates]: https://github.com/energinet-open-incubator/origin-collaboration/issues/new/choose
+[Contributor]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md#the-contributor
+[the Trusted Committer]: https://github.com/energinet-open-incubator/origin-collaboration#need-any-help
 
-[Task]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#task
-[Feature Request]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#feature-request
-[Bug Report]: https://github.com/project-origin/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#bug-report
+[Task]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#task
+[Feature Request]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#feature-request
+[Bug Report]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/guidelines/contribution_guidelines.md#bug-report
 
-[Request for Comments]: https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/rfc.md
-[Meeting Minutes template]: https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md
-[Request for Comments template]: https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/rfc_template.md
+[Request for Comments]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/rfc.md
+[Meeting Minutes template]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md
+[Request for Comments template]: https://github.com/energinet-open-incubator/origin-collaboration/blob/main/pull_request_templates/rfc_template.md
