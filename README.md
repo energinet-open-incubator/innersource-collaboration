@@ -1,12 +1,12 @@
 # Origin-Collaboration
-Hi there, and welcome! This is our private repository to work in, for all us members in the partnership between Mjølner, Alesandra Institute, Concordium and Energinet.
+Hi there, and welcome! This is our private repository to work in, for all us members in the partnership between [Mjølner Informatics](https://mjolner.dk/en/), [Alexandra Institute](https://alexandra.dk/about-the-alexandra-institute/), [Concordium](https://concordium.com/) and [Energinet](https://en.energinet.dk/).
 
-The purpose of this repository is to create a space for us to build structures and processes to use in our collaboration and to get practice in digital, asynchronous collaboration, beyond software development. This repository contains documents and tasks that are directly related to our internal collaboration, which is why it is set to private. Everything specifically related to the software development, directly relevant to an open community is instead located in the open, public repository [registry](https://github.com/project-origin/registry). 
+The purpose of this repository is to create a space for us to build structures and processes to use in our collaboration and to get practice in digital, asynchronous collaboration, beyond software development. This repository contains documents and tasks that are directly related to our internal collaboration, which is why it is set to private. Everything specifically related to the software development, directly relevant to an open community is instead located in the open, public repository [registry](https://github.com/energinet-open-incubator/registry). 
 
 Below, some information and links are provided to help navigate around the repository, and to help you to start collaborating here on Github!
 
 ## Need any help? 
-If you have a problem or if you cannot find certain information anywhere, you can ask a question in the [Q&A Discussion Forum](https://github.com/project-origin/origin-collaboration/discussions/categories/q-a). People, who may have the same problem, can then find help in your discussion post later on. Alternatively, reach out to this repository's Trusted Committer, [@lauranolling](mailto:lau@energinet.dk), who will get back to you as soon as possible. 
+If you have a problem or if you cannot find certain information anywhere, you can ask a question in the [Q&A Discussion Forum](https://github.com/energinet-open-incubator/origin-collaboration/discussions/categories/q-a). People, who may have the same problem, can then find help in your discussion post later on. Alternatively, reach out to this repository's Trusted Committer, [@lauranolling](mailto:lau@energinet.dk), who will get back to you as soon as possible. 
 
 &nbsp;
 
@@ -20,26 +20,26 @@ Please consult the following guidelines and policies for information about rules
 - [Code of Conduct](https://github.com/project-origin/.github/blob/main/CODE_OF_CONDUCT.md)
 
 #### Trusted Committer
-In the Origin-Collaboration repository, @lauranolling currently acts as the Trusted Committer. In this repository, the Trusted Committer is effectively a combination of the [InnerSource Trusted Committer and Product Owner](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md). 
+In the Origin-Collaboration repository, @lauranolling currently acts as the Trusted Committer. In this repository, the Trusted Committer is effectively a combination of the [InnerSource Trusted Committer and Product Owner](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md). 
 
 ### Weekly Online Synchronous Sessions
 A small working group in Energinet has found it valuable to have weekly meetings, synchronous sessions, where the group goes through open issues in Project-Origin. If any attendee wants to discuss a specific matter, they can add a point to the agenda of the upcoming session, and the group will address the matter then. 
 
-If you are interested in the topics and progress of previous weekly synchronous sessions, you can take a look at [this folder](https://github.com/project-origin/origin-collaboration/tree/main/meeting_minutes), where summaries for the meetings are uploaded.
+If you are interested in the topics and progress of previous weekly synchronous sessions, you can take a look at [this folder](https://github.com/energinet-open-incubator/origin-collaboration/tree/main/meeting_minutes), where summaries for the meetings are uploaded.
 
 **Note: from 23-03-2023 these weekly's are carried out from an [Energinet Open Incubator](https://github.com/energinet-open-incubator) context instead, but still treating open source aspects of Project-Origin**
 
 ### Online Meeting Minutes Template
-If you are going to set up online meetings in Project-Origin, feel free to use the [Meeting Minutes Template](https://github.com/project-origin/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md) if you find it helpful.  
+If you are going to set up online meetings in Project-Origin, feel free to use the [Meeting Minutes Template](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/pull_request_templates/meeting-minutes-template.md) if you find it helpful.  
 
 ### Synchronous Partner Meetings
 Besides working on Github, the partnership carries out longer-duration physical partner meetings. These meetings are not fixed-date meetings, but will rather be planned when the partnership finds the need for one. So far, the partner meetings include workshops and implementer days. 
 
 #### Workshops
-The workshops treat both technical and business topics related to Project-Origin. These workshops are mostly used to do the bigger-picture long-term planning of Project-Origin. The results from the workshops will be available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes). 
+The workshops treat both technical and business topics related to Project-Origin. These workshops are mostly used to do the bigger-picture long-term planning of Project-Origin. The results from the workshops will be available [here](https://github.com/energinet-open-incubator/registry/tree/main/meeting_minutes). 
 
 #### Implementer Days
-Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/project-origin/registry/tree/main/meeting_minutes).
+Technically oriented partner meetings, where the implementation group meets physically, and goes through their progress, pull requests and related topics. Meeting minutes for the implementer days are available [here](https://github.com/energinet-open-incubator/registry/tree/main/meeting_minutes).
 
 &nbsp;
 
@@ -48,29 +48,29 @@ Technically oriented partner meetings, where the implementation group meets phys
 ### Introductory Guides
 If this is your first time participating in a FOSS project, you should start with the documents listed below. 
 
-- [Free Open Source Software (FOSS) Terms Guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md)
-- [Working Asynchronously](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/acting_in_asynchronous_environments.md)
-- [Introduction on FOSS Product Management](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/introsuggestions-fosspm.md)
-- [FOSS Myths](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/foss-myths.md)
-- [InnerSource Roles in an Open Collaboration](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md)
-- [Combining OSS and Agile Work Structures](https://github.com/project-origin/origin-collaboration/blob/main/docs/introductory/integrating-oss-and-agile.md)
+- [Free Open Source Software (FOSS) Terms Guide](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/FOSS-terms-guide/01-FOSS-Terms-Intro-TOC.md)
+- [Working Asynchronously](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/acting_in_asynchronous_environments.md)
+- [Introduction on FOSS Product Management](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/introsuggestions-fosspm.md)
+- [FOSS Myths](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/foss-myths.md)
+- [InnerSource Roles in an Open Collaboration](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/innersource-short-role-descriptions.md)
+- [Combining OSS and Agile Work Structures](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/introductory/integrating-oss-and-agile.md)
 
 
 If you haven't worked on Github before, or if you need a refresher on how Github works, take a look at the following guides:
 
-- [Navigating on Github](https://github.com/project-origin/origin-collaboration/blob/main/docs/github_guides/navigation.md)
-- [Github Issues](https://github.com/project-origin/origin-collaboration/blob/main/docs/github_guides/issue_trackers.md)
-- [Github Projects](https://github.com/project-origin/origin-collaboration/blob/main/docs/github_guides/projects.md)
-- [Github Pull Requests](https://github.com/project-origin/origin-collaboration/blob/main/docs/github_guides/pull_requests.md)
+- [Navigating on Github](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/github_guides/navigation.md)
+- [Github Issues](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/github_guides/issue_trackers.md)
+- [Github Projects](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/github_guides/projects.md)
+- [Github Pull Requests](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/github_guides/pull_requests.md)
 
 ### Addtitional Reading 
 If you want to dive deeper into how to succesfully run a FOSS project and work in open source environments, you should take a look at the guides listed below.
 
-- [Success Indicators in FOSS](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/FOSS-common-success-criteria.md)
-- [FOSS Leading Principles](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/leading-principles.md). 
-- [FOSS Strategy Guide](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md)
-- [Using RFCs in Open-Source Projects](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/rfc.md)
-- [Legal Memo on Energinets use of Open Source](https://github.com/project-origin/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md)
+- [Success Indicators in FOSS](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/FOSS-common-success-criteria.md)
+- [FOSS Leading Principles](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/leading-principles.md). 
+- [FOSS Strategy Guide](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/07-FOSS-Terms-Intro-FOSS-strategy.md)
+- [Using RFCs in Open-Source Projects](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/rfc.md)
+- [Legal Memo on Energinets use of Open Source](https://github.com/energinet-open-incubator/origin-collaboration/blob/main/docs/additional_reading/legal_memo/legal_memo_README.md)
 
 
 
