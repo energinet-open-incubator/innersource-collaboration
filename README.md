@@ -1,5 +1,5 @@
 # Origin-Collaboration
-Hi there, and welcome! This is our private repository to work in, for all us members in the partnership between Mjølner, Alesandra Institute, Concordium and Energinet.
+Hi there, and welcome! This is our private repository to work in, for all us members in the partnership between Mjølner, Alexandra Institute, Concordium and Energinet.
 
 The purpose of this repository is to create a space for us to build structures and processes to use in our collaboration and to get practice in digital, asynchronous collaboration, beyond software development. This repository contains documents and tasks that are directly related to our internal collaboration, which is why it is set to private. Everything specifically related to the software development, directly relevant to an open community is instead located in the open, public repository [registry](https://github.com/energinet-open-incubator/registry). 
 
